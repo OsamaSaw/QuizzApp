@@ -1,0 +1,1156 @@
+
+{
+  "questions":[
+    {
+      "q":"The following are signs of life in live births except",
+      "A":"Heartbeat",
+      "B":"Voluntary muscle movement",
+      "C":"Pulsation of the umbilical cord",
+      "D":"None of the above",
+      "answer":"D",
+      "explanation":"Heartbeat, breathing, voluntary muscle movements, pulsation of the umbilical cord are all signs of life in live births"
+    },
+    {
+      "q":"Stillborn is described as",
+      "A":"Fetus that shows at least one sign of life",
+      "B":"Fetus without any sign of life and weighs <1000g",
+      "C":"Fetus without any sign of life and weighs ≥1000g",
+      "D":"All of the above",
+      "answer":"C",
+      "explanation":"A fetus without any sign of life and weight ≥1000g is considered stillborn, while a fetus without any sign of life weighing <1000g is termed an abortus."
+    },
+    {
+      "q":"APGAR score. Which is correct",
+      "A":"Scores at 5, 10, 15, and 20 minutes may signal the need for resuscitation",
+      "B":"1-minute APGAR indicates probability of successful resuscitation of the newborn",
+      "C":"APGAR score combined with umbilical artery blood pH are strong predictors of neonatal death.",
+      "D":"All of the above",
+      "answer":"C",
+      "explanation":"APGAR score combined with umbilical artery blood pH are strong predictors of neonatal death. 1-minute APGAR score signals the need for resuscitation, while scores at 5, 15, and 20 minutes may indicate the probability of successful resuscitation."
+    },
+    {
+      "q":"Which of the following APGAR scores indicates presence of moderate asphyxia",
+      "A":"0-3",
+      "B":"4-6",
+      "C":"7 and above",
+      "D":"5 and above",
+      "answer":"B",
+      "explanation":"An APGAR score of 4-6 indicates moderate asphyxia, while scores of 0-3 indicate severe asphyxia and 7 and above indicate vigorous infants without asphyxia."
+    },
+    {
+      "q":"The following factors affect APGAR score",
+      "A":"Immaturity",
+      "B":"Congenital neuropathy",
+      "C":"Spinal cord injury",
+      "D":"All of the above",
+      "answer":"D",
+      "explanation":"Factors affecting APGAR score include immaturity, spinal cord injury, analgesics, congenital neuropathy, and myopathy."
+    },
+    {
+      "q":"One of the following gestational ages indicates preterm",
+      "A":"38-41 weeks GA",
+      "B":"Less than 37 weeks GA",
+      "C":">42 weeks GA",
+      "D":"None of the above",
+      "answer":"B",
+      "explanation":"Gestational age less than 37 weeks is considered preterm. Term births occur between 38 to 41 weeks GA, and greater than 42 weeks GA is post-term."
+    },
+    {
+      "q":"The following are etiologies of preterm infants",
+      "A":"Fetal distress",
+      "B":"Multiple gestation",
+      "C":"Completed antenatal care",
+      "D":"Pre eclampsia",
+      "answer":"C",
+      "explanation":"Completed antenatal care is not an etiology or risk factor for preterm infants; rather, it reduces the risk."
+    },
+    {
+      "q":"Preterm infants present with the following",
+      "A":"Respiratory distress syndrome",
+      "B":"Vitamin K deficiency",
+      "C":"Necrotizing enterocolitis",
+      "D":"All of the above",
+      "answer":"D",
+      "explanation":"Preterm infants often present with multisystemic clinical manifestations, including respiratory distress syndrome, vitamin K deficiency, necrotizing enterocolitis, among others."
+    },
+    {
+      "q":"Nursery care in the management of prematurity includes",
+      "A":"Oxygen therapy",
+      "B":"Removal of parents in the care of the baby",
+      "C":"Thermal control",
+      "D":"Infection control",
+      "answer":"B",
+      "explanation":"Nursery care for premature infants involves active involvement of parents in the care process, along with oxygen therapy, thermal control, feeding, and infection control."
+    },
+    {
+      "q":"The following are metabolic presentations in prematurity except",
+      "A":"Hypocalcemia",
+      "B":"Metabolic acidosis",
+      "C":"Hyperthermia",
+      "D":"Hypoglycemia",
+      "answer":"C",
+      "explanation":"Metabolic presentations in prematurity include hypocalcemia, metabolic acidosis, and hypoglycemia. Hyperthermia is not typically observed in premature infants."
+    },
+    {
+      "q":"Which of the following is not a factor affecting growth and development",
+      "A":"Environmental factors",
+      "B":"Malposition in the uterus",
+      "C":"Diabetic mothers",
+      "D":"None of the above",
+      "answer":"D",
+      "explanation":"Factors affecting growth and development include hereditary factors, environmental influences, malposition in the uterus, maternal health conditions such as diabetes, among others."
+    },
+    {
+      "q":"Which of the following describes the neonatal stage",
+      "A":"Between age 0-8 weeks",
+      "B":"Between 8-40 or 42 weeks",
+      "C":"Between 1 month-1 year",
+      "D":"Between birth- end of 1 month",
+      "answer":"D",
+      "explanation":"The neonatal stage encompasses the period from birth to the end of the first month of life. It is followed by the infancy stage, which spans from 1 month to the end of 1 year."
+    },
+    {
+      "q":"Which is correct regarding growth in infancy",
+      "A":"Growth in infancy is dependent on growth hormone",
+      "B":"Growth in the infancy period is nutrition dependent",
+      "C":"It is the period with the lowest growth velocity",
+      "D":"None of the above",
+      "answer":"B",
+      "explanation":"Growth in the infancy period is primarily dependent on nutrition (e.g., insulin, thyroid) rather than growth hormone. Additionally, infancy is characterized by the highest growth velocity, not the lowest."
+    },
+    {
+      "q":"Which is correct about childhood growth",
+      "A":"Childhood growth phase starts from 6 -12 months & continues till puberty",
+      "B":"It is independent of hormones",
+      "C":"It is nutrition dependent",
+      "D":"None of the above",
+      "answer":"A",
+      "explanation":"Childhood growth phase starts from 6 -12 months and continues until puberty. It is under hormonal control (e.g., GH-IGF-1, thyroid hormone, insulin) and is influenced by nutrition. Infancy stage is primarily nutrition dependent."
+    },
+    {
+      "q":"Age of puberty in girls",
+      "A":"5-10",
+      "B":"8-13",
+      "C":"9-14",
+      "D":"18-20",
+      "answer":"B",
+      "explanation":"Puberty typically occurs between 8 and 13 years of age in girls, and between 9 and 14 years of age in boys."
+    },
+    {
+      "q":"A girl is said to be in Tanner 3 stage of breast development. What will you expect to see in this stage",
+      "A":"Breast bud stage. Elevation of the breast and papilla as a small mound. Enlargement of the areola diameter",
+      "B":"Projection of the areola and papilla to form a secondary mound above the level of the breast.",
+      "C":"Further enlargement and elevation of the breast and areola, with no separation of their contours.",
+      "D":"Elevation of the papilla only",
+      "answer":"C",
+      "explanation":"Tanner stage 3 of breast development is characterized by further enlargement and elevation of the breast and areola, with no separation of their contours."
+    },
+    {
+      "q":"The following hormone is not involved in the puberty growth phase",
+      "A":"Thyroid hormone",
+      "B":"Growth hormone",
+      "C":"Insulin",
+      "D":"None of the above",
+      "answer":"D",
+      "explanation":"Gonadotropin Releasing Hormone, Gonadotropins (FSH & LH), Growth Hormone, Insulin-like Growth Factor 1 (IGF1), Gonadal Steroids, Insulin, Leptin are all involved in the pubertal growth phase."
+    },
+    {
+      "q":"Sparse growth of slightly pigmented downy hair chiefly at the base of the penis is the presentation of what pubic hair Tanner stage in boys",
+      "A":"Stage 1",
+      "B":"Stage 2",
+      "C":"Stage 3",
+      "D":"Stage 4",
+      "answer":"B",
+      "explanation":"Tanner Stage 2 is characterized by sparse growth of slightly pigmented downy hair chiefly at the base of the penis."
+    },
+    {
+      "q":"The following are risk factors of hyperbilirubinemia",
+      "A":"Cephalhematoma or significant bruising",
+      "B":"Term babies",
+      "C":"Previous sibling received phototherapy",
+      "D":"Prematurity",
+      "answer":"B",
+      "explanation":"Term babies are not at an increased risk of hyperbilirubinemia."
+    },
+    {
+      "q":"Most common causes of unconjugated hyperbilirubinemia in Nigeria include all",
+      "A":"ABO incompatibility",
+      "B":"G6PD deficiency",
+      "C":"Infection",
+      "D":"All of the above",
+      "answer":"D",
+      "explanation":"Common causes of unconjugated hyperbilirubinemia in Nigeria include ABO incompatibility, G6PD Deficiency, and infection, among others."
+    },
+    {
+      "q":"Causes of Jaundice in the first 24 hours include",
+      "A":"Erythroblastosis fetalis",
+      "B":"Congenital infection such as CMV, rubella",
+      "C":"Hemolysis",
+      "D":"All of the above",
+      "answer":"D",
+      "explanation":"Causes of jaundice in the first 24 hours of life include erythroblastosis fetalis, congenital infections (e.g., CMV, rubella), and hemolysis, among others."
+    },
+    {
+      "q":"Which is incorrect about the clinical manifestations of jaundice",
+      "A":"Jaundice may be present at birth or may appear at any time during the neonatal period, depending on etiology",
+      "B":"Dermal pressure may reveal the anatomic progression of jaundice (face = 5 mg/dL; nipple line = 10mg/dL; mid-abdomen = 15 mg/dL; soles = 20 mg/dL)",
+      "C":"Whereas jaundice from deposition of indirect bilirubin in the skin tends to appear bright yellow or orange, jaundice of the obstructive type (direct bilirubin) has a greenish or muddy yellow cast.",
+      "D":"None of the above",
+      "answer":"D",
+      "explanation":"All statements are correct regarding the clinical manifestations of jaundice."
+    },
+    {
+      "q":"What is the primary treatment option of jaundice",
+      "A":"IV immunoglobulin",
+      "B":"Phototherapy",
+      "C":"Phenobarbital",
+      "D":"None of the above",
+      "answer":"B",
+      "explanation":"Phototherapy and, if unsuccessful, exchange transfusion remain the primary treatment modalities used to keep the maximal total serum bilirubin below the pathologic levels."
+    },
+    {
+      "q":"The following are complications of phototherapy",
+      "A":"Dehydration",
+      "B":"Constipation",
+      "C":"Erythematous macular rash",
+      "D":"Overheating (hyperthermia)",
+      "answer":"B",
+      "explanation":"Constipation is a complication of phototherapy, not loose stool. Other complications include erythematous macular rash, purpuric rash associated with transient porphyrinemia, overheating (hyperthermia), and dehydration (increased insensible water loss, diarrhea)."
+    },
+    {
+      "q":"The following are criteria for SIRS",
+      "A":"Leukocyte count elevated or depressed for age",
+      "B":"Core temperature (oral, rectal, bladder, or central catheter) >38.50C or <360C",
+      "C":"Respiratory rate >2 SD above normal for age",
+      "D":"All of the above",
+      "answer":"D",
+      "explanation":"SIRS is defined as two out of four of the following criteria, one of which MUST be abnormal temperature or an abnormal leucocyte count. Respiratory rate >2 SD above normal for age and tachycardia or bradycardia are also criteria for SIRS."
+    },
+    {
+      "q":"Severe sepsis is characterized as",
+      "A":"Sepsis with one organ damage",
+      "B":"Sepsis with no end organ damage",
+      "C":"Sepsis plus 2 or more organ dysfunction",
+      "D":"None of the above",
+      "answer":"C",
+      "explanation":"Severe sepsis is defined as sepsis plus 2 or more organ dysfunctions (respiratory, renal, neurologic, hematologic, or hepatic) OR sepsis plus either cardiovascular dysfunction or Acute Respiratory Distress Syndrome (ARDS)."
+    },
+    {
+      "q":"The following are risk factors of neonatal sepsis",
+      "A":"Normal term vaginal delivery",
+      "B":"Premature rupture of membrane",
+      "C":"Maternal chorioamnionitis Colonization with GBS",
+      "D":"Low APGAR score",
+      "answer":"A",
+      "explanation":"Risk factors of neonatal sepsis include premature rupture of membrane (PROM) occurring ≥ 18 hours before birth, maternal chorioamnionitis, colonization with GBS, preterm delivery, prolonged/difficult delivery, instrumental delivery, and low APGAR score."
+    },
+    {
+      "q":"All are clinical manifestations of neonatal sepsis",
+      "A":"Vomiting",
+      "B":"Normal feeding",
+      "C":"Seizures",
+      "D":"Diarrhea",
+      "answer":"B",
+      "explanation":"Less vigorous sucking/poor feeding is a feature of neonatal sepsis, not normal feeding. Other presentations include diminished spontaneous activity, vomiting, diarrhea, abdominal distention, jitteriness, seizures, skin rash. Non-specific signs include lethargy, apnea, bradycardia, temperature instability, respiratory distress, and jaundice."
+    },
+    {
+      "q":"The World Health Organization identified clinical signs that should prompt neonatal referral to a hospital include",
+      "A":"Difficulty feeding",
+      "B":"Convulsion",
+      "C":"Respiratory rate <25cpm",
+      "D":"Cyanosis",
+      "answer":"C",
+      "explanation":"Clinical signs that should prompt neonatal referral to a hospital according to the World Health Organization include difficulty feeding, convulsions, movement only when stimulated, respiratory rate >60 per min, severe chest in drawing, axillary temperature >37.5 °C or <35.5 °C, cyanosis, and grunting."
+    },
+    {
+      "q":"Which of the following investigation is diagnostic of neonatal sepsis",
+      "A":"Full blood count",
+      "B":"X-ray",
+      "C":"Culture",
+      "D":"Peripheral blood film",
+      "answer":"C",
+      "explanation":"Culture is the diagnostic investigation for neonatal sepsis. A finding of ≥ 5 white blood cells/high-power field in the spun urine or any organisms in a fresh unspun gram-stained sample is presumptive evidence of a urinary tract infection (UTI). Chest x-ray should be performed in neonates with respiratory symptoms."
+    },
+    {
+      "q":"Which is incorrect regarding the management of neonatal sepsis",
+      "A":"Duration of IV therapy should be a minimum of 5-7 days",
+      "B":"When meningitis is present, a total course of 11 days intravenous therapy is recommended.",
+      "C":"Initial therapy should include ampicillin plus an aminoglycoside",
+      "D":"Cefotaxime may be added to or substituted for the aminoglycoside if meningitis caused by a gram-negative organism is suspected.",
+      "answer":"B",
+      "explanation":"When meningitis is present, the course of therapy recommended increases to 21 days, not 11 days."
+    },
+    {
+      "q": "Preventive measures for neonatal sepsis include:",
+      "A": "GBS prophylaxis",
+      "B": "Exclusive breastfeeding",
+      "C": "Antibiotics from PROM",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Preventive measures for neonatal sepsis include good antenatal care, GBS prophylaxis (e.g., penicillin, ampicillin, or cefazolin given"
+    },
+    {
+      "q":"The following are features of moderately severe perinatal asphyxia",
+      "A":"Absent neonatal reflexes",
+      "B":"Lethargy",
+      "C":"Significant hypotonia",
+      "D":"Seizure may occur within 24hours of life",
+      "answer":"A",
+      "explanation":"Absent neonatal reflexes are a feature of SEVERE perinatal asphyxia, not moderately severe asphyxia."
+    },
+    {
+      "q":"The following are predisposing factors of perinatal asphyxia",
+      "A":"PROM",
+      "B":"Preeclampsia",
+      "C":"Prematurity",
+      "D":"All of the above",
+      "answer":"D",
+      "explanation":"PROM, preeclampsia, prematurity, eclampsia, abruptio placenta, placenta previa, macrosomia, and post-maturity are all predisposing factors of perinatal asphyxia."
+    },
+    {
+      "q":"The expected height of a 1-year-old term baby is",
+      "A":"50cm",
+      "B":"65cm",
+      "C":"75cm",
+      "D":"85cm",
+      "answer":"C",
+      "explanation":"The expected height of a 1-year-old term baby is 75cm."
+    },
+    {
+      "q":"What is the adequate caloric requirement of a 6-month-old",
+      "A":"115 kcal/kg/d",
+      "B":"110 kcal/kg/d",
+      "C":"100 kcal/kg/d",
+      "D":"None of the above",
+      "answer":"B",
+      "explanation":"The adequate caloric requirement of a 6-month-old is 110 kcal/kg/d."
+    },
+    {
+      "q":"The following are benefits of breastfeeding on the child",
+      "A":"It is the first immunization a baby gets",
+      "B":"It contains the adequate nutrients in the right proportion.",
+      "C":"It improves bond between mother and child.",
+      "D":"All of the above",
+      "answer":"D",
+      "explanation":"Breastfeeding provides numerous benefits to the child, including being the first immunization, containing adequate nutrients, and improving the bond between mother and child."
+    },
+    {
+      "q":"Which is incorrect about breastfeeding",
+      "A":"WHO recommends Exclusive Breast Feeding for the 1st 6months of life",
+      "B":"After 6 months alternative feeds can be introduced but breastfeeding continues for 1 year",
+      "C":"Anti-infective properties of breast milk (protects against diarrhea, respiratory/urinary infections, NEC, septicemia, meningitis)",
+      "D":"Contains Antibodies; Ig A,G,E,M. antiviral antibodies.",
+      "answer":"B",
+      "explanation":"WHO recommends exclusive breastfeeding for the first 6 months of life, followed by adequate complementary feeding while breastfeeding continues until the child is at least 2 years old."
+    },
+    {
+      "q":"Benefits of breastfeeding to the mother includes",
+      "A":"It serves as contraceptive",
+      "B":"Helps in uterine involution",
+      "C":"Reduces the risk of breast cancer",
+      "D":"All of the above",
+      "answer":"D",
+      "explanation":"Benefits of breastfeeding to the mother include serving as a contraceptive, aiding in uterine involution, and reducing the risk of breast cancer."
+    },
+    {
+      "q":"What year was EPI currently known as NPI introduced in Nigeria",
+      "A":"1974",
+      "B":"1947",
+      "C":"1979",
+      "D":"1980",
+      "answer":"C",
+      "explanation":"EPI (Expanded Programme on Immunization), currently known as NPI (National Programme on Immunization), was introduced in Nigeria in 1979."
+    },
+    {
+      "q":"Content of the pentavalent vaccine include",
+      "A":"Hemophilus influenza type B",
+      "B":"Diphtheria",
+      "C":"Hepatitis B",
+      "D":"Measles",
+      "answer":"D",
+      "explanation":"The pentavalent vaccine includes tetanus, hemophilus influenza type b, diphtheria, hepatitis B, and pertussis. Measles is not a component of the pentavalent vaccine but rather the MMR vaccine (measles, mumps, and rubella)."
+    },
+    {
+      "q":"The following vaccines are administered at birth",
+      "A":"BCG vaccine",
+      "B":"OPV-0",
+      "C":"PCV",
+      "D":"Hepatitis B",
+      "answer":"C",
+      "explanation":"PCV is not administered at birth. It is administered at 6, 10, and 14 weeks."
+    },
+    {
+      "q":"The following are contraindications of vaccines",
+      "A":"History of anaphylactic reaction",
+      "B":"History of allergic reaction to previous administration",
+      "C":"Family history of seizure disorders",
+      "D":"All of the above",
+      "answer":"D",
+      "explanation":"All of the options listed are contraindications for vaccines."
+    },
+    {
+      "q":"Vaccine failure is due to the following",
+      "A":"Well-fed baby",
+      "B":"Lack of potency",
+      "C":"Expired vaccine",
+      "D":"Wrong route of administration",
+      "answer":"A",
+      "explanation":"Vaccine failure can occur due to factors such as lack of potency, expired vaccine, or wrong route of administration. However, a well-fed baby is not a reason for vaccine failure; rather, severe malnutrition can impact vaccine effectiveness."
+    },
+    {
+      "q":"Challenges faced by immunization programs include",
+      "A":"Lack of awareness",
+      "B":"Poor accountability framework and data management",
+      "C":"Inadequate skilled personnel and equipment",
+      "D":"All of the above",
+      "answer":"D",
+      "explanation":"The challenges faced by immunization programs include lack of awareness, poor accountability framework and data management, inadequate skilled personnel and equipment, and more."
+    },
+    {
+      "q":"Which of the following is used in the measurement of mid-arm circumference",
+      "A":"Caliper",
+      "B":"Shakir’s tape",
+      "C":"Pocket tape",
+      "D":"None of the above",
+      "answer":"B",
+      "explanation":"Mid-arm circumference is measured with Shakir's tape."
+    },
+    {
+      "q":"Which is incorrect",
+      "A":"The infant weight doubles by 4-5 months",
+      "B":"The infant weight triples by 10-12 months",
+      "C":"Normal head circumference is 25-30",
+      "D":"Average height for infant boys is 50cm",
+      "answer":"C",
+      "explanation":"The normal head circumference for infants is typically between 33-35 cm."
+    },
+    {
+      "q":"At what age does the anterior fontanelle close",
+      "A":"5 months",
+      "B":"6-8 weeks",
+      "C":"3 months",
+      "D":"12-18 months",
+      "answer":"D",
+      "explanation":"The anterior fontanelle closes by 12-18 months of age."
+    },
+    {
+      "q":"Which is incorrect",
+      "A":"Anthropometry is an essential component of clinical examination of infants, children & pregnant women.",
+      "B":"It is used to identify specific nutritional deficiencies",
+      "C":"They are used to evaluate both under & overnutrition.",
+      "D":"The measured values reflect the current nutritional status & don’t differentiate between acute & chronic changes.",
+      "answer":"B",
+      "explanation":"Anthropometry is not used to identify specific nutritional deficiencies."
+    },
+    {
+      "q":"Nephrotic syndrome is characterized by",
+      "A":"Heavy proteinuria >3.5g/24 hours",
+      "B":"Hyperalbuminemia",
+      "C":"Hyperlipidemia",
+      "D":"Edema",
+      "answer":"A",
+      "explanation":"Nephrotic syndrome is characterized by heavy proteinuria, hypoalbuminemia, hyperlipidemia, and edema, not hyperalbuminemia."
+    },
+    {
+      "q":"The following drugs can cause nephrotic syndrome",
+      "A":"Gold",
+      "B":"NSAIDs",
+      "C":"Captopril",
+      "D":"All of the above",
+      "answer":"D",
+      "explanation":"Captopril, gold, NSAIDs, pamidronate, and interferon are all drugs that can lead to nephrotic syndrome."
+    },
+    {
+      "q":"Which of the following responds well to steroid therapy",
+      "A":"Membranous nephropathy",
+      "B":"Minimal change disease",
+      "C":"FSGS",
+      "D":"None of the above",
+      "answer":"B",
+      "explanation":"Minimal change disease responds well to steroid therapy."
+    },
+    {
+      "q": "Clinical presentations of nephrotic syndrome includes",
+      "A": "Peri-orbital puffiness",
+      "B": "Ascites",
+      "C": "Generalized edema",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Nephrotic syndrome can present with peri-orbital puffiness, ascites, and generalized edema."
+    },
+    {
+      "q": "Which is correct regarding investigations in nephrotic syndrome",
+      "A": "ANA is elevated",
+      "B": "Serum compliments C3 are high",
+      "C": "Serum cholesterol <200mg/dl",
+      "D": "All of the above",
+      "answer": "A",
+      "explanation": "In nephrotic syndrome, ANA (Antinuclear antibodies) may be elevated among other findings such as proteinuria, low serum albumin, and elevated serum cholesterol."
+    },
+    {
+      "q": "Relapse in nephrotic syndrome is characterized by",
+      "A": "Creatinine ratio of <0.2 or <1+ protein on urine dipstick for 3 consecutive days",
+      "B": "Serum albumin <2.5g/dl",
+      "C": "Creatinine ratio of >2 or ≥3+ protein on urine dipstick testing for 3 consecutive days",
+      "D": "None of the above",
+      "answer": "C",
+      "explanation": "Relapse in nephrotic syndrome is defined by a urine protein: creatinine ratio of >2 or ≥3+ protein on urine dipstick testing for 3 consecutive days."
+    },
+    {
+      "q": "Which of the following is resistant to steroids",
+      "A": "Minimal change disease",
+      "B": "Membranous nephropathy",
+      "C": "Focal segmental glomerulosclerosis",
+      "D": "None of the above",
+      "answer": "C",
+      "explanation": "Focal segmental glomerulosclerosis (FSGS) is known to be resistant to steroid therapy."
+    },
+    {
+      "q": "Causes of pre-renal acute kidney injury include",
+      "A": "Dehydration",
+      "B": "Lupus",
+      "C": "Hemorrhage",
+      "D": "Sepsis",
+      "answer": "B",
+      "explanation": "Pre-renal acute kidney injury is often caused by factors such as dehydration, hemorrhage, or sepsis. Lupus is an intrinsic cause, not pre-renal."
+    },
+    {
+      "q": "The following are clinical presentations of AKI",
+      "A": "Increase urine volume",
+      "B": "Malaise",
+      "C": "Body swelling starting from the face",
+      "D": "Hypertension",
+      "answer": "A",
+      "explanation": "Diminished urine volume, not increased, is a clinical presentation of AKI. Malaise, body swelling, and hypertension are also observed."
+    },
+    {
+      "q": "All are complications of AKI except",
+      "A": "Uraemic encephalopathy",
+      "B": "Septicemia",
+      "C": "Drowsiness",
+      "D": "Pulmonary edema",
+      "answer": "C",
+      "explanation": "Drowsiness is a symptom of AKI, not a complication."
+    },
+    {
+      "q": "Clinical indication for dialysis include all",
+      "A": "Pulmonary edema",
+      "B": "Uncontrolled hypertension",
+      "C": "Serum urea >25mmol/l",
+      "D": "Uraemic encephalopathy",
+      "answer": "C",
+      "explanation": "Serum urea >25mmol/l is a biochemical indication for dialysis, not a clinical one."
+    },
+    {
+      "q": "Clinical features of AGN include",
+      "A": "Hypertension",
+      "B": "Edema",
+      "C": "Hematuria",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Acute glomerulonephritis (AGN) is characterized by a tetrad of symptoms including hypertension, edema, hematuria, and oliguria."
+    },
+    {
+      "q": "Which of the following common causes of AGN presents with abdominal pain and rash",
+      "A": "Post-streptococcal pharyngitis",
+      "B": "Wegener’s granulomatosis",
+      "C": "Henoch-Schönlein purpura",
+      "D": "Falciparum malaria",
+      "answer": "C",
+      "explanation": "Henoch-Schönlein purpura (HSP) is associated with abdominal symptoms and a rash."
+    },
+    {
+      "q": "Clinical presentations of AGN include",
+      "A": "Altered urine appearance e.g. smoky, coca cola colored",
+      "B": "Facial puffiness more in the morning and regress as the day passes",
+      "C": "Increase in urine quantity",
+      "D": "Patients are usually hypertensive",
+      "answer": "C",
+      "explanation": "Reduction in urine quantity is seen in AGN, not an increase."
+    },
+    {
+      "q": "What laboratory feature is not expected in AGN",
+      "A": "Altered colored urine",
+      "B": "Red cell casts",
+      "C": "Decrease anti-streptolysin O titer",
+      "D": "Proteinuria",
+      "answer": "C",
+      "explanation": "In AGN, there is typically an increase, not a decrease, in anti-streptolysin O titer."
+    },
+    {
+      "q": "The following are complications of AGN",
+      "A": "AKI",
+      "B": "Hypertensive encephalopathy",
+      "C": "Pulmonary edema",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Complications of AGN include AKI, CKD, hypertensive encephalopathy, pulmonary edema, and congestive cardiac failure."
+    },
+    {
+      "q": "Which of the following is not an indication for biopsy in AGN",
+      "A": "Proteinuria >3 months",
+      "B": "Hypertension >3 weeks",
+      "C": "Microscopic hematuria >1 year",
+      "D": "Persistent low C3 >8-12 weeks",
+      "answer": "A",
+      "explanation": "Proteinuria >6 months, not >3 months, is an indication for biopsy in AGN."
+    },
+    {
+      "q": "The following are under 5 causes of CKD except",
+      "A": "Dysplastic kidneys",
+      "B": "HIV-associated nephropathy",
+      "C": "Reflux nephropathy",
+      "D": "Congenital single kidney",
+      "answer": "B",
+      "explanation": "HIV-associated nephropathy typically occurs in adults, not in children under 5."
+    },
+    {
+      "q": "Complications of CKD include",
+      "A": "Renal osteodystrophy",
+      "B": "Hypercalcemia",
+      "C": "Uremic encephalopathy",
+      "D": "Acidosis due to loss of bicarbonate",
+      "answer": "B",
+      "explanation": "Hypercalcemia can occur as a complication of CKD."
+    },
+    {
+      "q": "What type of anemia is present in CKD",
+      "A": "Microcytic hypochromic anemia",
+      "B": "Normocytic hypochromic anemia",
+      "C": "Normocytic normochromic anemia",
+      "D": "Megaloblastic anemia",
+      "answer": "C",
+      "explanation": "Normocytic normochromic anemia is commonly seen in CKD."
+    },
+    {
+      "q": "Management of anemia and growth retardation in CKD",
+      "A": "Vitamin B9 and B12 supplement",
+      "B": "Blood transfusion",
+      "C": "Recombinant erythropoietin and recombinant growth hormone",
+      "D": "None of the above",
+      "answer": "C",
+      "explanation": "Recombinant human erythropoietin and growth hormone are used in the management of anemia and growth retardation in CKD."
+    },
+    {
+      "q": "Which is incorrect regarding UTI",
+      "A": "Asymptomatic bacteriuria - is a term when bacteria are found in repeated samples from a child who does not report symptoms",
+      "B": "UTIs develop often in the 1st year of life.",
+      "C": "Commoner in males than females after 6 months of life. Recurrence rates are higher in males than females.",
+      "D": "Etiology Usually bacterial, but may be parasitic, viral or fungal.",
+      "answer": "C",
+      "explanation": "UTIs are more common in females after 6 months of life. Recurrence rates are higher in females than males."
+    },
+    {
+      "q": "What is the most common bacteria causing UTI",
+      "A": "Haemophilus influenza",
+      "B": "Klebsiella",
+      "C": "E. coli",
+      "D": "Staph aureus",
+      "answer": "C",
+      "explanation": "Escherichia coli (E. coli) is the most common bacteria causing UTIs, accounting for 80-90% of cases."
+    },
+    {
+      "q": "The most common source of UTI in neonates is",
+      "A": "Hematogenous",
+      "B": "Instrumentation",
+      "C": "Ascending infection from the perineum and urethra",
+      "D": "Penetrating injury",
+      "answer": "A",
+      "explanation": "Hematogenous spread is the most common source of UTI in neonates."
+    },
+    {
+      "q": "Which of the following investigations is the gold standard in the diagnosis of UTI",
+      "A": "Full blood count",
+      "B": "Plain abdominal X-ray",
+      "C": "Renal USS",
+      "D": "Urine culture",
+      "answer": "D",
+      "explanation": "Urine culture is considered the gold standard in diagnosing UTI."
+    },
+    {
+      "q": "Urinalysis in UTI reveals the following",
+      "A": "Leucocyte esterase",
+      "B": "Nitrite",
+      "C": "Proteinuria",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Urinalysis in UTI typically reveals leucocyte esterase, nitrite, proteinuria, and hematuria."
+    },
+    {
+      "q": "Life span of red blood cells in sickle cell anemia",
+      "A": "10-15 days",
+      "B": "5-10 days",
+      "C": "15-25 days",
+      "D": "30-50 days",
+      "answer": "C",
+      "explanation": "The life span of red blood cells in sickle cell anemia is approximately 15-25 days, with an average of 17 days."
+    },
+    {
+      "q": "The following are features of sickle cell habitus",
+      "A": "Small for gestational age",
+      "B": "Frontal bossing",
+      "C": "Hepatosplenomegaly",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Sickle cell habitus includes characteristics such as being small for gestational age, frontal bossing, and hepatosplenomegaly, among others."
+    },
+    {
+      "q": "What is the first presentation of SCA",
+      "A": "Bone pain",
+      "B": "Dactylitis (hand and foot syndrome)",
+      "C": "Chest pain",
+      "D": "Abdominal pain",
+      "answer": "B",
+      "explanation": "Dactylitis (hand and foot syndrome) is often the first presentation of sickle cell anemia."
+    },
+    {
+      "q": "The following are triggers of vaso-occlusive crisis",
+      "A": "Hypoxia",
+      "B": "Infection",
+      "C": "Stress",
+      "D": "Optimal room temperature",
+      "answer": "D",
+      "explanation": "Vaso-occlusive crisis in sickle cell anemia can be triggered by stress, infection, dehydration, hypoxia, acidosis, and temperature extremes."
+    },
+    {
+      "q": "The following organisms can cause chest infection in acute chest syndrome of SCA",
+      "A": "S. pneumoniae",
+      "B": "M. pneumoniae",
+      "C": "Chlamydia sp.",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Common organisms causing chest infection in acute chest syndrome of sickle cell anemia include S. pneumoniae, M. pneumoniae, and Chlamydia sp."
+    },
+    {
+      "q": "Which is incorrect",
+      "A": "Priapism is defined as persistent, purposeless, painful penile erection",
+      "B": "Mean age of the first episode is 10 years (- 90% will have experienced it by 30 years)",
+      "C": "Recurrent prolonged episodes are associated with penile fibrosis and impotence",
+      "D": "None of the above",
+      "answer": "B",
+      "explanation": "The mean age of the first episode of priapism is 15 years (- 90% will have experienced it by 20 years)."
+    },
+    {
+      "q": "What virus is associated with aplastic crisis of SCA",
+      "A": "Rhinovirus",
+      "B": "Parvovirus B19",
+      "C": "Pox virus",
+      "D": "RSV",
+      "answer": "B",
+      "explanation": "Parvovirus B19 is associated with aplastic crisis in sickle cell anemia."
+    },
+    {
+      "q": "The following are chronic complications of sickle cell anemia",
+      "A": "Hepatosplenomegaly",
+      "B": "Osteomyelitis",
+      "C": "Pulmonary fibrosis",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Chronic complications of sickle cell anemia include hepatosplenomegaly, osteomyelitis, and pulmonary fibrosis."
+    },
+    {
+      "q": "Which of the following drugs is used in the prophylaxis of malaria in SCA",
+      "A": "Chloroquine",
+      "B": "Artemether",
+      "C": "Proguanil",
+      "D": "Mefloquine",
+      "answer": "C",
+      "explanation": "Proguanil is used in the prophylaxis against malaria in sickle cell anemia."
+    },
+    {
+      "q": "Severe anemia is",
+      "A": "PCV <30%",
+      "B": "PCV <25%",
+      "C": "PCV <20%",
+      "D": "PCV <15%",
+      "answer": "D",
+      "explanation": "Severe anemia is defined as venous Hematocrit or PCV <15%."
+    },
+    {
+      "q": "Which is incorrect about severe anemia",
+      "A": "On examination patient may be acutely ill-looking evidenced by respiratory distress, pale, may be dehydrated, febrile, cold clammy extremities (in shock), pedal edema.",
+      "B": "Tachypnea, increased SPO2",
+      "C": "Tender hepatomegaly",
+      "D": "Splenomegaly (hemolytic crisis)",
+      "answer": "B",
+      "explanation": "Severe anemia may present with tachypnea, but typically with reduced SPO2, not increased SPO2."
+    },
+    {
+      "q": "One of these is not a method of transmission of malaria",
+      "A": "Blood transfusion",
+      "B": "Maternal to child transmission",
+      "C": "Sexual contact",
+      "D": "Bite by female Anopheles mosquito",
+      "answer": "C",
+      "explanation": "Malaria can be transmitted through blood transfusion, maternal to child transmission, and bites by female Anopheles mosquitoes, but not through sexual contact."
+    },
+    {
+      "q": "Uncomplicated malaria",
+      "A": "Malaria with presence of end-organ damage",
+      "B": "Malaria with headache",
+      "C": "Malaria without end-organ damage",
+      "D": "Malaria with abdominal pain",
+      "answer": "C",
+      "explanation": "Uncomplicated malaria refers to malaria without end-organ damage."
+    },
+    {
+      "q": "An endemic area with >75% transmission throughout the year is referred to",
+      "A": "Holoendemic area",
+      "B": "Hyperendemic area",
+      "C": "Mesoendemic area",
+      "D": "Hypoendemic area",
+      "answer": "A",
+      "explanation": "A holoendemic area has >75% transmission of infection throughout the year."
+    },
+    {
+      "q": "The following are features of complicated malaria",
+      "A": "Prostration",
+      "B": "Loss of appetite",
+      "C": "Loss of consciousness",
+      "D": "Renal failure",
+      "answer": "B",
+      "explanation": "Loss of appetite is a feature of uncomplicated malaria, not complicated malaria, which presents with features of end-organ damage."
+    },
+    {
+      "q": "Malaria risk factors include",
+      "A": "Hypertension",
+      "B": "Splenectomy",
+      "C": "Sickle cell anemia",
+      "D": "Children <5 years old",
+      "answer": "A",
+      "explanation": "Hypertension is not a risk factor for malaria."
+    },
+    {
+      "q": "The following are laboratory features of severe malaria",
+      "A": "Severe anemia; (Hb < 5gm/dl), normochromic, normocytic",
+      "B": "Hypoglycemia",
+      "C": "Cardiogenic pulmonary edema",
+      "D": "Haemoglobinuria; macroscopic black, cola-colored",
+      "answer": "C",
+      "explanation": "Non-cardiogenic pulmonary edema is a feature of severe malaria, not cardiogenic pulmonary edema."
+    },
+    {
+      "q": "All are complications of severe malaria",
+      "A": "Shock",
+      "B": "Cerebral palsy",
+      "C": "Seizures",
+      "D": "Hypothyroidism",
+      "answer": "D",
+      "explanation": "Hypothyroidism is not a complication of severe malaria."
+    },
+    {
+      "q": "Malaria prophylaxis in sickle cell disease patients is achieved by administration of which drug",
+      "A": "Artemether",
+      "B": "Proguanil",
+      "C": "Quinine",
+      "D": "Mefloquine",
+      "answer": "B",
+      "explanation": "Proguanil is the drug of choice for malaria prophylaxis in sickle cell disease patients."
+    },
+    {
+      "q": "Measures for the prevention of malaria",
+      "A": "Vector control",
+      "B": "Getting rid of bushes and stagnant waters",
+      "C": "Malaria chemoprophylaxis",
+      "D": "Sleeping without a mosquito net in an endemic area",
+      "answer": "D",
+      "explanation": "Using mosquito nets is one of the measures for preventing malaria infection, especially in endemic areas."
+    },
+    {
+      "q": "Incubation period of tetanus",
+      "A": "3-21 days",
+      "B": "2 weeks",
+      "C": "10-15 days",
+      "D": "5-10 days",
+      "answer": "A",
+      "explanation": "The incubation period of tetanus is 3-21 days."
+    },
+    {
+      "q": "What is the first sign of tetanus infection",
+      "A": "Opisthotonos",
+      "B": "Trismus (locked jaw)",
+      "C": "Rigidity",
+      "D": "Generalized spasm",
+      "answer": "B",
+      "explanation": "The first unmistakable sign of tetanus is trismus, also known as locked jaw."
+    },
+    {
+      "q": "Convenient settings that expose to tetanus infections involve",
+      "A": "Deep wounds",
+      "B": "Composition of soil",
+      "C": "High humidity",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Deep wounds, high atmospheric temperature, high humidity, and composition of soil are all convenient settings for tetanus infection."
+    },
+    {
+      "q": "The following are late complications of tetanus",
+      "A": "Laryngospasm",
+      "B": "Seizure",
+      "C": "Mental retardation",
+      "D": "Fractures of long bones and spine",
+      "answer": "A",
+      "explanation": "Laryngospasm is an early complication of tetanus, not a late one."
+    },
+    {
+      "q": "Opisthotonos",
+      "A": "Hypertonia of trunk muscles, anterior abdominal wall muscle rigidity",
+      "B": "Inability to chew",
+      "C": "Spasm of facial muscle",
+      "D": "Difficult swallowing",
+      "answer": "A",
+      "explanation": "Opisthotonus is characterized by hypertonia of trunk muscles and anterior abdominal wall muscle rigidity."
+    },
+    {
+      "q": "Classes of tetanus include",
+      "A": "Localized",
+      "B": "General",
+      "C": "Neonatal disease",
+      "D": "Adult disease",
+      "answer": "D",
+      "explanation": "Tetanus can clinically be classified into generalized, localized, cephalic, and neonatal disease."
+    },
+    {
+      "q": "What organism is responsible for the transmission of yellow fever",
+      "A": "Anopheles mosquito",
+      "B": "Aedes Aegyptus mosquito",
+      "C": "Monkeys",
+      "D": "Rats",
+      "answer": "B",
+      "explanation": "Aedes Aegyptus mosquito transmits yellow fever."
+    },
+    {
+      "q": "Yellow fever. Which one is correct",
+      "A": "Incubation period in humans is 10 days",
+      "B": ">50% of cases are asymptomatic",
+      "C": "Hepatic involvement results in jaundice",
+      "D": "Adults are more susceptible",
+      "answer": "C",
+      "explanation": "Hepatic involvement in yellow fever can result in jaundice."
+    },
+    {
+      "q": "When is the yellow fever vaccine administered",
+      "A": "At birth",
+      "B": "15 months",
+      "C": "12 months",
+      "D": "9 months",
+      "answer": "D",
+      "explanation": "Yellow fever vaccine is administered at 9 months of age."
+    },
+    {
+      "q": "Which of the following is yellow fever virus family",
+      "A": "Bunya virus",
+      "B": "Filovirus",
+      "C": "Flavivirus",
+      "D": "Arenavirus",
+      "answer": "C",
+      "explanation": "Yellow fever is a member of the flavivirus family."
+    },
+    {
+      "q": "Which is incorrect about HIV in children",
+      "A": "Majority (90%) of infected children acquire the infection through MTCT. This occurs during pregnancy, delivery and breastfeeding.",
+      "B": "In absence of any intervention, the risk of MTCT is 25 - 40% in non-breastfeeding populations",
+      "C": "In utero: 5-10%, during labor: 15% during breastfeeding: 5-15%",
+      "D": "None of the above",
+      "answer": "D",
+      "explanation": "All statements are correct regarding HIV in children."
+    },
+    {
+      "q": "Clinical presentation of HIV in children includes",
+      "A": "Failure to thrive",
+      "B": "Generalized lymphadenopathy",
+      "C": "Recurrent diarrhea",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "All listed clinical presentations are associated with HIV in children."
+    },
+    {
+      "q": "What is the confirmatory test for HIV",
+      "A": "ELISA",
+      "B": "Polymerase chain reaction",
+      "C": "Western blot test",
+      "D": "Mantoux test",
+      "answer": "C",
+      "explanation": "The Western blot test is the confirmatory test for HIV."
+    },
+    {
+      "q": "The following are indications for ART except",
+      "A": "Stage 1&2 + immunosuppression",
+      "B": "Stage 3&4 irrespective of immunologic state",
+      "C": "Age< 12 months irrespective of the clinical or immunologic state",
+      "D": "Age >12 months",
+      "answer": "D",
+      "explanation": "Age >12 months is not an indication for ART."
+    },
+    {
+      "q": "HIV progress to AIDS within",
+      "A": "6 months",
+      "B": "5-7 years",
+      "C": "7-10 years",
+      "D": "12 months",
+      "answer": "C",
+      "explanation": "In the absence of treatment, HIV typically progresses to AIDS within 7-10 years."
+    },
+    {
+      "q": "Which is incorrect regarding neuroblastoma",
+      "A": "About 75% of them secrete catecholamine",
+      "B": "Epidemiology: 1st 4 years of life. Mean age of 2yrs",
+      "C": "Presents with hypotension",
+      "D": "Hepatosplenomegaly",
+      "answer": "C",
+      "explanation": "Neuroblastoma typically presents with hypertension due to catecholamine secretion, not hypotension."
+    },
+    {
+      "q": "Clinical presentations of neuroblastoma include",
+      "A": "Hypertension",
+      "B": "Orbital features (Ecchymosis, Proptosis) due to metastasis to periorbital region",
+      "C": "Opsoclonus (dancing eyes + cerebellar ataxia)",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "All listed clinical presentations are associated with neuroblastoma."
+    }, {
+      "q": "Common site of metastases of neuroblastoma except",
+      "A": "Bone",
+      "B": "Brain",
+      "C": "Liver",
+      "D": "Skin and subcutaneous tissue",
+      "answer": "B",
+      "explanation": "Brain is not a common site of metastases of neuroblastoma."
+    },
+    {
+      "q": "Which of the following is a worst prognostic factor for neuroblastoma",
+      "A": "More differentiated type",
+      "B": "Abdominal involvement",
+      "C": "Age < 1 year",
+      "D": "None of the above",
+      "answer": "B",
+      "explanation": "Abdominal involvement is a worse prognostic factor for neuroblastoma."
+    },
+    {
+      "q": "Wilm’s tumor, which is incorrect",
+      "A": "Most common urinary tract malignancy in children",
+      "B": "Never bilateral",
+      "C": "Associated with syndromes",
+      "D": "Accounts for 6% of all pediatric tumors in developed countries",
+      "answer": "B",
+      "explanation": "Wilm’s tumor can be bilateral in 5-10% of cases."
+    },
+    {
+      "q": "Which of the following gene is involved in Wilm’s tumor pathogenesis",
+      "A": "CFTR gene",
+      "B": "Rb gene",
+      "C": "WT1 gene",
+      "D": "None of the above",
+      "answer": "C",
+      "explanation": "WT1 gene is involved in Wilm’s tumor pathogenesis."
+    },
+    {
+      "q": "A 5-year-old boy with hematuria, abdominal pain and flank mass complains of severe pruritus, lab values reveal elevated PCV. What is the likely cause of this presentation",
+      "A": "Acute pyelonephritis",
+      "B": "UTI",
+      "C": "Polycythemia vera secondary to Wilm’s tumor",
+      "D": "Renal artery obstruction",
+      "answer": "C",
+      "explanation": "The likely cause of this presentation is polycythemia vera secondary to Wilm’s tumor."
+    },
+    {
+      "q": "One of the following is a worst prognostic factor of Wilm’s tumor",
+      "A": "Under 2 years old",
+      "B": "Stage 1 and 2",
+      "C": "Bilateral involvement",
+      "D": "None of the above",
+      "answer": "C",
+      "explanation": "Bilateral involvement has a worse prognosis in Wilm’s tumor."
+    },
+    {
+      "q": "Which is correct about retinoblastoma",
+      "A": "Racial or gender predilection",
+      "B": "It is the most common intraocular malignancy and constitutes 4% of childhood malignancy",
+      "C": "Peaks at 5 years of age",
+      "D": "None of the above",
+      "answer": "B",
+      "explanation": "Retinoblastoma is the most common intraocular malignancy and constitutes 4% of childhood malignancy."
+    },
+    {
+      "q": "The following are clinical presentations of retinoblastoma",
+      "A": "Leukocoria",
+      "B": "Vision impairment",
+      "C": "Eye pain",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "All listed clinical presentations are associated with retinoblastoma."
+    },
+    {
+      "q": "Complications of retinoblastoma",
+      "A": "Blindness",
+      "B": "Glaucoma",
+      "C": "Osteosarcoma",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "All listed complications can occur in retinoblastoma."
+    },
+    {
+      "q": "All are risk factors of rhabdomyosarcoma",
+      "A": "Neurofibromatosis type 1",
+      "B": "Li Fraumeni syndrome",
+      "C": "Female gender",
+      "D": "RB gene mutation",
+      "answer": "C",
+      "explanation": "Rhabdomyosarcoma is more common in males than females."
+    },
+    {
+      "q": "What is the most common affected site in rhabdomyosarcoma",
+      "A": "Genitourinary",
+      "B": "Orbital",
+      "C": "Extremities",
+      "D": "Head and neck",
+      "answer": "D",
+      "explanation": "Head & Neck is the most affected site in rhabdomyosarcoma."
+    },
+    {
+      "q": "Chromosomal translocation associated with Burkitt lymphoma is",
+      "A": "15:17",
+      "B": "8:14",
+      "C": "9:22",
+      "D": "8:21",
+      "answer": "B",
+      "explanation": "Translocation 8:14 is associated with Burkitt lymphoma."
+    },
+    {
+      "q": "The following are risk factors of Burkitt lymphoma",
+      "A": "Malnutrition",
+      "B": "Epstein bar virus",
+      "C": "Chronic malaria infection",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "All listed factors are risk factors for Burkitt lymphoma."
+    },
+    {
+      "q": "Which of the following is not a feature of endemic variant Burkitt lymphoma",
+      "A": "Jaw swelling",
+      "B": "Common in older children",
+      "C": "Painless and fast tooth or loose tooth at early stage",
+      "D": "None of the above",
+      "answer": "B",
+      "explanation": "The sporadic variant, not the endemic variant, of Burkitt lymphoma is common in older children."
+    },
+    {
+      "q": "Which of the following is the most important investigation in the diagnosis of retinoblastoma",
+      "A": "FBC",
+      "B": "Orbital ultrasound",
+      "C": "MRI",
+      "D": "Fundoscopy",
+      "Answer": "D",
+      "explanation": "under anesthesia (fundoscopy) is the single most important test."
+    },
+    {
+      "130":"The following are precautions before the commencement of chemotherapy",
+      "A":	"Platelet >= 100,000 cells /mm3",
+      "B":	"Total white blood count >=3000 cells/ mm3",
+      "C":	"PVC>=30%",
+      "D":	"All of the above",
+      "Answer": "D",
+      "explanation":"Precautions before commencement of chemotherapy include PVC>=30%, Total white blood count >=3000 cells/ mm3, Absolute neutrophil count>= 1000 cells /mm3, Platelet >= 100,000 cells /mm3."
+    }
+  ]
+}

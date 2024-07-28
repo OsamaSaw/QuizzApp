@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "General Surgery",
+      "subcategories": [
+        {"id": "11", "name": "Anesthesia"},
+        {"id": "12", "name": "Emergency"},
+        {"id": "13", "name": "Orthopedics"},
+        {"id": "14", "name": "Radiology"}
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Gynecology",
+      "subcategories": [
+        {"id": "21", "name": "ENT"},
+        {"id": "22", "name": "Ophthalmology"}
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Internal Medicine",
+      "subcategories": [
+        {"id": "31", "name": "Dermatology"},
+        {"id": "32", "name": "Infectious Diseases"},
+        {"id": "33", "name": "Neurology"},
+        {"id": "34", "name": "Nuclear Medicine"},
+        {"id": "35", "name": "Psychiatry"},
+        {"id": "36", "name": "Radiation Oncology"}
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Pediatric",
+      "subcategories": [
+        {"id": "41", "name": "Ethics"},
+        {"id": "42", "name": "Evidence Base Medicine"}
+      ]
+    }
+  ]
+}
