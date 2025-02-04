@@ -1,0 +1,454 @@
+{
+    "questions":[
+    {
+        "q": "Which of the following breast lesion is associated with trauma and lactation",
+        "A": "Fibroadenoma",
+        "B": "Chronic mastitis",
+        "C": "Ductal ectasia",
+        "D": "Acute mastitis",
+        "answer": "D",
+        "explanation": "Inflammatory disease of the breast (mastitis) can be acute or chronic, acute mastitis is associated with lactation and cracks in the nipple during lactation, trauma and septicemia. It’s mostly due to bacterial infection. Chronic mastitis is associated with Tuberculosis, fungal infection and parasitic infection."
+    },
+    {
+        "q": "Which is incorrect regarding fat necrosis",
+        "A": "Not common in fat women",
+        "B": "Traumatic in origin",
+        "C": "Hard and irregular mass attached to the skin",
+        "D": "Indefinite edges",
+        "answer": "A",
+        "explanation": "Traumatic fat necrosis is common in fat women though not limited to them. Trauma can be subtle e.g tight bra"
+    },
+    {
+        "q": "The following are risk factors of breast cancer",
+        "A": "Multiparity",
+        "B": "Family history",
+        "C": "Late menopause",
+        "D": "Early menarche",
+        "answer": "A",
+        "explanation": "Nulliparity is a risk factor of breast cancer not multiparity. Breast feeding decreases the risk of breast cancer"
+    },
+    {
+        "q": "Which of the following is incorrect about fibroadenoma",
+        "A": "Lobular and stromal components in variable proportion",
+        "B": "Most common benign neoplasm of the breast",
+        "C": "Peak age 30-35 years",
+        "D": "Hard, smooth and mobile mass",
+        "answer": "C",
+        "explanation": "Peak age 21-25 years of age. It is the most common breast tumor in premenopausal women"
+    },
+    {
+        "q": "The following are features of phyllodes",
+        "A": "Slow increase in size",
+        "B": "Multi-cystic",
+        "C": "Peak age affected are 35-55, also affects postmenopausal women more",
+        "D": "Present with distended superficial veins and stretched skin often with ulcers",
+        "answer": "A",
+        "explanation": "We see rapid increase in size with phyllodes"
+    },
+    {
+        "q": "What is the most common presentation of breast cancer",
+        "A": "Pain",
+        "B": "Lump",
+        "C": "BRCA-1 mutation",
+        "D": "Hematogenous spread to bones",
+        "answer": "B",
+        "explanation": "Lump is the most common presentation of breast cancer seen in 75% of patients.  The others are also present."
+    },
+    {
+        "q": "Site of metastases of breast cancer include",
+        "A": "Lungs",
+        "B": "Bones",
+        "C": "Kidneys",
+        "D": "Liver",
+        "answer": "C",
+        "explanation": "Kidneys are not a common site of metastases of breast cancer"
+    },
+    {
+        "q": "Which is the most common site of breast cancer metastases",
+        "A": "Lungs",
+        "B": "Bone",
+        "C": "Pleural space",
+        "D": "Liver",
+        "answer": "B",
+        "explanation": "All the above are common site of metastases but BONE is the most common site"
+    },
+    {
+        "q": "The following are mode of spread of breast cancer",
+        "A": "Local invasion or direct spread",
+        "B": "Hematogenous",
+        "C": "Lymphatic spread",
+        "D": "All of the above",
+        "answer": "D",
+        "explanation": "All are mode of spread of breast cancer"
+    },
+    {
+        "q": "You just diagnosed a patient with medullary carcinoma of the breast. What features will you like to tell her so she can know and understand more about her condition",
+        "A": "It is not associated with lymphocytes and plasma cells",
+        "B": "That it has good prognosis",
+        "C": "There is decrease incidence in BRCA-1 carriers",
+        "D": "None of the above",
+        "answer": "B",
+        "explanation": "Medullary carcinoma has a good prognosis and we see increase incidence in BRCA-1 carriers, also associated with lymphocytes and plasma cells"
+    },
+    {
+        "q": "What is the most common form of breast cancer",
+        "A": "Ductal carcinoma in situ",
+        "B": "Medullary carcinoma",
+        "C": "Invasive ductal carcinoma",
+        "D": "Pagets disease of the nipple",
+        "answer": "C",
+        "explanation": "Invasive ductal carcinoma makes up 70% or more of breast cancers"
+    },
+    {
+        "q": "The following are features of ductal carcinoma in situ",
+        "A": "Breech of basement membrane",
+        "B": "High expression of c-erb 2 gene",
+        "C": "Shows calcification",
+        "D": "Can be solid, cribriform, papillary or micro papillary",
+        "answer": "A",
+        "explanation": "Ductal carcinoma in situ doesn’t breech the basement membrane"
+    },
+    {
+        "q": "The following are clinical presentations of breast cancer",
+        "A": "Nipple retraction",
+        "B": "Bloody nipple discharge",
+        "C": "Lymphedema",
+        "D": "All of the above",
+        "answer": "D",
+        "explanation": "Nipple discharge, painless mass, bloody nipple discharge, lymphedema are all clinical presentations of breast cancer"
+    },
+    {
+        "q": "The following are part of triple assessment in the investigation of breast cancer",
+        "A": "Abdominal USS",
+        "B": "Radiology/imaging",
+        "C": "Breast examination",
+        "D": "Cytological/histological",
+        "answer": "A",
+        "explanation": "The triple assessment comprises of Radiology/imaging, cytology/histology and clinical breast examination."
+    },
+    {
+        "q": "The following are indications for mastectomy",
+        "A": "Local recurrence",
+        "B": "Patient preference",
+        "C": "Large tumors",
+        "D": "All of the above",
+        "answer": "D",
+        "explanation": "Local recurrence, patient preference, large tumors, central tumors beneath or involving the nipple are all indications for mastectomy"
+    },
+    {
+        "q": "The most common cause of congenital hypothyroidism is",
+        "A": "Dyshormogenesis",
+        "B": "Graves disease",
+        "C": "Thyroid dysgenesis",
+        "D": "Deficiency of TSH",
+        "answer": "C",
+        "explanation": "Thyroid dysgenesis is the most common cause of congenital hypothyroidism"
+    },
+    {
+        "q": "The following drugs can lead to hypothyroidism except",
+        "A": "Ciprofloxacin",
+        "B": "Oral contraceptive pills",
+        "C": "Chlopropamide",
+        "D": "Tolbutamide",
+        "answer": "A",
+        "explanation": "Ciprofloxacin does not cause hypothyroidism"
+    },
+    {
+        "q": "A 29 year old lady present to your clinic with complaints of fatigue and weight gain. On physical examination you notice she has dry coarse hair. What is the most likely cause of these patients  presentations",
+        "A": "Cushings disease",
+        "B": "Metabolic syndrome",
+        "C": "Anemia",
+        "D": "Hypothyroidism",
+        "answer": "D",
+        "explanation": "This patient has the classical clinical presentations of hypothyroidism. Dry hair and skin, cold intolerance, mennorhagia, constipation, fatigue and weight gain are all clinical presentations of hypothyroidism."
+    },
+    {
+        "q": "What is the drug of choice in the management of the previous or above patient",
+        "A": "Iodine",
+        "B": "Levothyroxine",
+        "C": "Propylthiouracil",
+        "D": "Methimazole",
+        "answer": "B",
+        "explanation": "Levothyroxine is converted to active hormone T3 and is the drug of choice in the treatment of hypothyroidism"
+    },
+    {
+        "q": "Which of the following is the most common cause of hyperthyroidism",
+        "A": "Infection",
+        "B": "Dyshormogenesis",
+        "C": "Autoimmune",
+        "D": "Drugs",
+        "answer": "C",
+        "explanation": "Graves disease is the most common cause of hyperthyroidism and its an autoimmune disease"
+    },
+    {
+        "q": "These are all features of hyperthyroidism",
+        "A": "Weight loss despite normal or increased appetite",
+        "B": "Sinus bradycardia",
+        "C": "tremor",
+        "D": "hyperhidrosis",
+        "answer": "B",
+        "explanation": "Hyperthyroidism presents with sinus tachycardia not sinus bradycardia"
+    },
+    {
+        "q": "what is the definite therapy for simple multi nodular goiter",
+        "A": "levothyroxine",
+        "B": "surgery",
+        "C": "iodine",
+        "D": "radiation",
+        "answer": "B",
+        "explanation": "Surgery is the definite treatment option for simple multi nodular goiter and levothyroxine for diffuse hyperplastic goiter"
+    },
+    {
+        "q": "indications for thyroid surgery includes",
+        "A": "neoplasm",
+        "B": "bleeding",
+        "C": "pressure symptoms",
+        "D": "All of the above",
+        "answer": "D",
+        "explanation": "Neoplasm, bleeding, pressure symptoms, retrosternal extension, recurrent cysts, patients wishes and failure of medical management are all indications of thyroid surgery"
+    },
+    {
+        "q": "The following can lead to hypothyroidism",
+        "A": "Graves disease",
+        "B": "Thyroid dysgenesis",
+        "C": "Riedel thyroiditis",
+        "D": "Mutations in thyroid peroxidase",
+        "answer": "A",
+        "explanation": "Graves disease causes hyperthyroidism not hypothyroidism"
+    },
+    {
+        "q": "Complications of thyroid surgery includes",
+        "A": "Thyroid storm",
+        "B": "Infection",
+        "C": "Injury to laryngeal nerves",
+        "D": "All of the above",
+        "answer": "D",
+        "explanation": "All are complications of thyroid surgery"
+    },
+    {
+        "q": "Which is the most common hernia in females",
+        "A": "Inguinal hernia",
+        "B": "Umblical hernia",
+        "C": "Incisional hernia",
+        "D": "Femoral hernia",
+        "answer": "D",
+        "explanation": "Femoral hernia is the most common type of hernia affecting females. In general inguinal hernia is the most common type"
+    },
+    {
+        "q": "Hernia can present as",
+        "A": "Reducible",
+        "B": "Irreducible",
+        "C": "Obstructed",
+        "D": "All of the above",
+        "answer": "D",
+        "explanation": "Hernia can present as reducible, irreducible, obstructed and strangulated"
+    },
+    {
+        "q": "What type of hernia presentation predispose to strangulation",
+        "A": "Obstructed",
+        "B": "Irreducible",
+        "C": "Reducible",
+        "D": "None of the above",
+        "answer": "B",
+        "explanation": "Irreducible hernia predispose to strangulation and also can be diagnostic of omentocele"
+    },
+    {
+        "q": "The following are clinical presentations of hernia",
+        "A": "Sudden pain over the hernia",
+        "B": "Non tender",
+        "C": "Generalized abdominal pain",
+        "D": "Forceful vomiting",
+        "answer": "B",
+        "explanation": "Hernias are extremely tender"
+    },
+    {
+        "q": "Risk factors of hernia Include",
+        "A": "Abdominopelvic surgery",
+        "B": "Pregnancy",
+        "C": "Cough",
+        "D": "Weight lifting",
+        "answer": "C",
+        "explanation": "Chronic cough, pregnancy, congenital, pregnancy and weight lifting are all risk factors of hernia not cough"
+    },
+    {
+        "q": "The following are compositions of hernia",
+        "A": "The sac",
+        "B": "The coverings",
+        "C": "The contents",
+        "D": "All of the above",
+        "answer": "D",
+        "explanation": "The components of hernia are the sac, the coverings and the contents"
+    },
+    {
+        "q": "Which one is incorrect regarding hernia",
+        "A": "Strangulated hernia occurs when the blood supply of its content is severely impaired",
+        "B": "Both direct and indirect hernia are considered to originate from a congenital variant",
+        "C": "There is an interference of blood supply in obstructed hernia",
+        "D": "Irreducible hernia is diagnostic of omentocele",
+        "answer": "C",
+        "explanation": "Obstructed hernia is an irreducible hernia containing bowels but there is no interference to the blood supply of the bowel. It culminates in strangulation"
+    },
+ {
+    "q":"What type of hernia passes through the inguinal canal and is lateral to the inferior epigastric artery",
+        "A":"Direct inguinal hernia",
+         "B":"Femoral hernia",
+        "C":"Spigelian hernia",
+       "D":"Indirect inguinal hernia",
+        "answer":"D",
+         "explanation": "Indirect inguinal hernia passes through the inguinal canal and is lateral to the inferior epigastric artery while direct inguinal hernia passes through the hesselbach’s triangle and is medial to inferior epigastric artery"
+    },
+    {
+        "q":"The following are complications of herniotomy",
+      "A":"Injury to ilioinguinal nerve",
+        "B":"Post operative hydrocele",
+        "C":"Injury to vas deferens",
+      "D":"All of the above",
+        "answer":"D",
+         "explanation": "Injury to ilioinguinal nerve, post operative hydrocele, injury to vas deferens, iatrogenic undescended testis and post operational urinary retention are all complications of herniotomy"
+    },
+  {
+     "q":"The following are clinical features of appendicitis",
+       "A":"Anorexia",
+        "B":"Decrease pain on movement",
+      "C":"Right iliac fossa localized peritonitis (may become generalized)",
+        "D":"Vomiting",
+        "answer":"B",
+        "explanation": "There is an increase pain on movement with appendicitis"
+    },
+  {
+        "q":"The following are signs seen in appendicitis",
+        "A":"Kernigs  sign",
+        "B":"Rovsing sign",
+      "C":"Psoas sign",
+       "D":"Obturator sign",
+        "answer":"A",
+         "explanation": "Kernigs sign is present in meningitis. Rovsing’s sign, psoas sign and obturator sign are all present in appendicitis"
+    },
+    {
+      "q":"Which is not a complication of appendicitis",
+        "A":"Appendiceal abscess",
+       "B":"Perforation",
+      "C":"Spreading peritonitis",
+       "D":"None of the above",
+         "answer":"D",
+         "explanation": "Appendiceal abscess, perforation, spreading peritonitis, appendiceal gangrene, appendiceal mass and perforation are all complications of appendicitis"
+    },
+  {
+        "q":"One of the following is not an immediate post op complications of appendectomy",
+      "A":"Bleeding from meso appendix",
+        "B":"Short term pelvic abscess",
+        "C":"Adhesion",
+        "D":"Perforation",
+         "answer":"C",
+         "explanation": "Bleeding, perforation, and abscess are all immediate complications of appendectomy. Adhesion, and occlusion to fallopian tubes leading to infertility are long term complications"
+    },
+   {
+      "q":"The peak incidence age for appendicitis",
+        "A":"<5 years",
+      "B":"10-20 years",
+        "C":"Elderly",
+        "D":"30-40",
+        "answer":"B",
+         "explanation": "The peak incidence age for appendicitis is 10-20 years"
+    },
+  {
+    "q":"Which of the following is not an intramural cause of obstructive jaundice",
+       "A":"Biliary atresia",
+        "B":"Parasitic infections such as ascaris lumbricoides and schistosoma japonicum",
+        "C":"Biliary stricture",
+       "D":"Cholangitis",
+        "answer":"B",
+         "explanation": "Parasitic infections are causes of intraluminal obstructive jaundice not intramural obstructive jaundice"
+    },
+ {
+       "q":"All are clinical features of obstructive jaundice",
+         "A":"Pale stool",
+       "B":"Jaundice",
+        "C":"Itching",
+        "D":"All of the above",
+        "answer":"D",
+       "explanation": "Pale stool, jaundice, itching, poor wound healing and bleeding are all features of obstructive jaundice"
+    },
+  {
+     "q":"Pre operative measures in jaundice patients include",
+       "A":"Correct anemia",
+       "B":"Give IM vit. K 10 mg or fresh frozen plasma",
+        "C":"Give oral cholestyramine for itching",
+       "D":"All of the above",
+         "answer":"D",
+         "explanation": "Hydration, nutritional support, antibiotics, prevent hypoglycemia, correct anemia, vit. K, and give oral cholestyramine are all pre op prep for surgery in jaundice patients."
+    },
+  {
+        "q":"Definite treatment of common bile duct stones",
+        "A":"MRCP",
+        "B":"Surgery",
+         "C":"Hydration",
+        "D":"Gastrojejunostomy",
+       "answer":"B",
+        "explanation": "Surgery (cholecystectomy with common bile duct exploration)"
+    },
+  {
+      "q":"Principles for the management of patients with obstructive jaundice",
+        "A":"Resuscitation",
+       "B":"Investigation",
+       "C":"Rx problems peculiar to jaundice patients",
+         "D":"All of the above",
+       "answer":"D",
+        "explanation": "Resuscitation, investigation, Rx problems peculiar to jaundice patients, provide a channel for draining the biliary tract and treat the underlying cause if possible are the principles of management of obstructive jaundice"
+    },
+   {
+        "q":"The second most common cause of cancer death in the west",
+         "A":"Breast cancer",
+       "B":"Small cell lung cancer",
+        "C":"Colorectal cancer",
+      "D":"Pancreatic cancer",
+        "answer":"C",
+         "explanation": ""
+    },
+   {
+        "q":"All are risk factors of colon cancer",
+        "A":"Cigarette smoking",
+        "B":"Familial adenomatous polyposis",
+        "C":"Alcoholism",
+         "D":"Asbestosis",
+       "answer":"D",
+        "explanation": "Asbestosis is s risk factor of lung cancer not colorectal cancer. Dietary pattern (increase in animal fat consumption), cigarette smoking, alcoholism, family history of colorectal cancer or any other cancer are all risk factors of developing colorectal cancer"
+    },
+  {
+        "q":"The following are clinical presentations of colorectal cancer",
+        "A":"Abdominal mass",
+       "B":"Rectal bleeding",
+      "C":"Features of abdominal obstruction",
+       "D":"All of the above",
+         "answer":"D",
+        "explanation": ""
+    },
+    {
+        "q":"What is the peak age for developing colorectal cancer",
+      "A":"30-40 years old",
+        "B":"40-50 years old",
+        "C":"50-60 years old",
+        "D":"60-70 years old",
+        "answer":"D",
+         "explanation": "The peak incidence for developing colorectal cancer is in 60-70 year olds, both men and women"
+    },
+    {
+        "q":"The following are observed on examination of patient with colorectal cancer",
+        "A":"Dilated superficial veins",
+        "B":"Petechiae",
+        "C":"Jaundice",
+      "D":"Ascites",
+        "answer":"B",
+         "explanation": "Jaundice is not a clinical presentation of colorectal cancer"
+    },
+  {
+       "q":"Which is the tumor marker of colorectal cancer",
+       "A":"PSA",
+        "B":"CA 125",
+        "C":"CEA",
+      "D":"CA 19-9",
+        "answer":"C",
+         "explanation": "Carcinoembryonic antigen is the marker of colorectal cancer, use in monitoring of recurrence and progress. CA 125 is a marker of ovarian cancer, CA 19-9 is a marker of pancreatic cancer and PSA is a marker of prostate cancer"
+    }
+]
+}

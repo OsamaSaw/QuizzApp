@@ -1,0 +1,210 @@
+{
+  "questions": [
+    {
+      "q": "Which of the following is the most appropriate initial action in managing an unconscious trauma patient?",
+      "A": "Check blood pressure",
+      "B": "Establish airway",
+      "C": "Start IV fluids",
+      "D": "Order CT scan",
+      "answer": "B",
+      "explanation": "Airway management is the first priority in trauma care following the ABC (Airway, Breathing, Circulation) protocol"
+    },
+    {
+      "q": "What is the most common cause of shock in trauma patients?",
+      "A": "Neurogenic shock",
+      "B": "Cardiogenic shock",
+      "C": "Hemorrhagic shock",
+      "D": "Septic shock",
+      "answer": "C",
+      "explanation": "Hemorrhagic shock is the most common type of shock in trauma patients due to blood loss"
+    },
+    {
+      "q": "What is the most appropriate initial treatment for anaphylactic shock?",
+      "A": "Diphenhydramine IV",
+      "B": "Epinephrine IM",
+      "C": "Normal saline bolus",
+      "D": "Methylprednisolone IV",
+      "answer": "B",
+      "explanation": "IM epinephrine is the first-line treatment for anaphylaxis"
+    },
+    {
+      "q": "Which of the following is the most reliable indicator of adequate chest compressions during CPR?",
+      "A": "Carotid pulse",
+      "B": "End-tidal CO2",
+      "C": "Skin color",
+      "D": "Pupil size",
+      "answer": "B",
+      "explanation": "End-tidal CO2 monitoring provides the most reliable real-time indicator of CPR effectiveness"
+    },{
+      "q": "The following are mode of spread of breast cancer",
+      "A": "Local invasion or direct spread",
+      "B": "Hematogenous",
+      "C": "Lymphatic spread",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "All are mode of spread of breast cancer"
+  },
+  {
+      "q": "You just diagnosed a patient with medullary carcinoma of the breast. What features will you like to tell her so she can know and understand more about her condition",
+      "A": "It is not associated with lymphocytes and plasma cells",
+      "B": "That it has good prognosis",
+      "C": "There is decrease incidence in BRCA-1 carriers",
+      "D": "None of the above",
+      "answer": "B",
+      "explanation": "Medullary carcinoma has a good prognosis and we see increase incidence in BRCA-1 carriers, also associated with lymphocytes and plasma cells"
+  },
+  {
+      "q": "What is the most common form of breast cancer",
+      "A": "Ductal carcinoma in situ",
+      "B": "Medullary carcinoma",
+      "C": "Invasive ductal carcinoma",
+      "D": "Pagets disease of the nipple",
+      "answer": "C",
+      "explanation": "Invasive ductal carcinoma makes up 70% or more of breast cancers"
+  },
+  {
+      "q": "The following are features of ductal carcinoma in situ",
+      "A": "Breech of basement membrane",
+      "B": "High expression of c-erb 2 gene",
+      "C": "Shows calcification",
+      "D": "Can be solid, cribriform, papillary or micro papillary",
+      "answer": "A",
+      "explanation": "Ductal carcinoma in situ doesn’t breech the basement membrane"
+  },
+  {
+      "q": "The following are clinical presentations of breast cancer",
+      "A": "Nipple retraction",
+      "B": "Bloody nipple discharge",
+      "C": "Lymphedema",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Nipple discharge, painless mass, bloody nipple discharge, lymphedema are all clinical presentations of breast cancer"
+  },
+  {
+      "q": "The following are part of triple assessment in the investigation of breast cancer",
+      "A": "Abdominal USS",
+      "B": "Radiology/imaging",
+      "C": "Breast examination",
+      "D": "Cytological/histological",
+      "answer": "A",
+      "explanation": "The triple assessment comprises of Radiology/imaging, cytology/histology and clinical breast examination."
+  },
+  {
+      "q": "The following are indications for mastectomy",
+      "A": "Local recurrence",
+      "B": "Patient preference",
+      "C": "Large tumors",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Local recurrence, patient preference, large tumors, central tumors beneath or involving the nipple are all indications for mastectomy"
+  },
+  {
+      "q": "The most common cause of congenital hypothyroidism is",
+      "A": "Dyshormogenesis",
+      "B": "Graves disease",
+      "C": "Thyroid dysgenesis",
+      "D": "Deficiency of TSH",
+      "answer": "C",
+      "explanation": "Thyroid dysgenesis is the most common cause of congenital hypothyroidism"
+  },
+  {
+      "q": "The following drugs can lead to hypothyroidism except",
+      "A": "Ciprofloxacin",
+      "B": "Oral contraceptive pills",
+      "C": "Chlopropamide",
+      "D": "Tolbutamide",
+      "answer": "A",
+      "explanation": "Ciprofloxacin does not cause hypothyroidism"
+  },
+  {
+      "q": "A 29 year old lady present to your clinic with complaints of fatigue and weight gain. On physical examination you notice she has dry coarse hair. What is the most likely cause of these patients  presentations",
+      "A": "Cushings disease",
+      "B": "Metabolic syndrome",
+      "C": "Anemia",
+      "D": "Hypothyroidism",
+      "answer": "D",
+      "explanation": "This patient has the classical clinical presentations of hypothyroidism. Dry hair and skin, cold intolerance, mennorhagia, constipation, fatigue and weight gain are all clinical presentations of hypothyroidism."
+  },
+  {
+      "q": "What is the drug of choice in the management of the previous or above patient",
+      "A": "Iodine",
+      "B": "Levothyroxine",
+      "C": "Propylthiouracil",
+      "D": "Methimazole",
+      "answer": "B",
+      "explanation": "Levothyroxine is converted to active hormone T3 and is the drug of choice in the treatment of hypothyroidism"
+  },
+  {
+      "q": "Which of the following is the most common cause of hyperthyroidism",
+      "A": "Infection",
+      "B": "Dyshormogenesis",
+      "C": "Autoimmune",
+      "D": "Drugs",
+      "answer": "C",
+      "explanation": "Graves disease is the most common cause of hyperthyroidism and its an autoimmune disease"
+  },
+  {
+      "q": "These are all features of hyperthyroidism",
+      "A": "Weight loss despite normal or increased appetite",
+      "B": "Sinus bradycardia",
+      "C": "tremor",
+      "D": "hyperhidrosis",
+      "answer": "B",
+      "explanation": "Hyperthyroidism presents with sinus tachycardia not sinus bradycardia"
+  },
+  {
+      "q": "what is the definite therapy for simple multi nodular goiter",
+      "A": "levothyroxine",
+      "B": "surgery",
+      "C": "iodine",
+      "D": "radiation",
+      "answer": "B",
+      "explanation": "Surgery is the definite treatment option for simple multi nodular goiter and levothyroxine for diffuse hyperplastic goiter"
+  },
+  {
+      "q": "indications for thyroid surgery includes",
+      "A": "neoplasm",
+      "B": "bleeding",
+      "C": "pressure symptoms",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Neoplasm, bleeding, pressure symptoms, retrosternal extension, recurrent cysts, patients wishes and failure of medical management are all indications of thyroid surgery"
+  },
+  {
+      "q": "The following can lead to hypothyroidism",
+      "A": "Graves disease",
+      "B": "Thyroid dysgenesis",
+      "C": "Riedel thyroiditis",
+      "D": "Mutations in thyroid peroxidase",
+      "answer": "A",
+      "explanation": "Graves disease causes hyperthyroidism not hypothyroidism"
+  },
+  {
+      "q": "Complications of thyroid surgery includes",
+      "A": "Thyroid storm",
+      "B": "Infection",
+      "C": "Injury to laryngeal nerves",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "All are complications of thyroid surgery"
+  },
+  {
+      "q": "Which is the most common hernia in females",
+      "A": "Inguinal hernia",
+      "B": "Umblical hernia",
+      "C": "Incisional hernia",
+      "D": "Femoral hernia",
+      "answer": "D",
+      "explanation": "Femoral hernia is the most common type of hernia affecting females. In general inguinal hernia is the most common type"
+  },
+  {
+      "q": "Hernia can present as",
+      "A": "Reducible",
+      "B": "Irreducible",
+      "C": "Obstructed",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Hernia can present as reducible, irreducible, obstructed and strangulated"
+  }
+  ]
+} 

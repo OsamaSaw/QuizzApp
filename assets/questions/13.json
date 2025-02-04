@@ -1,0 +1,307 @@
+{
+  "questions": [
+    {
+      "q": "Which of the following fractures is most commonly associated with osteoporosis?",
+      "A": "Colles fracture",
+      "B": "Tibial shaft fracture",
+      "C": "Skull fracture",
+      "D": "Finger phalanx fracture",
+      "answer": "A",
+      "explanation": "Colles fracture (distal radius fracture) is commonly seen in osteoporotic patients after falls on outstretched hands"
+    },
+    {
+      "q": "What is the most common complication of total hip replacement?",
+      "A": "Infection",
+      "B": "Deep vein thrombosis",
+      "C": "Dislocation",
+      "D": "Nerve injury",
+      "answer": "B",
+      "explanation": "Deep vein thrombosis is the most common complication following total hip replacement surgery"
+    },
+    {
+      "q": "What is the most common complication after total knee replacement?",
+      "A": "Infection",
+      "B": "Deep vein thrombosis",
+      "C": "Nerve injury",
+      "D": "Stiffness",
+      "answer": "B",
+      "explanation": "DVT is the most common complication following total knee arthroplasty"
+    },
+    {
+      "q": "Which physical finding is most specific for ACL tear?",
+      "A": "Joint effusion",
+      "B": "Positive Lachman test",
+      "C": "McMurray test",
+      "D": "Joint line tenderness",
+      "answer": "B",
+      "explanation": "The Lachman test has the highest specificity for ACL tears"
+    },
+    {
+      "q": "What type of hernia presentation predispose to strangulation",
+      "A": "Obstructed",
+      "B": "Irreducible",
+      "C": "Reducible",
+      "D": "None of the above",
+      "answer": "B",
+      "explanation": "Irreducible hernia predispose to strangulation and also can be diagnostic of omentocele"
+  },
+  {
+      "q": "The following are clinical presentations of hernia",
+      "A": "Sudden pain over the hernia",
+      "B": "Non tender",
+      "C": "Generalized abdominal pain",
+      "D": "Forceful vomiting",
+      "answer": "B",
+      "explanation": "Hernias are extremely tender"
+  },
+  {
+      "q": "Risk factors of hernia Include",
+      "A": "Abdominopelvic surgery",
+      "B": "Pregnancy",
+      "C": "Cough",
+      "D": "Weight lifting",
+      "answer": "C",
+      "explanation": "Chronic cough, pregnancy, congenital, pregnancy and weight lifting are all risk factors of hernia not cough"
+  },
+  {
+      "q": "The following are compositions of hernia",
+      "A": "The sac",
+      "B": "The coverings",
+      "C": "The contents",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "The components of hernia are the sac, the coverings and the contents"
+  },
+  {
+      "q": "Which one is incorrect regarding hernia",
+      "A": "Strangulated hernia occurs when the blood supply of its content is severely impaired",
+      "B": "Both direct and indirect hernia are considered to originate from a congenital variant",
+      "C": "There is an interference of blood supply in obstructed hernia",
+      "D": "Irreducible hernia is diagnostic of omentocele",
+      "answer": "C",
+      "explanation": "Obstructed hernia is an irreducible hernia containing bowels but there is no interference to the blood supply of the bowel. It culminates in strangulation"
+  },
+  {
+      "q": "What type of hernia passes through the inguinal canal and is lateral to the inferior epigastric artery",
+      "A": "Direct inguinal hernia",
+      "B": "Femoral hernia",
+      "C": "Spigelian hernia",
+      "D": "Indirect inguinal hernia",
+      "answer": "D",
+      "explanation": "Indirect inguinal hernia passes through the inguinal canal and is lateral to the inferior epigastric artery while direct inguinal hernia passes through the hesselbach’s triangle and is medial to inferior epigastric artery"
+  },
+  {
+      "q": "The following are complications of herniotomy",
+      "A": "Injury to ilioinguinal nerve",
+      "B": "Post operative hydrocele",
+      "C": "Injury to vas deferens",
+      "D": "All of the above",
+      "answer": "D",
+      "explanation": "Injury to ilioinguinal nerve, post operative hydrocele, injury to vas deferens, iatrogenic undescended testis and post operational urinary retention are all complications of herniotomy"
+  },
+  {
+      "q": "The following are clinical features of appendicitis",
+      "A": "Anorexia",
+      "B": "Decrease pain on movement",
+      "C": "Right iliac fossa localized peritonitis (may become generalized)",
+      "D": "Vomiting",
+      "answer": "B",
+      "explanation": "There is an increase pain on movement with appendicitis"
+  },
+  {
+      "q": "The following are signs seen in appendicitis",
+      "A": "Kernigs  sign",
+      "B": "Rovsing sign",
+      "C": "Psoas sign",
+      "D": "Obturator sign",
+      "answer": "A",
+      "explanation": "Kernigs sign is present in meningitis. Rovsing’s sign, psoas sign and obturator sign are all present in appendicitis"
+  },
+  {
+      "q": "Which is not a complication of appendicitis",
+      "A": "Appendiceal abscess",
+      "B": "Perforation",
+      "C": "Spreading peritonitis",
+      "D": "None of the above",
+      "answer": "D",
+      "explanation": "Appendiceal abscess, perforation, spreading peritonitis, appendiceal gangrene, appendiceal mass and perforation are all complications of appendicitis"
+  },
+ {
+      "q": "One of the following is not an immediate post op complications of appendectomy",
+      "A": "Bleeding from meso appendix",
+      "B": "Short term pelvic abscess",
+      "C": "Adhesion",
+      "D": "Perforation",
+      "answer": "C",
+      "explanation": "Bleeding, perforation, and abscess are all immediate complications of appendectomy. Adhesion, and occlusion to fallopian tubes leading to infertility are long term complications"
+  },
+{
+    "q":"The peak incidence age for appendicitis",
+       "A":"<5 years",
+     "B":"10-20 years",
+     "C":"Elderly",
+       "D":"30-40",
+      "answer":"B",
+       "explanation": "The peak incidence age for appendicitis is 10-20 years"
+  },
+  {
+    "q":"Which of the following is not an intramural cause of obstructive jaundice",
+      "A":"Biliary atresia",
+     "B":"Parasitic infections such as ascaris lumbricoides and schistosoma japonicum",
+       "C":"Biliary stricture",
+       "D":"Cholangitis",
+      "answer":"B",
+       "explanation": "Parasitic infections are causes of intraluminal obstructive jaundice not intramural obstructive jaundice"
+  },
+ {
+      "q":"All are clinical features of obstructive jaundice",
+       "A":"Pale stool",
+     "B":"Jaundice",
+      "C":"Itching",
+      "D":"All of the above",
+       "answer":"D",
+      "explanation": "Pale stool, jaundice, itching, poor wound healing and bleeding are all features of obstructive jaundice"
+  },
+{
+      "q":"Pre operative measures in jaundice patients include",
+      "A":"Correct anemia",
+     "B":"Give IM vit. K 10 mg or fresh frozen plasma",
+       "C":"Give oral cholestyramine for itching",
+      "D":"All of the above",
+      "answer":"D",
+      "explanation": "Hydration, nutritional support, antibiotics, prevent hypoglycemia, correct anemia, vit. K, and give oral cholestyramine are all pre op prep for surgery in jaundice patients."
+  },
+  {
+     "q":"Definite treatment of common bile duct stones",
+      "A":"MRCP",
+      "B":"Surgery",
+      "C":"Hydration",
+      "D":"Gastrojejunostomy",
+      "answer":"B",
+      "explanation": "Surgery (cholecystectomy with common bile duct exploration)"
+  },
+{
+      "q":"Principles for the management of patients with obstructive jaundice",
+       "A":"Resuscitation",
+     "B":"Investigation",
+      "C":"Rx problems peculiar to jaundice patients",
+     "D":"All of the above",
+      "answer":"D",
+       "explanation": "Resuscitation, investigation, Rx problems peculiar to jaundice patients, provide a channel for draining the biliary tract and treat the underlying cause if possible are the principles of management of obstructive jaundice"
+  },
+{
+  "q":"The second most common cause of cancer death in the west",
+     "A":"Breast cancer",
+    "B":"Small cell lung cancer",
+      "C":"Colorectal cancer",
+     "D":"Pancreatic cancer",
+      "answer":"C",
+       "explanation": ""
+  },
+  {
+      "q":"All are risk factors of colon cancer",
+      "A":"Cigarette smoking",
+       "B":"Familial adenomatous polyposis",
+      "C":"Alcoholism",
+      "D":"Asbestosis",
+       "answer":"D",
+      "explanation": "Asbestosis is s risk factor of lung cancer not colorectal cancer. Dietary pattern (increase in animal fat consumption), cigarette smoking, alcoholism, family history of colorectal cancer or any other cancer are all risk factors of developing colorectal cancer"
+  },
+{
+  "q":"The following are clinical presentations of colorectal cancer",
+      "A":"Abdominal mass",
+      "B":"Rectal bleeding",
+     "C":"Features of abdominal obstruction",
+      "D":"All of the above",
+      "answer":"D",
+       "explanation": ""
+  },
+  {
+     "q":"What is the peak age for developing colorectal cancer",
+    "A":"30-40 years old",
+      "B":"40-50 years old",
+      "C":"50-60 years old",
+     "D":"60-70 years old",
+      "answer":"D",
+       "explanation": "The peak incidence for developing colorectal cancer is in 60-70 year olds, both men and women"
+  },
+{
+  "q":"The following are observed on examination of patient with colorectal cancer",
+    "A":"Dilated superficial veins",
+       "B":"Petechiae",
+      "C":"Jaundice",
+      "D":"Ascites",
+     "answer":"B",
+      "explanation": ""
+  },
+{
+      "q":"Which is the tumor marker of colorectal cancer",
+      "A":"PSA",
+     "B":"CA 125",
+      "C":"CEA",
+     "D":"CA 19-9",
+      "answer":"C",
+       "explanation": "Carcinoembryonic antigen is the marker of colorectal cancer, use in monitoring of recurrence and progress. CA 125 is a marker of ovarian cancer, CA 19-9 is a marker of pancreatic cancer and PSA is a marker of prostate cancer"
+  },
+{
+     "q":"Kearns-Sayre syndrome and Leber hereditary optic neuropathy are noted in both males and females but are inherited only through the mother. These conditions are examples of:",
+     "A":"Uniparental disomy",
+      "B":"Mitochondrial inheritance",
+      "C":"Anticipation",
+      "D":"X-linked recessive inheritance",
+      "E":"X-linked dominant inheritance",
+      "answer":"B",
+       "explanation": ""
+  },
+{
+      "q":"Tay-Sachs disease is best described as:",
+      "A":"Only affecting Ashkenazi Jews",
+     "B":"Having a single genetic defect",
+      "C":" Producing disease in only males",
+       "D":" Having genetic heterogenicity",
+     "E":"Having an adult-onset variety",
+      "answer":"D",
+       "explanation": ""
+  },
+  {
+      "q":"FISH in genetic testing is best described as:",
+    "A":"A way to prepare RNA",
+      "B":"An enzyme assay to detect mutations",
+      "C":" Scraping of the buccal cells",
+      "D":" A test to identify the chromosomal location of an affected gene",
+     "E":"Fibroblast inhibition selective histology",
+      "answer":"D",
+      "explanation": ""
+  },
+{
+     "q":"The polymerase chain reaction is best described as:",
+      "A":"A method to produce many antigenic epitopes",
+      "B":"A method to amplify small quantities of DNA or RNA",
+    "C":"A Southern blot",
+     "D":"A Northern blot",
+       "E":"A Western blot",
+       "answer":"B",
+       "explanation": ""
+  },
+  {
+     "q":"Trinucleotide repeats are implicated in the etiology of all of the following except:",
+      "A":"Fragile X syndrome",
+      "B":"Neurofibromatosis",
+     "C":"Friedreich ataxia",
+      "D":"Spinocerebellar ataxia type I",
+      "E":"Myotonic dystrophy",
+      "answer":"B",
+     "explanation": ""
+  },
+{
+  "q":"A 1-yr-old presents with a disease that is classically an autosomal recessive trait (such as cystic fibrosis). The father is tested and, with 99% confidence, he is demonstrated to be negative for the carrier state. The most likely explanation is:",
+     "A":"Mutation to an autosomal dominant trait",
+       "B":"Uniparental isodisomy transmission from the mother",
+      "C":"Uniparental isodisomy transmission from the father",
+      "D":"Imprinting of the missing recessive gene",
+     "E":"Mitochondrial recombination",
+      "answer":"B",
+      "explanation": ""
+  }
+  ]
+} 

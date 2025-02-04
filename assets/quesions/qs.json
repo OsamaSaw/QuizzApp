@@ -1144,7 +1144,7 @@
       "explanation": "under anesthesia (fundoscopy) is the single most important test."
     },
     {
-      "130":"The following are precautions before the commencement of chemotherapy",
+      "q":"The following are precautions before the commencement of chemotherapy",
       "A":	"Platelet >= 100,000 cells /mm3",
       "B":	"Total white blood count >=3000 cells/ mm3",
       "C":	"PVC>=30%",

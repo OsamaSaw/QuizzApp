@@ -1,0 +1,289 @@
+{
+  "questions": [
+    {
+      "q": "Which of the following is the most common cause of acute vision loss in elderly patients?",
+      "A": "Retinal detachment",
+      "B": "Central retinal artery occlusion",
+      "C": "Age-related macular degeneration",
+      "D": "Glaucoma",
+      "answer": "C",
+      "explanation": "Age-related macular degeneration is the leading cause of vision loss in elderly patients"
+    },
+    {
+      "q": "What is the most appropriate initial treatment for acute bacterial conjunctivitis?",
+      "A": "Oral antibiotics",
+      "B": "Topical antibiotics",
+      "C": "Topical steroids",
+      "D": "Artificial tears",
+      "answer": "B",
+      "explanation": "Topical antibiotics are the first-line treatment for bacterial conjunctivitis"
+    },
+    {
+      "q": "A client 12 weeks pregnant comes to the emergency department with abdominal cramping and moderate vaginal bleeding. Speculum exams reveals 2-3 cm dilatation, the nurse would document these findings as which of the following",
+      "A": "Threatened abortion",
+      "B": "Imminent abortion",
+      "C": "Complete abortion",
+      "D": "Missed abortion",
+      "answer": "B",
+      "explanation": "Imminent abortion also called spontaneous abortion is the death of the fetus before it can even survive. The most common symptom of miscarriage is vaginal bleeding with or without pain"
+    },
+    {
+      "q": "Indomethacin can be used in the treatment of polyhydramnios. What class of drug is it?",
+      "A": "Thiazide diuretic",
+      "B": "NSAIDs",
+      "C": "Glucocorticoid",
+      "D": "Loop diuretic",
+      "answer": "B",
+      "explanation": "Indomethacin is an NSAID"
+    },
+    {
+      "q": "Which of these is not a risk factor of uterine rupture?",
+      "A": "Macrosomia",
+      "B": "43 years old woman",
+      "C": "Obstetric cholestasis",
+      "D": "Short inter delivery interval",
+      "answer": "C",
+      "explanation": "Macrosomia, a short delivery interval and maternal age >40 years old have all been shown to increase the risk of uterine rupture. Obstetric cholestasis has not been shown to increase the risk of uterine rupture"
+    },
+    {
+      "q": "In the most common form of shoulder dystocia, what does the anterior fetal shoulder become impacted against?",
+      "A": "Pubic symphysis",
+      "B": "Pubic tubercle",
+      "C": "Sacral promontory",
+      "D": "Ischial spine",
+      "answer": "A",
+      "explanation": "The anterior fetal shoulder is impacted by the pubic symphysis"
+    },
+    {
+      "q": "Which of the following is not a risk factor of VTE?",
+      "A": "Hyperemesis gravidarum",
+      "B": "Oligohydramnios",
+      "C": "Admission to hospital",
+      "D": "Prolong labor",
+      "answer": "A",
+      "explanation": "Hyperemesis gravidarum is not a risk factor for VTE"
+    },
+    {
+      "q": "Which of the following is not a recognised symptom of uterine fibroid?",
+      "A": "Cyclical pelvic pain",
+      "B": "Heavy menstrual bleeding",
+      "C": "Urinary frequency",
+      "D": "Subfertility",
+      "answer": "A",
+      "explanation": "Uterine fibroid can rarely present with acute pelvic pain but do not present with cyclical pain"
+    },
+    {
+      "q": "Which point during pregnancy carries the greatest risk for VTE?",
+      "A": "1st trimester",
+      "B": "Intrapartum",
+      "C": "Postpartum",
+      "D": "3rd trimester",
+      "answer": "C",
+      "explanation": "The risk of VTE in pregnancy is caused by changes in levels of proteins in the clotting cascade. These changes are more pronounced as pregnancy progresses, with the highest risk of VTE occurring in the post-partum period"
+    },
+    {
+      "q": "Which of these is a significant risk factor for miscarriage?",
+      "A": "Lichen sclerosis",
+      "B": "Previous cesarean section",
+      "C": "Multiparity",
+      "D": "Maternal age >30-35",
+      "answer": "D",
+      "explanation": "Increased maternal age is a strong risk factor for miscarriage due to the increase number of chromosomally abnormal ova"
+    },
+    {
+      "q": "What is the usual first line therapy in lichen sclerosis?",
+      "A": "Topical steroids",
+      "B": "Topical tacrolimus",
+      "C": "Oral steroids",
+      "D": "Emollients",
+      "answer": "A",
+      "explanation": "The underlying etiology of lichens sclerosis is thought to be autoimmune so the first line treatment is topical immunosuppression through steroid creams e.g clobetasol propionate"
+    },
+    {
+      "q": "What is primary dysmenorrhea?",
+      "A": "Menstrual pain that occurs in the menopause",
+      "B": "Menstrual pain with no underlying pelvic pathology",
+      "C": "Menstrual pain with an identifiable cause",
+      "D": "Excessive menstrual loss which interferes with a woman’s quality of life",
+      "answer": "B",
+      "explanation": "Primary dysmenorrhea is menstrual pain with no underlying pelvic pathology"
+    },
+    {
+      "q": "What is the standard initial treatment for iron deficiency anemia?",
+      "A": "Ferinject",
+      "B": "Oral iron supplement",
+      "C": "Oral folate supplement",
+      "D": "Blood transfusion",
+      "answer": "B",
+      "explanation": "Oral iron supplementation is the first line management of iron deficiency anemia"
+    },
+    {
+      "q": "Which of the following is not a risk factor for anemia in pregnancy?",
+      "A": "Poor diet",
+      "B": "Sickle cell disease",
+      "C": "Diabetes mellitus",
+      "D": "Low socioeconomic status",
+      "answer": "C",
+      "explanation": "DM is not a risk factor for anemia in pregnancy"
+    },
+    {
+      "q": "Which of the following is the greatest risk factor for uterine rupture?",
+      "A": "Polyhydramnios",
+      "B": "Previous uterine surgery",
+      "C": "Previous cesarean section",
+      "D": "Maternal diabetes",
+      "answer": "C",
+      "explanation": "Previous uterine surgery is a risk factor for uterine rupture but previous cesarean section is a stronger risk factor"
+    },
+    {
+      "q": "Which of the following is not a common symptom of cervical ectropion?",
+      "A": "Dysmenorrhea",
+      "B": "Excessive vaginal discharge",
+      "C": "Post coital bleeding",
+      "D": "Intermenstrual bleeding",
+      "answer": "A",
+      "explanation": "Cervical ectropion is most commonly asymptomatic. It occasionally presents with post coital bleeding and others but does not typically cause painful periods"
+    },
+    {
+      "q": "Which of the following surgical procedures are used to treat heavy menstrual bleeding without an attributable cause?",
+      "A": "Endometrial ablation",
+      "B": "Myomectomy",
+      "C": "Oophorectomy",
+      "D": "Uterine artery embolization",
+      "answer": "A",
+      "explanation": "Myomectomy and uterine artery embolization are only used in the treatment of HMB secondary to fibroids. An oophorectomy is not a treatment of HMB"
+    },
+    {
+      "q": "Which syndrome describes intra uterine adhesions?",
+      "A": "Kallman syndrome",
+      "B": "Asherman syndrome",
+      "C": "Meigs syndrome",
+      "D": "Sheehan syndrome",
+      "answer": "B",
+      "explanation": "Asherman syndrome is an acquired condition causing intra uterine adhesions and can be caused by surgery of the uterus, pelvic infections or treatment of cancer. It can also be a complication of manual vacuum aspiration"
+    },
+    {
+      "q": "What is the main presenting symptom of miscarriage?",
+      "A": "White vaginal discharge",
+      "B": "Vaginal bleeding",
+      "C": "Abdominal distension",
+      "D": "Tachycardia",
+      "answer": "B",
+      "explanation": "Vaginal bleeding is the main presenting symptom of miscarriage"
+    },
+    {
+      "q": "Which type of breech presentation is where both legs are flexed at the hips and the knees?",
+      "A": "Complete breech",
+      "B": "Frank breech",
+      "C": "Footling breech",
+      "D": "Extended breech",
+      "answer": "A",
+      "explanation": "Complete breech presents with both legs flexed at the hips and the knees"
+    },
+    {
+      "q": "Which condition produces a microcytic anemia?",
+      "A": "B12 deficiency",
+      "B": "Folate deficiency",
+      "C": "Iron deficiency",
+      "D": "Hypothyroidism",
+      "answer": "C",
+      "explanation": "Iron deficiency can lead to microcytic anemia. Thalassemia, anemia of chronic disease, sideroblastic anemia, lead poisoning can all lead to microcytic anemia"
+    },
+    {
+      "q": "Which of the following is a common symptom of a cervical polyp?",
+      "A": "Abnormal vaginal bleeding",
+      "B": "Offensive vaginal discharge",
+      "C": "Dysmenorrhea",
+      "D": "Abdominal distension",
+      "answer": "A",
+      "explanation": "If symptomatic, the most common clinical feature is abnormal vaginal bleeding"
+    },
+    {
+      "q": "Which of the following is a direct complication of oligohydramnios?",
+      "A": "Malpresentation",
+      "B": "Muscle contractures",
+      "C": "Chorioamnionitis",
+      "D": "Postpartum hemorrhage",
+      "answer": "B",
+      "explanation": "Oligohydramnios decreases the fetal ability to move in utero which can lead to the development of severe muscle contractures"
+    },
+    {
+      "q": "In a woman with drug-managed gestational diabetes, what are the recommendations for delivery?",
+      "A": "Cesarean section at 35 weeks",
+      "B": "Deliver at 37-38 weeks",
+      "C": "Deliver at term",
+      "D": "Allow the pregnancy to prolong and do not induce",
+      "answer": "B",
+      "explanation": "Women who have gestational diabetes should aim to deliver at 37-38 weeks if they are on pharmacological management. They would be advised to consider induction of labor or cesarean section before 40+6 weeks if they are managing gestational diabetes with diet alone"
+    },
+    {
+      "q": "What is the recommended treatment for anti-phospholipid syndrome during pregnancy?",
+      "A": "Warfarin",
+      "B": "Low dose warfarin + LMWH",
+      "C": "Low dose aspirin",
+      "D": "LMWH",
+      "answer": "B",
+      "explanation": "Live birth rate in women with anti-phospholipid syndrome who do not receive pharmacological intervention has been reported to be as low as 15%, so management with an anticoagulant and platelet agent is recommended. Warfarin is contraindicated in pregnancy due to its teratogenicity"
+    },
+    {
+      "q": "The Expected date of delivery of a human pregnancy can be calculated:",
+      "A": "From a change in the patient's weight.",
+      "B": "As 10 lunar months after the time of ovulation.",
+      "C": "As 40 weeks after last menstrual period.",
+      "D": "As 280 days from the last full moon.",
+      "E": "As 36 weeks after the last menstrual period.",
+      "answer": "C",
+      "explanation": "The EDD is calculated using Naegele’s rule: LMP - 3 months + 7 days"
+    },
+    {
+      "q": "The last menstrual period was June 30. The expected date of delivery (EDD) is approximately:",
+      "A": "March 23.",
+      "B": "April 7.",
+      "C": "March 28.",
+      "D": "April 23.",
+      "E": "March 7.",
+      "answer": "E",
+      "explanation": "Using Naegele’s rule"
+    },
+    {
+      "q": "Uterine Cervix:",
+      "A": "Is the portion of the uterus below the isthmus",
+      "B": "External OS cell lining is columnar epithelium",
+      "C": "Laterally is attached to the round ligament",
+      "D": "The cervical canal is covered with stratified squamous epithelium",
+      "E": "Can be dilated with dilators without the need of anesthesia",
+      "answer": "A",
+      "explanation": "Uterine cervix is the portion of the uterus below the isthmus"
+    },
+    {
+      "q": "The main support of the uterus is provided by:",
+      "A": "The round ligament",
+      "B": "The cardinal ligament",
+      "C": "The infundibulopelvic ligament",
+      "D": "The integrity of the pelvis",
+      "E": "The broad ligament",
+      "answer": "B",
+      "explanation": "The cardinal ligament is the main support for the uterus"
+    },
+    {
+      "q": "The most important muscle in the pelvic floor is:",
+      "A": "Bulbocavernosus.",
+      "B": "Ischiocavernosus.",
+      "C": "Levator ani.",
+      "D": "Superficial transverse perineal muscle.",
+      "E": "Deep transverse perineal muscle.",
+      "answer": "C",
+      "explanation": "Levator ani muscle is the most important muscle of the pelvic floor"
+    },
+    {
+      "q": "The pelvis includes which of the following bones:",
+      "A": "Trochanter, hip socket, ischium, sacrum & pubis.",
+      "B": "Ilium, ischium, pubis, sacrum & coccyx.",
+      "C": "Ilium, ischium & pubis.",
+      "D": "Sacrum, ischium, ilium & pubis.",
+      "E": "Trochanter, sacrum, coccyx, ilium & pubis.",
+      "answer": "B",
+      "explanation": "The pelvis is made up of ilium, ischium, pubis, sacrum, and coccyx"
+    }
+  ]
+} 

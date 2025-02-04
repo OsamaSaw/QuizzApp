@@ -1,0 +1,201 @@
+{
+  "questions": [
+    {
+      "q": "Which imaging modality is most appropriate for diagnosing acute pulmonary embolism?",
+      "A": "Chest X-ray",
+      "B": "CT pulmonary angiogram",
+      "C": "MRI",
+      "D": "Ultrasound",
+      "answer": "B",
+      "explanation": "CT pulmonary angiogram is the gold standard for diagnosing acute pulmonary embolism due to its high sensitivity and specificity"
+    },
+    {
+      "q": "What is the most sensitive imaging technique for detecting early breast cancer?",
+      "A": "Mammography",
+      "B": "Ultrasound",
+      "C": "MRI",
+      "D": "CT scan",
+      "answer": "C",
+      "explanation": "MRI has the highest sensitivity for detecting breast cancer, especially in dense breast tissue"
+    },
+    {
+      "q": "Regarding hot flushes in the menopausal period. All the following are true, EXCEPT :",
+      "A": "They are reduced by exercise.",
+      "B": "They are less in obese women.",
+      "C": "They are more in smoking women.",
+      "D": "The best treatment is HRT.",
+      "E": "It usually disappears in 1 month.",
+      "answer": "E",
+      "explanation": ""
+  },
+  {
+      "q": "Which of the following statement is INCORRECT:",
+      "A": "Climacteric is the phase during which a woman passes form the reproductive stage to non-reproductive stage.",
+      "B": "Pre-menopause is the time during climacteric during which the periods becomes irregular.",
+      "C": "Menopause is the final menstruation which occurs during the climacteric.",
+      "D": "Premature menopause is cessation of menstruation before the age of 40.",
+      "E": "Oral contraceptive pills delay the onset of menopause.",
+      "answer": "B",
+      "explanation": ""
+  },
+  {
+      "q": "True statement concerning the development of postmenopausal osteoporosis include:",
+      "A": "In typical patients, the yearly rate of bone loss remains constant.",
+      "B": "Estrogen replacement therapy is not effective in treatment.",
+      "C": "X-ray density of the wrist determines estrogen dosage.",
+      "D": "In most patients, fractures of trabecular bone occur earlier than fractures of cortical bone (e.g. Femur)",
+      "E": "Very common in black population.",
+      "answer": "D",
+      "explanation": ""
+  },
+  {
+      "q": "The severity of menopausal vasomotor symptoms correlates best with:",
+      "A": "Mental status at the time if climacteric.",
+      "B": "Rate of estrogen withdrawal.",
+      "C": "Serum estrogen concentration.",
+      "D": "Serum FSH concentration.",
+      "E": "Serum LH Concentration",
+      "answer": "B",
+      "explanation": ""
+  },
+  {
+      "q": "Which of the following is NOT a physical finding associated with the climacteric:",
+      "A": "Atrophic vaginitis.",
+      "B": "Clitoromegaly.",
+      "C": "Vaginal stenosis.",
+      "D": "Small labia minora.",
+      "E": "Amenorrhea.",
+      "answer": "B",
+      "explanation": ""
+  },
+  {
+      "q": "Recognized feature of postmenopausal women is:",
+      "A": "Low FSH & LH.",
+      "B": "Increased bone mineral density.",
+      "C": "High FSH.",
+      "D": "High level of estrogen.",
+      "E": "Increase the incidence of uterine fibroid.",
+      "answer": "C",
+      "explanation": ""
+  },
+  {
+      "q": "After menopause: Which is true?",
+      "A": "There is increase in vaginal acidity",
+      "B": "Gonadotropins secretion falls.",
+      "C": "Recurrent vaginal bleeding should be investigated by endometrial biopsy.",
+      "D": "Malignancy is the leading cause of post menopausal bleeding.",
+      "E": "Bone mineral density increases.",
+      "answer": "C",
+      "explanation": ""
+  },
+  {
+      "q": "All the following are possible causes of menorrhagia, EXCEPT",
+      "A": "Uterine fibroid",
+      "B": "Adenomyosis",
+      "C": "Pelvic inflammatory disease",
+      "D": "Endometrial hyperplasia",
+      "E": "Combine oral contraceptive pills",
+      "answer": "E",
+      "explanation": ""
+  },
+  {
+      "q": "After menopause",
+      "A": "There is increase vaginal acidity.",
+      "B": "Gonadotropins level falls.",
+      "C": "There is increase in bone density.",
+      "D": "The size of an existing fibroid increases.",
+      "E": "Any post menopausal bleeding should be investigated by endometrial sampling.",
+      "answer": "E",
+      "explanation": ""
+  },
+  {
+      "q": "Menorrhagia is:",
+      "A": "Intermittent irregular vaginal bleeding",
+      "B": "Commonly presents as postmenopausal bleeding",
+      "C": "Heavy menstrual cycle more than 80 ml",
+      "D": "Infrequent spaced cycles every 45 days",
+      "E": "The main presentation in case of Asherman Syndrome",
+      "answer": "C",
+      "explanation": ""
+  },
+  {
+      "q": "An Obese 63-years old women present with a 3 month history of continuous scanty bleeding. Adequate history and physical examination what is your recommendation ?",
+      "A": "Cervical cone biopsy",
+      "B": "D&C",
+      "C": "Cycling with progestin",
+      "D": "Laparoscopy",
+      "E": "Official visit every 6month for the evaluation.",
+      "answer": "B",
+      "explanation": ""
+  },
+  {
+      "q": "Amount of blood loss during the normal menses :",
+      "A": "10 to 25 ml.",
+      "B": "25 to 75 ml.",
+      "C": "80 to 120 ml.",
+      "D": "125 to 175 ml.",
+      "answer": "B",
+      "explanation": ""
+  },
+  {
+      "q": "Post menopausal bleeding :",
+      "A": "May be considered as a normal variation",
+      "B": "Ultrasound can exclude uterine malignancy",
+      "C": "Hysteroscopy is contraindicated",
+      "D": "Cervical cancer need exclusion.",
+      "E": "Atrophic vaginitis should not be considered for its very rare finding.",
+      "answer": "D",
+      "explanation": ""
+  },
+  {
+      "q": "All the following are possible causes of menorrhagia, EXCEPT",
+      "A": "Uterine fibroid",
+      "B": "Adenomyosis",
+      "C": "Pelvic inflammatory disease",
+      "D": "Endometrial hyperplasia",
+      "E": "Combine oral contraceptive pills",
+      "answer": "E",
+      "explanation": ""
+  },
+  {
+      "q": "Which statement regarding menstrual abnormality is correct ?",
+      "A": "Menorrhagia is defined as a \"frequent period\".",
+      "B": "Bleeding due to uterine polyps is called dysfunctional uterine bleeding.",
+      "C": "Oligomenrrhia means periods with more than 35 days apart.",
+      "D": "Menorrhagia means a \"heavy period\".",
+      "E": "Polymmenorrhea means periods that occur every 28 days",
+      "answer": "C",
+      "explanation": ""
+  },
+  {
+      "q": "Regarding Menorrhagia:",
+      "A": "Progesterone mediated IUCD can treat this condition.",
+      "B": "D & C is not required for diagnosis & management in a 40 years or more.",
+      "C": "In adolescent, it is important to rule out malignancy.",
+      "D": "Asherman syndrome is a main cause.",
+      "E": "It is defined as bleeding occurring every 2 weeks.",
+      "answer": "A",
+      "explanation": ""
+  },
+  {
+      "q": "Initial management for patient with post menopausal bleeding is:",
+      "A": "pap smear.",
+      "B": "Ultrasound.",
+      "C": "CT scan",
+      "D": "D & C.",
+      "E": "History & physical examination.",
+      "answer": "E",
+      "explanation": ""
+  },
+  {
+      "q": "The most common cause of menstrual abnormality in reproductive-aged women is:",
+      "A": "Ectopic pregnancy.",
+      "B": "Uterine leiomyomas.",
+      "C": "Adenomyosis.",
+      "D": "Anovulation.",
+      "E": "Coagulopathy.",
+      "answer": "D",
+      "explanation": ""
+  }
+  ]
+} 

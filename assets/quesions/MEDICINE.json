@@ -1,0 +1,476 @@
+{
+    "questions":[
+
+        {
+            "q": "Regarding hot flushes in the menopausal period. All the following are true, EXCEPT :",
+            "A": "They are reduced by exercise.",
+            "B": "They are less in obese women.",
+            "C": "They are more in smoking women.",
+            "D": "The best treatment is HRT.",
+            "E": "It usually disappears in 1 month.",
+            "answer": "E",
+            "explanation": ""
+        },
+        {
+            "q": "Which of the following statement is INCORRECT:",
+            "A": "Climacteric is the phase during which a woman passes form the reproductive stage to non-reproductive stage.",
+            "B": "Pre-menopause is the time during climacteric during which the periods becomes irregular.",
+            "C": "Menopause is the final menstruation which occurs during the climacteric.",
+            "D": "Premature menopause is cessation of menstruation before the age of 40.",
+            "E": "Oral contraceptive pills delay the onset of menopause.",
+            "answer": "B",
+            "explanation": ""
+        },
+        {
+            "q": "True statement concerning the development of postmenopausal osteoporosis include:",
+            "A": "In typical patients, the yearly rate of bone loss remains constant.",
+            "B": "Estrogen replacement therapy is not effective in treatment.",
+            "C": "X-ray density of the wrist determines estrogen dosage.",
+            "D": "In most patients, fractures of trabecular bone occur earlier than fractures of cortical bone (e.g. Femur)",
+            "E": "Very common in black population.",
+            "answer": "D",
+            "explanation": ""
+        },
+        {
+            "q": "The severity of menopausal vasomotor symptoms correlates best with:",
+            "A": "Mental status at the time if climacteric.",
+            "B": "Rate of estrogen withdrawal.",
+            "C": "Serum estrogen concentration.",
+            "D": "Serum FSH concentration.",
+            "E": "Serum LH Concentration",
+            "answer": "B",
+            "explanation": ""
+        },
+        {
+            "q": "Which of the following is NOT a physical finding associated with the climacteric:",
+            "A": "Atrophic vaginitis.",
+            "B": "Clitoromegaly.",
+            "C": "Vaginal stenosis.",
+            "D": "Small labia minora.",
+            "E": "Amenorrhea.",
+            "answer": "B",
+            "explanation": ""
+        },
+        {
+            "q": "Recognized feature of postmenopausal women is:",
+            "A": "Low FSH & LH.",
+            "B": "Increased bone mineral density.",
+            "C": "High FSH.",
+            "D": "High level of estrogen.",
+            "E": "Increase the incidence of uterine fibroid.",
+            "answer": "C",
+            "explanation": ""
+        },
+        {
+            "q": "After menopause: Which is true?",
+            "A": "There is increase in vaginal acidity",
+            "B": "Gonadotropins secretion falls.",
+            "C": "Recurrent vaginal bleeding should be investigated by endometrial biopsy.",
+            "D": "Malignancy is the leading cause of post menopausal bleeding.",
+            "E": "Bone mineral density increases.",
+            "answer": "C",
+            "explanation": ""
+        },
+        {
+            "q": "All the following are possible causes of menorrhagia, EXCEPT",
+            "A": "Uterine fibroid",
+            "B": "Adenomyosis",
+            "C": "Pelvic inflammatory disease",
+            "D": "Endometrial hyperplasia",
+            "E": "Combine oral contraceptive pills",
+            "answer": "E",
+            "explanation": ""
+        },
+        {
+            "q": "After menopause",
+            "A": "There is increase vaginal acidity.",
+            "B": "Gonadotropins level falls.",
+            "C": "There is increase in bone density.",
+            "D": "The size of an existing fibroid increases.",
+            "E": "Any post menopausal bleeding should be investigated by endometrial sampling.",
+            "answer": "E",
+            "explanation": ""
+        },
+        {
+            "q": "Menorrhagia is:",
+            "A": "Intermittent irregular vaginal bleeding",
+            "B": "Commonly presents as postmenopausal bleeding",
+            "C": "Heavy menstrual cycle more than 80 ml",
+            "D": "Infrequent spaced cycles every 45 days",
+            "E": "The main presentation in case of Asherman Syndrome",
+            "answer": "C",
+            "explanation": ""
+        },
+        {
+            "q": "An Obese 63-years old women present with a 3 month history of continuous scanty bleeding. Adequate history and physical examination what is your recommendation ?",
+            "A": "Cervical cone biopsy",
+            "B": "D&C",
+            "C": "Cycling with progestin",
+            "D": "Laparoscopy",
+            "E": "Official visit every 6month for the evaluation.",
+            "answer": "B",
+            "explanation": ""
+        },
+        {
+            "q": "Amount of blood loss during the normal menses :",
+            "A": "10 to 25 ml.",
+            "B": "25 to 75 ml.",
+            "C": "80 to 120 ml.",
+            "D": "125 to 175 ml.",
+            "answer": "B",
+            "explanation": ""
+        },
+        {
+            "q": "Post menopausal bleeding :",
+            "A": "May be considered as a normal variation",
+            "B": "Ultrasound can exclude uterine malignancy",
+            "C": "Hysteroscopy is contraindicated",
+            "D": "Cervical cancer need exclusion.",
+            "E": "Atrophic vaginitis should not be considered for its very rare finding.",
+            "answer": "D",
+            "explanation": ""
+        },
+        {
+            "q": "All the following are possible causes of menorrhagia, EXCEPT",
+            "A": "Uterine fibroid",
+            "B": "Adenomyosis",
+            "C": "Pelvic inflammatory disease",
+            "D": "Endometrial hyperplasia",
+            "E": "Combine oral contraceptive pills",
+            "answer": "E",
+            "explanation": ""
+        },
+        {
+            "q": "Which statement regarding menstrual abnormality is correct ?",
+            "A": "Menorrhagia is defined as a \"frequent period\".",
+            "B": "Bleeding due to uterine polyps is called dysfunctional uterine bleeding.",
+            "C": "Oligomenrrhia means periods with more than 35 days apart.",
+            "D": "Menorrhagia means a \"heavy period\".",
+            "E": "Polymmenorrhea means periods that occur every 28 days",
+            "answer": "C",
+            "explanation": ""
+        },
+        {
+            "q": "Regarding Menorrhagia:",
+            "A": "Progesterone mediated IUCD can treat this condition.",
+            "B": "D & C is not required for diagnosis & management in a 40 years or more.",
+            "C": "In adolescent, it is important to rule out malignancy.",
+            "D": "Asherman syndrome is a main cause.",
+            "E": "It is defined as bleeding occurring every 2 weeks.",
+            "answer": "A",
+            "explanation": ""
+        },
+        {
+            "q": "Initial management for patient with post menopausal bleeding is:",
+            "A": "pap smear.",
+            "B": "Ultrasound.",
+            "C": "CT scan",
+            "D": "D & C.",
+            "E": "History & physical examination.",
+            "answer": "E",
+            "explanation": ""
+        },
+        {
+            "q": "The most common cause of menstrual abnormality in reproductive-aged women is:",
+            "A": "Ectopic pregnancy.",
+            "B": "Uterine leiomyomas.",
+            "C": "Adenomyosis.",
+            "D": "Anovulation.",
+            "E": "Coagulopathy.",
+            "answer": "D",
+            "explanation": ""
+        },
+        {
+            "q": "The most common symptom of endometrial hyperplasia:",
+            "A": "Vaginal discharge & itching.",
+            "B": "Vaginal bleeding.",
+            "C": "Amenorrhea.",
+            "D": "Pelvic pain.",
+            "E": "Abdominal distension.",
+            "answer": "B",
+            "explanation": ""
+        },
+        {
+            "q": "Menorrhagia occurring at the age of puberty may be due to:",
+            "A": "Folic acid deficiency anemia.",
+            "B": "Congenital adrenal hyperplasia.",
+            "C": "Von Willbrand’s disease. (Congenital coagulopathy)",
+            "D": "Androgen insensitivity disease.",
+            "E": "Nelson’s syndrome.",
+            "answer": "C",
+            "explanation": ""
+        },
+        {
+            "q": "The initial attempt to control uterine bleeding due to blood dyscrasia (Prothrombin deficiency) after ruling out anatomic lesions should be:",
+            "A": "Hysterectomy.",
+            "B": "D& C & hysterectomy.",
+            "C": "Cyclic estrogens.",
+            "D": "Oral contraceptives.",
+            "E": "Pregnancy.",
+            "answer": "D",
+            "explanation": ""
+        },
+        {
+            "q": "Regarding Adenomyosis:",
+            "A": "Is the presence of endometrial glands and stroma out side the uterus",
+            "B": "Can be diagnosed by D&C",
+            "C": "Can be detected by hysteroscopy",
+            "D": "Can cause severe dysmenorrhea",
+            "E": "Can cause infertility",
+            "answer": "D",
+            "explanation": ""
+        },
+        {
+            "q": "The treatment of endometriosis include all the following EXCEPT:",
+            "A": "Birth control pills (BCP).",
+            "B": "Oral progesterone.",
+            "C": "Estrogen.",
+            "D": "Depoprovera.",
+            "E": "GnRH analogue.",
+            "answer": "C",
+            "explanation": ""
+        },
+        {
+            "q": "These are possible sites for endometriosis deposits EXCEPT:",
+            "A": "Brain.",
+            "B": "Peritoneum.",
+            "C": "Uterosacral ligaments.",
+            "D": "Ovaries.",
+            "E": "Scars.",
+            "answer": "A",
+            "explanation": ""
+        },
+        {
+            "q": "The diagnosis of endometriosis is confirmed by histologically identifying extragenital implants containing :",
+            "A": "Endometrial glands and Stroma.",
+            "B": "Hypertrophic smooth muscle",
+            "C": "Hemorrhage & iron pigment deposit",
+            "D": "Fibroid",
+            "E": "Stromal decidualization",
+            "answer": "A",
+            "explanation": ""
+        },
+        {
+            "q": "Regarding Adenomyosis, the following are true EXCEPT:",
+            "A": "Causes dysmenorrhea",
+            "B": "Usually associated with menorrhagia",
+            "C": "The uterine size not affected by the disease",
+            "D": "Hysterectomy is the treatment of choice to cure this condition.",
+            "E": "Only confirmed after histopathology",
+            "answer": "C",
+            "explanation": ""
+        },
+        {
+            "q": "Secondary dysmenorrhea can be caused by all of the following EXCEPT:",
+            "A": "Endometrial polyp",
+            "B": "Endometriosis",
+            "C": "PID",
+            "D": "Uterine leiomyoma",
+            "E": "OCP",
+            "answer": "E",
+            "explanation": ""
+        },
+        {
+            "q": "Regarding Endometriosis :",
+            "A": "is the presence of endometrial tissue in the myometrium",
+            "B": "The liver is the most common site",
+            "C": "Implantation ,lymphatic –vascular metastasis &coelmic metaplasia are the theories about the pathogenesis",
+            "D": "OCP are contraindicated as they worsen the symptom",
+            "E": "Is best treatment by avoiding the pregnancy",
+            "answer": "C",
+            "explanation": ""
+        },
+        {
+            "q": "Pelvic endometriosis :",
+            "A": "Is a cause of 1ry dysmenorrheal",
+            "B": "Associated with excessive vaginal discharge",
+            "C": "Associated with prolonged use of IUCD",
+            "D": "Combined OCP are predisposing factor",
+            "E": "Can be diagnosed by laparoscopy",
+            "answer": "E",
+            "explanation": ""
+        },
+     {
+            "q": "The following are theories of endometriosis EXCEPT:",
+            "A": "Retrograde menstruation",
+            "B": "Endometrial hyperplasia",
+            "C": "Immunological factor",
+            "D": "Coilemic metaplasia",
+            "E": "Lymphatic spread",
+            "answer": "B",
+            "explanation": ""
+        },
+       {
+            "q": "A woman with symptomatic endometriosis is likely to complain of all of the following EXCEPT:",
+            "A": "Dyspareunia.",
+            "B": "Mood swings.",
+            "C": "Painful defecation.",
+            "D": "Severe dysmenorrhea.",
+            "E": "Infertility.",
+            "answer": "B",
+            "explanation": ""
+        },
+        {
+            "q": ". Primary dysmenorrhea is most likely caused by:",
+            "A": "Uterine hypercontractility.",
+            "B": "Increased parity.",
+            "C": "High levels of estrogen.",
+            "D": "Coitus during menses.",
+            "E": "Obesity.",
+            "answer": "A",
+            "explanation": ""
+        },
+       {
+            "q": "The following are theories for endometriosis, EXCEPT:",
+            "A": "Coelimic metaplasia.",
+            "B": "Endometrial hyperplasia.",
+            "C": "Retrograde menstruation.",
+            "D": "Immunological factor.",
+            "answer": "B",
+            "explanation": ""
+        },
+        {
+            "q": "Regarding Endometriosis, all of the following are CORRECT, EXCECPT:",
+            "A": "Is frequently associated with infertility.",
+            "B": "Causes deep dyspareunia.",
+            "C": "Is often asymptomatic.",
+            "D": "Causes post coital bleeding.",
+            "E": "Causes Dysmenorrhea.",
+            "answer": "D",
+            "explanation": ""
+        },
+      {
+            "q": ". Endometriosis is :",
+            "A": "The presence of endometrial glands outside the uterus.",
+            "B": "The presence of endometrial stroma outside the uterus.",
+            "C": "The presence of endometrial glands & Stroma outside the uterus.",
+            "D": "A disease of menopause.",
+            "E": "Hyperplasia of normally located endometrium.",
+            "answer": "C",
+             "explanation": ""
+        },
+       {
+           "q": "Dyspareunia in endometriosis can be caused by the following EXCEPT:",
+           "A": "Endometriomas.",
+            "B": "Flexed retroversion of the uterus.",
+           "C": "Uterosacral implants.",
+            "D": "Danazol therapy.",
+           "E": "The use of the birth control pill.",
+            "answer": "E",
+             "explanation": ""
+        },
+    {
+            "q":"The operation of Endometriosis should be:",
+            "A":"Tailored to the patient's age, symptoms, & extent of disease.",
+            "B":"Total abdominal hysterectomy (TAH) & bilateral Salpingo-oophorectomy (BSO).",
+           "C":"Removal of implants only.",
+            "D":"Presacral neuroectomy.",
+            "E":"Unilateral Salpingo-oophorectomy",
+           "answer":"A",
+            "explanation": ""
+        },
+      {
+         "q":"Each of the following can be a treatment modality for endometriosis EXCEPT :",
+             "A":"Depoprovera medroxy progesterone",
+            "B":"GnRH analogues",
+            "C":"Estrogen skin patches",
+           "D":"Oral contraceptive pills",
+            "E":"Danazol",
+            "answer":"C",
+             "explanation": ""
+        },
+        {
+            "q":"The leading theories in the pathogenesis of endometriosis include :",
+          "A":"Retrograde menstruation with transport of endometrial cells",
+             "B":"Metaplasia of coleomic epithelium",
+             "C":"Hematogenous of lymphatic spread",
+           "D":"Direct transplantation of endometrial cells",
+            "E":"All of the above",
+           "answer":"E",
+            "explanation": ""
+        },
+      {
+        "q":". A 40 year-old woman complains of menorrhagia and dysmenorrhea that progressed gradually, the most likely diagnosis is:",
+           "A":"Endometrial cancer.",
+             "B":"Adenomyosis.",
+           "C":"Cervical cancer.",
+            "D":"Ovarian cyst.",
+           "E":"Endometrial polyps.",
+            "answer":"B",
+             "explanation": ""
+        },
+       {
+           "q":"The diagnosis of endometriosis is often strongly suspected from patient's initial history expressing the following EXCEPT:",
+           "A":"Infertility",
+            "B":"Dysmenorrhea.",
+            "C":"Vaginal dryness.",
+          "D":"Dyspareunia.",
+            "E":"Chronic Pelvic pain.",
+            "answer":"C",
+            "explanation": ""
+        },
+      {
+        "q":"Premenstrual tension should be initially treated with:",
+          "A":"COCP.",
+            "B":"Hysterectomy.",
+          "C":"Aldosterone.",
+            "D":"Diuretics.",
+             "E":"D & C.",
+           "answer":"A",
+            "explanation": ""
+        },
+      {
+            "q":"Which of the following tumors is LEAST likely to be hormonally active:",
+            "A":"Sertoli-lyeding cell tumor.",
+            "B":"Granulosa cell tumor.",
+          "C":"Hair cell tumor.",
+           "D":"Fibroma.",
+            "E":"Thecoma.",
+            "answer":"D",
+             "explanation": ""
+        },
+    {
+            "q":"The most common malignancy in the female reproductive organs:",
+          "A":"Carcinoma of the cervix.",
+            "B":"Carcinoma of the ovary.",
+            "C":"Carcinoma of the breast.",
+          "D":"Carcinoma of the uterine corpus.",
+           "E":"Leiomyosarcoma of the uterus",
+            "answer":"C",
+             "explanation": ""
+        },
+      {
+            "q":"16 year old single girl presented with a mass in the pelvis was detected clinically all the following investigation can be done , EXCEPT :",
+             "A":"CT",
+            "B":"Laparoscopy",
+            "C":"PAP smear",
+            "D":"USS",
+           "E":"MR",
+             "answer":"C",
+            "explanation": ""
+        },
+      {
+          "q":"Laparoscopy is used in the diagnosis of the following EXCEPT:",
+            "A":"Ectopic pregnancy.",
+          "B":"Endometriosis.",
+            "C":"Ovarian cyst.",
+            "D":"Tubal patency.",
+          "E":"Submucous fibroid.",
+            "answer":"E",
+            "explanation": ""
+        },
+      {
+         "q":"The Commonest uterine fibroid to cause excessive bleeding is :",
+           "A":"Submucous fibroid.",
+           "B":"Subserous fibroid.",
+            "C":"Intramural fibroid.",
+           "D":"Cervical fibroid.",
+          "E":"Broad ligament fibroid.",
+            "answer":"A",
+           "explanation": ""
+        }
+    
+
+    ]
+}
+   

@@ -1,0 +1,212 @@
+{
+  "questions": [
+    {
+      "q": "Which antibiotic is most appropriate for treating community-acquired MRSA skin infections?",
+      "A": "Penicillin",
+      "B": "Trimethoprim-sulfamethoxazole",
+      "C": "Amoxicillin",
+      "D": "Cephalexin",
+      "answer": "B",
+      "explanation": "Trimethoprim-sulfamethoxazole is a first-line treatment for community-acquired MRSA infections"
+    },
+    {
+      "q": "What is the most common cause of viral meningitis?",
+      "A": "Herpes simplex virus",
+      "B": "Enterovirus",
+      "C": "West Nile virus",
+      "D": "Mumps virus",
+      "answer": "B",
+      "explanation": "Enteroviruses are responsible for about 85% of viral meningitis cases"
+    },
+    {
+      "q": "Hyperextension of the fetal head is found in:",
+      "A": "Vertex presentation",
+      "B": "Face presentation",
+      "C": "Shoulder presentation",
+      "D": "Breech presentation",
+      "E": "Hydrocephalic baby",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Stages of labor:",
+      "A": "The first stage commences at the time of membrane rupture",
+      "B": "The cervix dilates at a consistent rate of 3 cm per hour in the first stage",
+      "C": "The third stage ends with the delivery of the placenta and membranes",
+      "D": "Forceps or ventouse may be useful in slow progress of the late 1st stage",
+      "E": "Syntometrine is a combination of oxytocin and ergometrine, used in the treatment of secondary postpartum hemorrhage (PPH)",
+      "answer": "C",
+      "explanation": "The third stage of labor ends with the delivery of the placenta and membranes"
+    },
+    {
+      "q": "All the following characteristics are applied to a pelvis favorable to vaginal delivery EXCEPT:",
+      "A": "Sacral promontory cannot be felt",
+      "B": "Obstetric conjugate is less than 10 cm",
+      "C": "Ischial spines are not prominent",
+      "D": "Subpubic arch accepts 2 fingers",
+      "E": "Intertuberous diameter accepts 4 knuckles on pelvic exam",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "In the fetus:",
+      "A": "The coronal suture lies between the two parietal bones",
+      "B": "The umbilical artery normally contains one artery and two veins",
+      "C": "Fetal lie describes the long axis of the fetus to the long axis of the mother",
+      "D": "Entanglement of the umbilical cord is common in diamniotic twins",
+      "E": "The anterior fontanelle is usually closed by the time of labor",
+      "answer": "C",
+      "explanation": "Fetal lie describes the long axis of the fetus to the long axis of the mother"
+    },
+    {
+      "q": "Which of the following terms best describes the pelvic type of small posterior sagittal diameter, convergent sidewalls, prominent ischial spines, and narrow pubic arch?",
+      "A": "Android",
+      "B": "Gynecoid",
+      "C": "Anthropoid",
+      "D": "Platypelloid",
+      "E": "Mixed",
+      "answer": "A",
+      "explanation": "Android pelvis has a small posterior sagittal diameter, convergent sidewalls, prominent ischial spines, and narrow pubic arch"
+    },
+    {
+      "q": "The second stage of labor involves:",
+      "A": "Separation of the placenta",
+      "B": "Effacement of the cervix",
+      "C": "Expulsion of the placenta",
+      "D": "Dilation of the cervix",
+      "E": "Expulsion of the fetus",
+      "answer": "E",
+      "explanation": "The second stage of labor ends with the expulsion of the fetus"
+    },
+    {
+      "q": "A pelvic inlet is felt to be contracted if:",
+      "A": "The anteroposterior diameter is only 12 cm",
+      "B": "The transverse diameter is only 10 cm",
+      "C": "Platypelloid pelvis",
+      "D": "The mother is short",
+      "E": "The patient had a previous C-section",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "At term, the ligaments of the pelvis change. This can result in:",
+      "A": "Increasing rigidity of the pelvis",
+      "B": "Degeneration of pelvic ground substance",
+      "C": "Decreasing width of the symphysis",
+      "D": "Enlargement of the pelvic cavity",
+      "E": "Posterior rotation of the levator muscles",
+      "answer": "D",
+      "explanation": "Enlargement of the pelvic cavity will help in the process of delivery"
+    },
+    {
+      "q": "During the delivery, the fetal head follows the pelvic axis. The axis is best described as:",
+      "A": "A straight line",
+      "B": "A curved line, first directed anteriorly then caudal",
+      "C": "A curved line, first directed posteriorly then caudal",
+      "D": "A curved line, first directed posteriorly then cephalic",
+      "E": "None of the above",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "In a vertex presentation, the position is determined by the relationship of what fetal part to the mother's pelvis:",
+      "A": "Mentum",
+      "B": "Sacrum",
+      "C": "Acromion",
+      "D": "Occiput",
+      "E": "Sinciput",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Signs of placental separation after delivery include:",
+      "A": "Bleeding",
+      "B": "Changes of uterine shape from discoid to globular",
+      "C": "Lengthening of the umbilical cord",
+      "D": "Presentation of the placenta at the cervical os",
+      "E": "All of the above",
+      "answer": "E",
+      "explanation": "All the above are signs of placental separation after delivery"
+    },
+    {
+      "q": "An unstable lie is related to all of the following EXCEPT:",
+      "A": "Prematurity",
+      "B": "Grand multiparity",
+      "C": "Placenta previa",
+      "D": "Fundal fibroid",
+      "E": "Cervical fibroid",
+      "answer": "D",
+      "explanation": "Fundal fibroid is above where the fetus lies, though it can cause compression if it increases to a significantly larger size"
+    },
+    {
+      "q": "The relation of the fetal parts to one another determines:",
+      "A": "Presentation of the fetus",
+      "B": "Lie of the fetus",
+      "C": "Attitude of the fetus",
+      "D": "Position of the fetus",
+      "E": "None of the above",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "The relationship of the long axis of the fetus to the long axis of the mother is called:",
+      "A": "Lie",
+      "B": "Presentation",
+      "C": "Position",
+      "D": "Attitude",
+      "E": "None of the above",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "Engagement is strictly defined as:",
+      "A": "When the presenting part goes through the pelvic inlet",
+      "B": "When the presenting part is level with the ischial spines",
+      "C": "When the greatest biparietal diameter of the fetal head passes the pelvic inlet",
+      "D": "When the greatest biparietal diameter of the fetal head is at the level of ischial spines",
+      "E": "None of the above",
+      "answer": "C",
+      "explanation": "Engagement is when the greatest biparietal diameter of the fetal head passes the pelvic inlet"
+    },
+
+    {
+      "q": "The fetal head may undergo changes in shape during normal delivery. The most common etiology listed is:",
+      "A": "Cephalohematoma",
+      "B": "Molding",
+      "C": "Subdural hematoma",
+      "D": "Hydrocephalus",
+      "E": "None of the above",
+      "answer": "B",
+      "explanation": "Molding helps in the delivery process and passage of the fetus through the pelvic area"
+    },
+    {
+      "q": "If the large fontanel is the presenting part, what is the presentation?",
+      "A": "Vertex",
+      "B": "Sinciput",
+      "C": "Breech",
+      "D": "Face",
+      "E": "Brow",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Methods of determining fetal presentation & position include:",
+      "A": "Cullen's sign",
+      "B": "Leopold's maneuver",
+      "C": "Mauriceau-Smelli-Veit maneuver",
+      "D": "Careful history taking",
+      "answer": "B",
+      "explanation": "Leopold’s maneuver is used to determine the fetal presentation and position"
+    },
+    {
+      "q": "A transverse lie of the fetus is least likely in the presence of:",
+      "A": "Placenta previa",
+      "B": "Pelvic contraction",
+      "C": "Preterm fetus",
+      "D": "Grand multiparity",
+      "E": "Normal term fetus",
+      "answer": "E",
+      "explanation": "A transverse lie is least likely seen in a normal term fetus"
+    }
+  ]
+} 

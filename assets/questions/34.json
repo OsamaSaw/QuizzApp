@@ -1,0 +1,379 @@
+{
+  "questions": [
+    {
+      "q": "Which radioisotope is most commonly used in myocardial perfusion imaging?",
+      "A": "Technetium-99m",
+      "B": "Iodine-131",
+      "C": "Fluorine-18",
+      "D": "Thallium-201",
+      "answer": "A",
+      "explanation": "Technetium-99m is the most commonly used isotope for myocardial perfusion imaging due to its ideal half-life and energy characteristics"
+    },
+    {
+      "q": "What is the most appropriate nuclear medicine study for diagnosing pulmonary embolism?",
+      "A": "V/Q scan",
+      "B": "PET scan",
+      "C": "Bone scan",
+      "D": "MUGA scan",
+      "answer": "A",
+      "explanation": "Ventilation/Perfusion (V/Q) scan is a nuclear medicine study specifically designed to detect pulmonary embolism"
+    },   {
+      "q": "Development stage:",
+      "A": "Testosterone is secreted by Sertoli cells",
+      "B": "Anti-müllerian hormone is secreted by Leydig cells",
+      "C": "Anti-müllerian hormone is responsible for involution of normal müllerian system",
+      "D": "Anti-müllerian hormone is not responsible for involution of normal müllerian system",
+      "answer": "C",
+      "explanation": "Anti-müllerian hormone is responsible for involution of the normal müllerian system. Testosterone is produced by Leydig cells and AMH is produced by Sertoli cells"
+    },
+    {
+      "q": "Bicornuate uterus can cause all of the following EXCEPT:",
+      "A": "Abortions",
+      "B": "Abnormal fetal lie",
+      "C": "Infertility",
+      "D": "Retained placenta",
+      "E": "Congenital anomalies of the baby",
+      "answer": "E",
+      "explanation": "Congenital anomalies are associated with a genetic origin rather than a structural one"
+    },
+    {
+      "q": "In Turner’s syndrome patients, all of the following are true EXCEPT:",
+      "A": "The streak ovaries should be removed surgically due to 25% tendency to be malignant",
+      "B": "Are usually less than 5 feet tall",
+      "C": "Have raised FSH levels",
+      "D": "Have female internal genitalia",
+      "E": "Have normal but infertile external genitalia",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "The adnexa uteri include all of the following EXCEPT:",
+      "A": "Ovary",
+      "B": "Fallopian tubes",
+      "C": "Uterus",
+      "D": "Broad ligament",
+      "E": "Round ligament",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "In the development of external genitalia:",
+      "A": "Genital tubercles form the labia minora",
+      "B": "Genital smoothing forms the labia majora",
+      "C": "Genital fold forms the scrotum in males",
+      "D": "Chlydrotestone is essential for the muscularity of external genitalia",
+      "E": "Müllerian system develops into external genitalia",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Congenital uterine malformations cause all of the following EXCEPT:",
+      "A": "Spontaneous abortions",
+      "B": "Premature labor",
+      "C": "Pregnancy-induced hypertension",
+      "D": "Abnormal fetal lie",
+      "E": "May obstruct labor",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Ovarian dysgenesis is associated with the elevation of which of the following hormones:",
+      "A": "Pituitary gonadotropins",
+      "B": "Estradiol",
+      "C": "Estriol",
+      "D": "Pregnanediol",
+      "E": "Progesterone",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "Confirmation of the diagnosis of Turner syndrome is best done by:",
+      "A": "Gyn PV examination",
+      "B": "Pregnanediol estimation",
+      "C": "Hysterosalpingography (HSG)",
+      "D": "Chromosomal analysis (karyotyping)",
+      "E": "Estimation of hypophyseal gonadotropins",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "In cases of androgen insensitivity syndrome the following findings are true EXCEPT:",
+      "A": "The chromosomal sex is 46 XX",
+      "B": "Scant or no pubic or axillary hair",
+      "C": "No uterus",
+      "D": "Normal female external genitalia",
+      "E": "Breast are usually well developed",
+      "answer": "A",
+      "explanation": "The patients have a normal male karyotype of XY chromosome"
+    },
+    {
+      "q": "In testicular feminization syndrome:",
+      "A": "There are usually normal testes",
+      "B": "Kallmann's syndrome is a recognized cause",
+      "C": "Breast development is usually lacking",
+      "D": "There's usually very low testosterone level",
+      "E": "The karyotype is 46 XX",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "In Turner's syndrome, the following are usually observed EXCEPT:",
+      "A": "The ovaries are usually well developed",
+      "B": "The nipples are widely spaced",
+      "C": "The girl is of short stature",
+      "D": "Has a webbed neck",
+      "E": "The condition can be diagnosed by chromosomal analysis",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "Regarding the development of internal genital organs:",
+      "A": "The uterus, fallopian tubes, cervix & upper vagina develop from the mesonephric duct",
+      "B": "The testes secrete testosterone which causes regression of the müllerian ducts in the male fetus",
+      "C": "The vagina is formed by the urogenital sinus",
+      "D": "Müllerian agenesis (Mayer-Rokitansky-Kuster-Hauser syndrome) is characterized by the absence of the uterus & upper vagina with normal female external genitalia & 46 XX",
+      "E": "Bicornuate uterus & uterus didelphys result from vertical fusion defects of the müllerian ducts",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Regarding puberty, all of the following are true EXCEPT:",
+      "A": "It is the transitional period of development during which an individual matures from childhood to sexual & reproductive maturity",
+      "B": "Breast budding is the first visible sign of puberty",
+      "C": "The maximum growth velocity occurs at 12 years",
+      "D": "The age of menarche has decreased over the last 3-4 decades due to improved nutrition, general health & lifestyle changes",
+      "E": "Thelarche marks the attainment of reproductive maturity",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Turner's syndrome is associated with:",
+      "A": "Absent uterus",
+      "B": "Normal breast development",
+      "C": "Primary amenorrhea",
+      "D": "Hirsutism",
+      "E": "Normal height",
+      "answer": "C",
+      "explanation": "One of the clinical presentations of Turner syndrome is primary amenorrhea"
+    },
+    {
+      "q": "Anomalies of the uterus can be associated with the following EXCEPT:",
+      "A": "Urinary tract abnormalities",
+      "B": "Recurrent pregnancy loss",
+      "C": "Preterm labor",
+      "D": "Müllerian tract anomalies",
+      "E": "Polycystic ovary",
+      "answer": "E",
+      "explanation": "Polycystic ovary is a condition of the ovaries, not the uterus"
+    },
+    {
+      "q": "First endocrine influence in secondary sexual characteristics:",
+      "A": "Secretion of delta-4 androstenedione from the adrenal gland",
+      "B": "Pineal body maturation",
+      "C": "Pituitary maturation",
+      "D": "Hypothalamic down-regulation",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Follicular growth (in a non-ovulating follicle) is usually followed by:",
+      "A": "Ovulation",
+      "B": "Cyst formation",
+      "C": "Atresia",
+      "D": "Arrest",
+      "E": "Regression",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "The normal sequence of pubertal changes in the female is:",
+      "A": "Thelarche, Maximal growth velocity, menarche",
+      "B": "Maximal growth velocity, Thelarche, menarche",
+      "C": "Thelarche, menarche, maximal growth velocity",
+      "D": "Menarche, maximal growth velocity, Thelarche",
+      "E": "Menarche, body weight, Thelarche",
+      "answer": "A",
+      "explanation": "The sequence of pubertal changes in women starts with thelarche and ends in menarche"
+    },
+    {
+      "q": "The barr body is:",
+      "A": "The condensed nonfunctioning X chromosome",
+      "B": "The darkest, widest band found on chromosomes",
+      "C": "One extra lobe on the female polymorphonuclear leukocytes",
+      "D": "Found only in females",
+      "E": "The largest chromosome in the female genotype",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "The most common cause of precocious puberty is:",
+      "A": "Idiopathic",
+      "B": "Gonadoblastoma",
+      "C": "Albright syndrome",
+      "D": "Abnormal skull development",
+      "E": "Granulosa cell tumor",
+      "answer": "A",
+      "explanation": "The most common cause of precocious puberty is idiopathic"
+    },
+    {
+      "q": "The normal sequence of puberty is:",
+      "A": "Thelarche, adrenarche, growth, menarche",
+      "B": "Menarche, adrenarche, thelarche, growth",
+      "C": "Growth, thelarche, adrenarche, menarche",
+      "D": "Adrenarche, thelarche, growth, menarche",
+      "E": "Thelarche, menarche, adrenarche, growth",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "The luteal phase of the menstrual cycle is associated with:",
+      "A": "High luteinizing hormone level",
+      "B": "High progesterone levels",
+      "C": "High prolactin level",
+      "D": "Low basal body temperature",
+      "E": "Proliferative changes in the endometrium",
+      "answer": "B",
+      "explanation": "The development of the corpus luteum after ovulation leads to an increase in progesterone levels"
+    },
+    {
+      "q": "The follicular phase of the menstrual cycle is characterized by:",
+      "A": "Endometrial gland proliferation",
+      "B": "Decreased ovarian estradiol production",
+      "C": "Progesterone dominance",
+      "D": "A fixed length of 8 days",
+      "E": "A reduction in aromatase activity",
+      "answer": "A",
+      "explanation": "The follicular phase is characterized by the endometrial lining growth and gland proliferation"
+    },
+    {
+      "q": "A sample of cervical mucus is taken on day 12 of the menstrual cycle. The mucus is thin, clear, & stretchy. It is placed on a slide and allowed to air dry. When placed under a microscope, what would you expect:",
+      "A": "Calcium citrate",
+      "B": "Clear fields, devoid of bacteria cells",
+      "C": "Thick mucus with background bacteria",
+      "D": "A fern pattern characteristic of estrogen",
+      "E": "Clearly defined para-basal cells",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Estrogen hormone is produced from all of the following organs EXCEPT:",
+      "A": "Corpus luteum",
+      "B": "Anterior pituitary (anterior lobe of hypophysis)",
+      "C": "Placenta",
+      "D": "Testes",
+      "E": "Adrenal glands",
+      "answer": "B",
+      "explanation": "The anterior pituitary produces FSH, which stimulates the release of estrogen from the ovaries"
+    },
+    {
+      "q": "The midcycle LH surge:",
+      "A": "Enhances thecal cell androgen production",
+      "B": "Luteinizes granulosa cells",
+      "C": "Initiates resumption of meiosis",
+      "D": "Facilitates oocyte expulsion",
+      "E": "All the above",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "An involuted corpus luteum becomes a hyalinized mass known as a:",
+      "A": "Corpus delicti",
+      "B": "Corpus granulosa",
+      "C": "Graafian follicle",
+      "D": "Corpus atretica",
+      "E": "Corpus albicans",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following is the best method to predict the occurrence of ovulation:",
+      "A": "Thermogenic shift in basal body temperature",
+      "B": "LH surge",
+      "C": "Endometrial decidualization",
+      "D": "Profuse, thin, acellular cervical mucus",
+      "E": "Mittelschmerz",
+      "answer": "B",
+      "explanation": "LH surge indicates ovulation"
+    },
+    {
+      "q": "Luteal phase deficiency:",
+      "A": "Has inadequate luteal progesterone production",
+      "B": "Has inadequate follicular estrogen production",
+      "C": "Can be corrected by estrogen",
+      "D": "Associated with delayed menstruation",
+      "E": "Can lead to hypoprolactinemia",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "On examination of endometrial tissue obtained from a biopsy, it reveals simple columnar epithelium with no subnuclear vacuoles. The stroma is edematous, & a tortuous gland contains secretions. These findings are consistent with which stage of the menstrual cycle:",
+      "A": "Mid-proliferative",
+      "B": "Late proliferative",
+      "C": "Early secretory",
+      "D": "Mid-secretory",
+      "E": "Non-ovulatory cycle",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Ovulation occurs:",
+      "A": "Immediately after LH surge",
+      "B": "6-8 hours after LH surge",
+      "C": "After prolactin surge",
+      "D": "After follicles ripened in the ovary",
+      "E": "36 hours after LH surge",
+      "answer": "E",
+      "explanation": "Ovulation occurs 36 hours after LH surge"
+    },
+    {
+      "q": "Regarding estrogen hormone:",
+      "A": "It is produced in the corpus luteum",
+      "B": "It is responsible for secretory changes in the endometrium",
+      "C": "It is mainly secreted as E3 by the ovary",
+      "D": "Cannot be detected in the blood of postmenopausal women",
+      "E": "Stimulates sebaceous gland activity",
+      "answer": "A",
+      "explanation": "The corpus luteum primarily produces progesterone but also produces estrogen"
+    },
+    {
+      "q": "Regarding human chorionic gonadotropin, all of the following are true EXCEPT:",
+      "A": "It is produced by the placenta",
+      "B": "It is responsible for the maintenance of the corpus luteum",
+      "C": "Its level doubles every 48 hours in ectopic pregnancy",
+      "D": "Reaches a peak concentration in maternal serum by 10 weeks gestation",
+      "E": "Forms the main tumor marker for trophoblastic neoplastic diseases",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Endometrial changes during the menstrual cycle:",
+      "A": "The basal layer of the endometrium is responsive to hormonal stimulation",
+      "B": "The functional layer of the endometrium remains intact throughout the menstrual cycle",
+      "C": "The increased thickness of the endometrium during the proliferative phase is due to estrogen action",
+      "D": "Estrogen induces secretory changes in the endometrium & reduces mitotic activity",
+      "E": "The zona compacta & spongiosum layer the basal layer of the endometrium",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Inadequate luteal phase is associated with all of the following EXCEPT:",
+      "A": "Insufficient secretion of FSH in the antecedent follicular phase",
+      "B": "Induction of ovulation with Clomiphene citrate",
+      "C": "Induction of ovulation with human menopausal gonadotropins",
+      "D": "Administration of progesterone in the luteal phase",
+      "E": "Hyperprolactinemia",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "In the days after ovulation, all of the following occur EXCEPT:",
+      "A": "The basal temperature rises",
+      "B": "The endometrium undergoes secretory changes",
+      "C": "The plasma progesterone concentration falls",
+      "D": "Cervical mucus becomes more viscous & scanty",
+      "E": "The corpus luteum forms",
+      "answer": "C",
+      "explanation": "There is an increase in the production of progesterone due to the development of the corpus luteum"
+    }
+  ]
+} 

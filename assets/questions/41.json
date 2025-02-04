@@ -1,0 +1,312 @@
+{
+  "questions": [
+    {
+      "q": "Which of the following best describes the principle of autonomy in medical ethics?",
+      "A": "Doing what's best for the patient",
+      "B": "Respecting patient's right to make decisions",
+      "C": "Treating all patients equally",
+      "D": "Avoiding harm to patients",
+      "answer": "B",
+      "explanation": "Patient autonomy refers to the right of patients to make decisions about their medical care without their healthcare provider trying to influence the decision"
+    },
+    {
+      "q": "In the context of medical ethics, what is informed consent?",
+      "A": "Written permission from family members",
+      "B": "Verbal agreement from the patient",
+      "C": "Patient understanding and voluntary agreement to treatment",
+      "D": "Hospital policy compliance",
+      "answer": "C",
+      "explanation": "Informed consent requires that patients understand and voluntarily agree to treatment after being informed of risks, benefits, and alternatives"
+    },
+    {
+      "q": "Regarding Oogenesis & ovulation:",
+      "A": "Primary oocytes are formed after birth until puberty.",
+      "B": "The 1st meiotic division is arrested in the diplotene stage until just before ovulation.",
+      "C": "Oogenesis is completed in 72 hours.",
+      "D": "The ova survive for 3 days after ovulation.",
+      "E": "Ovulation occurs 36 hours after FSH surge.",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Regarding Fertilization & implantation:",
+      "A": "Fertilization occurs in the inner third of the fallopian tube.",
+      "B": "The sperm head penetrates through the corona radiata & zona pellucida while the tail remains outside.",
+      "C": "The 2nd meiotic division is completed before fertilization.",
+      "D": "Implantation occurs at the morula stage.",
+      "E": "The trophoblast invades the endometrium & differentiates into an outer cytotrophoblast & an inner syncytiotrophoblast.",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "The second meiotic division of the oocyte is normally completed:",
+      "A": "At the stage of the primary follicle.",
+      "B": "At the stage of the Graafian follicle.",
+      "C": "In the peritoneal cavity.",
+      "D": "In the uterus at the time of implantation.",
+      "E": "After the sperm penetrates the secondary oocyte.",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "Physiological changes in the reproductive system include:",
+      "A": "There is no change in the vagina.",
+      "B": "The uterus first enlarges by hyperplasia then by hypertrophy.",
+      "C": "There is no change in the cervix.",
+      "D": "Estrogen has no role in the changes that occur during pregnancy.",
+      "E": "The lower segment of the uterus will be formed in the 1st trimester.",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Sure sign of pregnancy is:",
+      "A": "Amenorrhea",
+      "B": "Hegar's sign",
+      "C": "Nausea and vomiting",
+      "D": "Auscultation of fetal heart",
+      "E": "Abdominal distension",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "If your patient is 8 weeks pregnant, which one of the following USS measurements is most useful:",
+      "A": "Crown rump length",
+      "B": "Biparietal diameter",
+      "C": "Femur length",
+      "D": "Placental site",
+      "E": "Abdominal circumference",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "The following statements are all TRUE about vomiting in pregnancy, EXCEPT:",
+      "A": "May be cured by admission to hospital",
+      "B": "Is commonest in the third trimester",
+      "C": "Associated with multiple pregnancy",
+      "D": "Is associated with trophoblastic disease",
+      "E": "Is associated with urinary tract infection",
+      "answer": "B",
+      "explanation": "It is more common in the first trimester."
+    },
+    {
+      "q": "First trimester pregnancy may be terminated by:",
+      "A": "Prostaglandin inhibitor",
+      "B": "Anti-progesterone",
+      "C": "β sympathomimetic agonist",
+      "D": "Synthetic estrogen",
+      "E": "Medroxy-progesterone",
+      "answer": "B",
+      "explanation": "Progesterone from the corpus luteum maintains the pregnancy at the early stage before the placenta takes over."
+    },
+    {
+      "q": "The following ultrasonic measurements may be used to confirm or establish gestational age:",
+      "A": "Crown rump length",
+      "B": "Nuchal pad thickening",
+      "C": "Amniotic fluid volume",
+      "D": "Yolk sac volume",
+      "E": "Biophysical profile",
+      "answer": "A",
+      "explanation": "Crown rump length and femur length can be used to determine the gestational age of the fetus."
+    },
+    {
+      "q": "Antenatal booking investigations include all of the following, EXCEPT:",
+      "A": "Complete blood count",
+      "B": "Blood sugar",
+      "C": "Hepatitis screening",
+      "D": "Toxoplasmosis",
+      "E": "Thyroid function",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "An Ultrasound in the 1st trimester of pregnancy is done for:",
+      "A": "Placental localization",
+      "B": "Detecting of fetal weight",
+      "C": "Assessment of amniotic fluid volume",
+      "D": "Detection of fetal breathing",
+      "E": "Dating of the pregnancy",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "A serum progesterone value less than 5 ng/ml can exclude the diagnosis of viable pregnancy with a certainty of:",
+      "A": "20%",
+      "B": "40%",
+      "C": "60%",
+      "D": "80%",
+      "E": "100%",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "In normal pregnancy, the value of β-hCG doubles every:",
+      "A": "2 days.",
+      "B": "4 days.",
+      "C": "8 days.",
+      "D": "10 days.",
+      "E": "14 days.",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "The β-hCG curve in maternal serum in a normal pregnancy peaks at:",
+      "A": "6 weeks of pregnancy.",
+      "B": "8 weeks of pregnancy.",
+      "C": "10 weeks of pregnancy.",
+      "D": "14 weeks of pregnancy.",
+      "E": "18 weeks of pregnancy.",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "The following are considered normal symptoms of pregnancy EXCEPT:",
+      "A": "Backache due to an increased lumbar lordosis.",
+      "B": "Lower abdominal pain and groin pain due to stretch of round ligaments.",
+      "C": "Visual disturbance.",
+      "D": "Calf pain due to muscle spasm.",
+      "E": "Increased vaginal discharge.",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "A woman in early pregnancy is worried because of several small raised nodules on the areola of both breasts. There are no other findings. Your immediate management should be:",
+      "A": "Reassurance after thorough examination.",
+      "B": "Needle aspiration of the nodules.",
+      "C": "Surgical removal of the areola.",
+      "D": "Mammography.",
+      "E": "Radical mastectomy.",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "The source of progesterone that maintains the pregnancy during early 1st trimester:",
+      "A": "Placenta.",
+      "B": "Corpus luteum.",
+      "C": "Corpus albicans.",
+      "D": "Adrenal glands.",
+      "E": "Endometrium.",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "During normal pregnancy, a weight gain anticipated. The average weight gain is approximately:",
+      "A": "5-10 kg.",
+      "B": "10-15 kg.",
+      "C": "15-20 kg.",
+      "D": "20-30 kg.",
+      "E": "30-40 kg",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Counseling of a pregnant patient during early prenatal care should include detection of & information on:",
+      "A": "Smoking.",
+      "B": "Alcohol abuse.",
+      "C": "Drug abuse.",
+      "D": "Avoiding infections.",
+      "E": "All of the above.",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "Ultrasound examination used for:",
+      "A": "Fetal weight.",
+      "B": "Presence of multiple gestation.",
+      "C": "Whether abdominal masses are cystic or solid.",
+      "D": "Placental position.",
+      "E": "All of the above.",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following medications, when given before & during pregnancy may help to protect neural tube defects?",
+      "A": "Vitamin B6.",
+      "B": "Iron.",
+      "C": "Folic acid.",
+      "D": "Zinc.",
+      "E": "Magnesium",
+      "answer": "C",
+      "explanation": "Folic acid and vitamin B12 are given to protect against the development of a neural tube defect."
+    },
+    {
+      "q": "Which of the following is/are needed by women in increased amount during pregnancy?",
+      "A": "Iron.",
+      "B": "Folic acid.",
+      "C": "Protein.",
+      "D": "Calcium.",
+      "E": "All of the above.",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "Often, an increase in vaginal discharge may be noted during pregnancy. It may be:",
+      "A": "Bacterial.",
+      "B": "Caused by Trichomonas.",
+      "C": "Caused by Candidiasis.",
+      "D": "Physiological.",
+      "E": "All of the above.",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "The following measures are usually performed during a routine antenatal visit for a healthy uncomplicated pregnancy at 36 weeks gestation, EXCEPT:",
+      "A": "Symphysis-fundal height.",
+      "B": "Maternal blood pressure.",
+      "C": "Maternal weight.",
+      "D": "Mid-stream urine specimen (MSU) for culture & sensitivity.",
+      "E": "Listening to the fetal heart.",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following is NOT a presumptive symptom/sign of pregnancy:",
+      "A": "Cessation of menstruation.",
+      "B": "Quickening.",
+      "C": "Nausea & vomiting.",
+      "D": "Breast changes.",
+      "E": "Darkening of the skin on the palms of the hands.",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Probable sign of pregnancy includes:",
+      "A": "Detection of fetal movement.",
+      "B": "Enlargement of the abdomen.",
+      "C": "X-ray demonstrating a fetus.",
+      "D": "Lower abdominal cramps.",
+      "E": "Nausea in the morning.",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "The softening of the cervical isthmus that occurs early in gestation is called:",
+      "A": "Hegar's sign.",
+      "B": "Chadwick's sign.",
+      "C": "Braxton Hick's contraction.",
+      "D": "Von Fernwald's sign.",
+      "E": "Cullen's sign.",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "During early pregnancy, a pelvic examination may reveal that one adnexa is slightly enlarged. This is most likely due to:",
+      "A": "A parovarian cyst.",
+      "B": "Fallopian tube hypertrophy.",
+      "C": "Ovarian neoplasm.",
+      "D": "Follicular cyst.",
+      "E": "Corpus luteal cyst.",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "Booking investigations include all the following, EXCEPT:",
+      "A": "Liver function test.",
+      "B": "Glucose challenge test.",
+      "C": "CBC.",
+      "D": "US.",
+      "E": "Toxoplasmosis.",
+      "answer": "A",
+      "explanation": ""
+    }
+  ]
+} 

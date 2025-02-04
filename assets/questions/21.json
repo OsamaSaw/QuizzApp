@@ -1,0 +1,181 @@
+{
+  "questions": [
+    {
+      "q": "Which of the following is the most common cause of conductive hearing loss in children?",
+      "A": "Otosclerosis",
+      "B": "Cholesteatoma",
+      "C": "Otitis media with effusion",
+      "D": "Acoustic neuroma",
+      "answer": "C",
+      "explanation": "Otitis media with effusion is the most common cause of conductive hearing loss in children"
+    },
+    {
+      "q": "What is the most common type of head and neck cancer?",
+      "A": "Laryngeal cancer",
+      "B": "Nasopharyngeal cancer",
+      "C": "Squamous cell carcinoma of oral cavity",
+      "D": "Thyroid cancer",
+      "answer": "C",
+      "explanation": "Squamous cell carcinoma of the oral cavity is the most common type of head and neck cancer"
+    },
+    {
+      "q": "The most common symptom of endometrial hyperplasia:",
+      "A": "Vaginal discharge & itching.",
+      "B": "Vaginal bleeding.",
+      "C": "Amenorrhea.",
+      "D": "Pelvic pain.",
+      "E": "Abdominal distension.",
+      "answer": "B",
+      "explanation": ""
+  },
+  {
+      "q": "Menorrhagia occurring at the age of puberty may be due to:",
+      "A": "Folic acid deficiency anemia.",
+      "B": "Congenital adrenal hyperplasia.",
+      "C": "Von Willbrand’s disease. (Congenital coagulopathy)",
+      "D": "Androgen insensitivity disease.",
+      "E": "Nelson’s syndrome.",
+      "answer": "C",
+      "explanation": ""
+  },
+  {
+      "q": "The initial attempt to control uterine bleeding due to blood dyscrasia (Prothrombin deficiency) after ruling out anatomic lesions should be:",
+      "A": "Hysterectomy.",
+      "B": "D& C & hysterectomy.",
+      "C": "Cyclic estrogens.",
+      "D": "Oral contraceptives.",
+      "E": "Pregnancy.",
+      "answer": "D",
+      "explanation": ""
+  },
+  {
+      "q": "Regarding Adenomyosis:",
+      "A": "Is the presence of endometrial glands and stroma out side the uterus",
+      "B": "Can be diagnosed by D&C",
+      "C": "Can be detected by hysteroscopy",
+      "D": "Can cause severe dysmenorrhea",
+      "E": "Can cause infertility",
+      "answer": "D",
+      "explanation": ""
+  },
+  {
+      "q": "The treatment of endometriosis include all the following EXCEPT:",
+      "A": "Birth control pills (BCP).",
+      "B": "Oral progesterone.",
+      "C": "Estrogen.",
+      "D": "Depoprovera.",
+      "E": "GnRH analogue.",
+      "answer": "C",
+      "explanation": ""
+  },
+  {
+      "q": "These are possible sites for endometriosis deposits EXCEPT:",
+      "A": "Brain.",
+      "B": "Peritoneum.",
+      "C": "Uterosacral ligaments.",
+      "D": "Ovaries.",
+      "E": "Scars.",
+      "answer": "A",
+      "explanation": ""
+  },
+  {
+      "q": "The diagnosis of endometriosis is confirmed by histologically identifying extragenital implants containing :",
+      "A": "Endometrial glands and Stroma.",
+      "B": "Hypertrophic smooth muscle",
+      "C": "Hemorrhage & iron pigment deposit",
+      "D": "Fibroid",
+      "E": "Stromal decidualization",
+      "answer": "A",
+      "explanation": ""
+  },
+  {
+      "q": "Regarding Adenomyosis, the following are true EXCEPT:",
+      "A": "Causes dysmenorrhea",
+      "B": "Usually associated with menorrhagia",
+      "C": "The uterine size not affected by the disease",
+      "D": "Hysterectomy is the treatment of choice to cure this condition.",
+      "E": "Only confirmed after histopathology",
+      "answer": "C",
+      "explanation": ""
+  },
+  {
+      "q": "Secondary dysmenorrhea can be caused by all of the following EXCEPT:",
+      "A": "Endometrial polyp",
+      "B": "Endometriosis",
+      "C": "PID",
+      "D": "Uterine leiomyoma",
+      "E": "OCP",
+      "answer": "E",
+      "explanation": ""
+  },
+  {
+      "q": "Regarding Endometriosis :",
+      "A": "is the presence of endometrial tissue in the myometrium",
+      "B": "The liver is the most common site",
+      "C": "Implantation ,lymphatic –vascular metastasis &coelmic metaplasia are the theories about the pathogenesis",
+      "D": "OCP are contraindicated as they worsen the symptom",
+      "E": "Is best treatment by avoiding the pregnancy",
+      "answer": "C",
+      "explanation": ""
+  },
+  {
+      "q": "Pelvic endometriosis :",
+      "A": "Is a cause of 1ry dysmenorrheal",
+      "B": "Associated with excessive vaginal discharge",
+      "C": "Associated with prolonged use of IUCD",
+      "D": "Combined OCP are predisposing factor",
+      "E": "Can be diagnosed by laparoscopy",
+      "answer": "E",
+      "explanation": ""
+  },
+{
+      "q": "The following are theories of endometriosis EXCEPT:",
+      "A": "Retrograde menstruation",
+      "B": "Endometrial hyperplasia",
+      "C": "Immunological factor",
+      "D": "Coilemic metaplasia",
+      "E": "Lymphatic spread",
+      "answer": "B",
+      "explanation": ""
+  },
+ {
+      "q": "A woman with symptomatic endometriosis is likely to complain of all of the following EXCEPT:",
+      "A": "Dyspareunia.",
+      "B": "Mood swings.",
+      "C": "Painful defecation.",
+      "D": "Severe dysmenorrhea.",
+      "E": "Infertility.",
+      "answer": "B",
+      "explanation": ""
+  },
+  {
+      "q": ". Primary dysmenorrhea is most likely caused by:",
+      "A": "Uterine hypercontractility.",
+      "B": "Increased parity.",
+      "C": "High levels of estrogen.",
+      "D": "Coitus during menses.",
+      "E": "Obesity.",
+      "answer": "A",
+      "explanation": ""
+  },
+ {
+      "q": "The following are theories for endometriosis, EXCEPT:",
+      "A": "Coelimic metaplasia.",
+      "B": "Endometrial hyperplasia.",
+      "C": "Retrograde menstruation.",
+      "D": "Immunological factor.",
+      "answer": "B",
+      "explanation": ""
+  },
+  {
+      "q": "Regarding Endometriosis, all of the following are CORRECT, EXCECPT:",
+      "A": "Is frequently associated with infertility.",
+      "B": "Causes deep dyspareunia.",
+      "C": "Is often asymptomatic.",
+      "D": "Causes post coital bleeding.",
+      "E": "Causes Dysmenorrhea.",
+      "answer": "D",
+      "explanation": ""
+  }
+  ]
+} 
