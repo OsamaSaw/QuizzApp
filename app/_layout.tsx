@@ -60,7 +60,8 @@ function RootLayoutNav() {
               <HeaderBackButton onPress={() => navigation.goBack()} />
           ),
         }} />
-
+        <Stack.Screen name="six" options={{ title: 'Quiz' }} />
+        <Stack.Screen name="seven" options={{ title: 'Custom Quiz Setup' }} />
       </Stack>
     </ThemeProvider>
   );

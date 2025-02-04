@@ -1,0 +1,369 @@
+{
+  "questions": [
+    {
+      "q": "Which radiation therapy technique is most appropriate for treating early-stage prostate cancer?",
+      "A": "External beam radiation",
+      "B": "Brachytherapy",
+      "C": "Proton therapy",
+      "D": "Stereotactic radiosurgery",
+      "answer": "A",
+      "explanation": "External beam radiation therapy is the standard radiation treatment for early-stage prostate cancer"
+    },
+    {
+      "q": "What is the most common acute side effect of radiation therapy?",
+      "A": "Skin reactions",
+      "B": "Fatigue",
+      "C": "Nausea",
+      "D": "Hair loss",
+      "answer": "B",
+      "explanation": "Fatigue is the most common acute side effect experienced by patients receiving radiation therapy"
+    },
+    {
+      "q": "Lowered hemoglobin during normal pregnancy is a physiological finding. It's mainly due to:",
+      "A": "Low iron stores in all women",
+      "B": "Blood lost to the placenta",
+      "C": "Increased plasma volume",
+      "D": "Increased cardiac output resulting in greater red cell destruction",
+      "E": "Decreased reticulocytosis",
+      "answer": "C",
+      "explanation": "Increased plasma volume leads to hemodilution and lowered hemoglobin"
+    },
+    {
+      "q": "The maternal blood volume in normal pregnancy:",
+      "A": "Remains stable",
+      "B": "Decreases 10%",
+      "C": "Increases 10%",
+      "D": "Increases up to 40%",
+      "E": "Decreases up to 40%",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "During pregnancy, maternal estrogen levels increase markedly. Most of this estrogen is produced by the:",
+      "A": "Ovaries",
+      "B": "Adrenals",
+      "C": "Testes",
+      "D": "Placenta",
+      "E": "Uterus",
+      "answer": "D",
+      "explanation": "The placenta is a major producer of estrogen during pregnancy"
+    },
+    {
+      "q": "During normal pregnancy, the renal glomerular filtration rate (GFR) can increase as much as:",
+      "A": "10%",
+      "B": "25%",
+      "C": "50%",
+      "D": "75%",
+      "E": "100%",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Fetal blood is returned to the umbilical arteries and the placenta through:",
+      "A": "Hypogastric arteries",
+      "B": "Ductus venosus",
+      "C": "Portal vein",
+      "D": "Inferior vena cava",
+      "E": "Foramen ovale",
+      "answer": "A",
+      "explanation": "Hypogastric arteries return fetal blood to the placenta"
+    },
+    {
+      "q": "In normal physiological changes in pregnancy, all of the following are increased EXCEPT:",
+      "A": "Glomerular filtration rate",
+      "B": "Stroke volume",
+      "C": "Peripheral resistance",
+      "D": "Plasma volume",
+      "E": "White blood cells",
+      "answer": "C",
+      "explanation": "Peripheral resistance decreases in normal pregnancy"
+    },
+    {
+      "q": "Regarding renal changes in pregnancy, all of the following are true EXCEPT:",
+      "A": "Blood flow is increased by 10%",
+      "B": "Glomerular filtration rate is increased by 50%",
+      "C": "Plasma urea will be reduced",
+      "D": "Glycosuria could be normal",
+      "E": "Mild hydronephrosis is normal",
+      "answer": "A",
+      "explanation": "Renal blood flow typically increases by 50%"
+    },
+    {
+      "q": "Consequences of fluid retention, all of the following are CORRECT, EXCEPT:",
+      "A": "Hemoglobin concentration decreases",
+      "B": "Hematocrit falls",
+      "C": "Serum albumin falls",
+      "D": "Stroke volume increases",
+      "E": "Renal blood flow increases",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "During pregnancy, all of the following are CORRECT EXCEPT:",
+      "A": "There will be hyperplasia and hypertrophy of the uterine muscle",
+      "B": "Estradiol will increase the columnar epithelial of the endocervix",
+      "C": "Estrogen will increase the glandular duct",
+      "D": "Progestin and HPL will decrease the number of glands",
+      "E": "Prolactin will be antagonized by the effect of estrogen",
+      "answer": "D",
+      "explanation": "Progestin and HPL increase the number of glands"
+    },
+    {
+      "q": "Regarding renal tract during pregnancy, the following are true EXCEPT:",
+      "A": "The ureters are dilated",
+      "B": "The renal pelvis calyces are dilated",
+      "C": "The right side is affected more than the left side",
+      "D": "The primigravida shows more changes than multigravida",
+      "E": "The bladder tone increases",
+      "answer": "E",
+      "explanation": "Bladder tone typically decreases during pregnancy"
+    },
+    {
+      "q": "As pregnancy advances, which of the following hematological changes occurs?",
+      "A": "Plasma volume increases proportionally more than red cell volume",
+      "B": "Red cell volume increases proportionally more than plasma volume",
+      "C": "Plasma volume increases and red cell volume remains constant",
+      "D": "Red cell volume decreases and plasma volume remains constant",
+      "E": "Neither plasma volume nor red blood cell volume changes",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following would normally be expected to increase during pregnancy:",
+      "A": "Plasma creatinine",
+      "B": "Thyroxin-binding globulin",
+      "C": "Hematocrit",
+      "D": "Core temperature",
+      "E": "Hair growth",
+      "answer": "B",
+      "explanation": "Thyroxin-binding globulin increases during pregnancy"
+    },
+    {
+      "q": "The supine position is important during late pregnancy because it may cause all of the following EXCEPT:",
+      "A": "Complete occlusion of the inferior vena cava.",
+      "B": "A significant decrease in maternal ventilatory capacity.",
+      "C": "Hypotension & syncope.",
+      "D": "A significant reduction in renal blood flow & glomerular filtration.",
+      "E": "Augmentation of the cardiovascular effects due to high conduction",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following is probably responsible for physiologic hyperventilation during pregnancy?",
+      "A": "Large fluctuations in plasma bicarbonate.",
+      "B": "Increased estrogen production.",
+      "C": "Increased progesterone production.",
+      "D": "Decreased functional residual volume.",
+      "E": "Decreased plasma PO2",
+      "answer": "C",
+      "explanation": "Progesterone is responsible for physiologic hyperventilation during pregnancy."
+    },
+    {
+      "q": "Normally the pregnant woman hyperventilates. This is compensated by:",
+      "A": "Increased tidal volume.",
+      "B": "Respiratory alkalosis.",
+      "C": "Decreased Pco2 of the blood.",
+      "D": "Decreased plasma bicarbonate.",
+      "E": "Decreased serum pH.",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "The resting pulse in pregnancy is:",
+      "A": "Decreased by 30 beats/min.",
+      "B": "Decreased by 10-15 beats/min.",
+      "C": "Unchanged.",
+      "D": "Increase by 30 beats/min.",
+      "E": "Increased by 10-15 beats/min.",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "After birth, all of the following vessels constrict EXCEPT:",
+      "A": "Ductus arteriosus.",
+      "B": "Umbilical arteries.",
+      "C": "Ductus venosus.",
+      "D": "Hepatic portal vein.",
+      "E": "Umbilical vein.",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Select the most correct statement about fetal & neonatal IgM:",
+      "A": "It is almost entirely maternal in origin.",
+      "B": "It is approximately 75% maternal & 25% fetal in origin.",
+      "C": "It is 50% maternal, 50% fetal in origin.",
+      "D": "It is 25% maternal, 75% fetal in origin.",
+      "E": "It is almost entirely fetal in origin.",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "Which one is true about the placenta:",
+      "A": "10% maternal contribution only",
+      "B": "U.C covered with chorion",
+      "C": "U.C contain Wharton jelly",
+      "D": "Placental lobes are the functional units.",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Spinnbarkheit is a term which means:",
+      "A": "Crystallization of the cervical mucous.",
+      "B": "Thickening of the cervical mucous.",
+      "C": "Mucous secretion of the cervix.",
+      "D": "Threading of the cervical mucous.",
+      "E": "Thinning of the cervical mucous.",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Regarding placental function:",
+      "A": "hCG is a glycoprotein composed of alpha & β subunits. It's secreted by cytotrophoblast.",
+      "B": "Human placental lactogen enhances insulin action & improves glucose tolerance.",
+      "C": "Placental corticotropin-releasing hormone increases ACTH & cortisol & causes vasoconstriction of the feto-placental blood vessels.",
+      "D": "Estrogen is secreted by the feto-placental unit responsible for the growth of the myometrium & angiogenesis.",
+      "E": "Progesterone causes vasodilatation of blood vessels & contraction of uterine smooth muscle.",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Regarding placental anatomy:",
+      "A": "The decidua capsularis forms part of the placenta.",
+      "B": "The fetal side of the placenta is divided into 30-40 cotyledons.",
+      "C": "The intervillous space contains fetal blood.",
+      "D": "Anatomically the placenta is fully formed by 30 weeks.",
+      "E": "Fetal blood vessels develop in the mesenchymal core of the chorionic villi.",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following does NOT accurately describe the placenta in humans:",
+      "A": "15-20 cm in diameter.",
+      "B": "2-4 cm thick.",
+      "C": "Weighs about 1/6 of what the term infant does.",
+      "D": "Delivered from maternal & fetal tissue.",
+      "E": "Umbilical cord originates from the center of the placenta in most of the cases.",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Maternal serum prolactin levels in pregnancy are highest:",
+      "A": "At the end of gestation just before delivery of the infant.",
+      "B": "Just after the delivery of the infant.",
+      "C": "As the placenta is released.",
+      "D": "The 3rd to 4th day postpartum.",
+      "E": "During breastfeeding.",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "All of the following cause oligohydramnios EXCEPT:",
+      "A": "Renal agenesis",
+      "B": "Poor placental perfusion",
+      "C": "Post-term pregnancy",
+      "D": "Anencephaly",
+      "E": "Urinary obstruction",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Placental insufficiency is caused by all the following, EXCEPT:",
+      "A": "Smoking in pregnancy.",
+      "B": "Post-maturity.",
+      "C": "Dietary insufficiency in pregnancy.",
+      "D": "Hypertensive disorder in pregnancy.",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "All the following hormones are products of placental synthesis, EXCEPT:",
+      "A": "hCG.",
+      "B": "HPL.",
+      "C": "Prolactin.",
+      "D": "Progesterone.",
+      "E": "Estriol.",
+      "answer": "C",
+      "explanation": "Prolactin is primarily secreted by the pituitary gland"
+    },
+    {
+      "q": "We can detect the fetal heartbeat by sonography (transvaginal) at:",
+      "A": "5 weeks",
+      "B": "6 weeks",
+      "C": "7 weeks",
+      "D": "8 weeks",
+      "E": "9 weeks",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "A pregnant lady with polyhydramnios, the cause could be:",
+      "A": "Fetus with esophageal atresia",
+      "B": "Fetus with polycystic kidney disease",
+      "C": "Fetal growth restriction",
+      "D": "Hyperprolactinemia during pregnancy",
+      "E": "Patient is taking anti-epileptic drugs",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "Polyhydramnios is associated with the following condition:",
+      "A": "Intrauterine growth restriction",
+      "B": "Fetal kidney agenesis",
+      "C": "Diabetes insipidus",
+      "D": "Tracheoesophageal fistula",
+      "E": "Hind water leakage",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "All the following are possible causes of polyhydramnios, EXCEPT:",
+      "A": "Diabetes",
+      "B": "Multiple pregnancy",
+      "C": "Fetus with hydrops fetalis",
+      "D": "Fetus with duodenal atresia or neural tube defect",
+      "E": "IUGR",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following causes of polyhydramnios is more common:",
+      "A": "Twin pregnancy.",
+      "B": "Diabetes.",
+      "C": "Hydrops fetalis.",
+      "D": "Anencephaly.",
+      "E": "Idiopathic.",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "Using your knowledge of normal maternal physiology, which of the following would employ if a 38 weeks’ pregnant patient become faint while lying supine on your examination table:",
+      "A": "Blood transfusion.",
+      "B": "Turning the patient on her side.",
+      "C": "Oxygen by face mask.",
+      "D": "I.V. saline solution.",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Skin changes during pregnancy should include:",
+      "A": "Chloasma.",
+      "B": "Striae.",
+      "C": "Palmar erythema.",
+      "D": "Vascular spiders.",
+      "E": "All of the above.",
+      "answer": "E",
+      "explanation": "Chloasma, striae, palmar erythema, and vascular angiomas are all skin manifestations in pregnancy."
+    },
+    {
+      "q": "The number of chromosomes in the human somatic cell is:",
+      "A": "24.",
+      "B": "44.",
+      "C": "46.",
+      "D": "48.",
+      "E": "23.",
+      "answer": "C",
+      "explanation": ""
+    }
+  ]
+} 

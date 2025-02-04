@@ -1,0 +1,311 @@
+{
+  "questions": [
+    {
+      "q": "Which is the most common type of primary headache?",
+      "A": "Migraine",
+      "B": "Tension headache",
+      "C": "Cluster headache",
+      "D": "Trigeminal neuralgia",
+      "answer": "B",
+      "explanation": "Tension-type headaches are the most common form of primary headache, affecting up to 78% of the population"
+    },
+    {
+      "q": "What is the first-line treatment for newly diagnosed Parkinson's disease in patients under 60?",
+      "A": "Carbidopa/levodopa",
+      "B": "Dopamine agonist",
+      "C": "MAO-B inhibitor",
+      "D": "Anticholinergic",
+      "answer": "B",
+      "explanation": "Dopamine agonists are typically first-line in younger patients to delay levodopa-related motor complications"
+    },
+    {
+      "q": "A primipara is in labor and an episiotomy is to be cut. Compared with a midline episiotomy, an advantage of mediolateral episiotomy is:",
+      "A": "Ease of repair",
+      "B": "Fewer breakdowns",
+      "C": "Lower blood loss",
+      "D": "Less dyspareunia",
+      "E": "Less extension of the incision",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "A patient sustained a laceration of the perineum during delivery, it involved the muscles of the perineal body but not the anal sphincter. Such a laceration would be classified as:",
+      "A": "First degree",
+      "B": "Second degree",
+      "C": "Third degree",
+      "D": "Fourth degree",
+      "E": "Fifth degree",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following statements about episiotomy is FALSE:",
+      "A": "Median (midline) episiotomy is generally considered to be less painful than mediolateral episiotomy",
+      "B": "Mediolateral or lateral episiotomy may be associated with more blood loss than the median one",
+      "C": "Indications for episiotomy include avoiding an imminent perineal tear, the use of forceps, breech delivery, & the delivery of premature infants",
+      "D": "The earlier the episiotomy is done during delivery, generally the more beneficial it will be in speeding delivery",
+      "E": "Episiotomy incisions are repaired anatomically in layers",
+      "answer": "D",
+      "explanation": "Episiotomy is not done during delivery unless necessary"
+    },
+    {
+      "q": "The first stage of labor:",
+      "A": "Separation of the placenta",
+      "B": "Effacement of the cervix",
+      "C": "Expulsion of the placenta",
+      "D": "Ends with full dilation of the cervix",
+      "E": "Expulsion of the fetus",
+      "answer": "D",
+      "explanation": "The first stage of labor ends with the full dilation of the cervix"
+    },
+    {
+      "q": "The heart rate of a normal fetus at term:",
+      "A": "80-100 bpm",
+      "B": "100-120 bpm",
+      "C": "120-160 bpm",
+      "D": "160-180 bpm",
+      "E": "There is no baseline heart rate",
+      "answer": "C",
+      "explanation": "Normal fetal heart rate is 120-160 bpm"
+    },
+    {
+      "q": "Repetitive late decelerations most commonly indicate:",
+      "A": "Fetal acidemia",
+      "B": "Fetal hypoxia",
+      "C": "Fetal sleep state",
+      "D": "Fetal effects of maternal sedation",
+      "E": "Rapid cervical dilation",
+      "answer": "B",
+      "explanation": "Repetitive late decelerations indicate fetal hypoxia"
+    },
+    {
+      "q": "Electronic fetal monitoring:",
+      "A": "Has high specificity but low sensitivity",
+      "B": "Has low specificity but high sensitivity",
+      "C": "Has low specificity and sensitivity",
+      "D": "Has high specificity and sensitivity",
+      "E": "Has moderate sensitivity and specificity",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "What is the uterine blood flow at term:",
+      "A": "50 ml/min",
+      "B": "100 to 150 ml/min",
+      "C": "300 to 750 ml/min",
+      "D": "500 to 750 ml/min",
+      "E": "200 ml/min",
+      "answer": "D",
+      "explanation": "Increased uterine blood flow is observed at term"
+    },
+    {
+      "q": "The following are major indicators of fetal asphyxia:",
+      "A": "Old meconium at the time of induction of labor",
+      "B": "Loss of acceleration",
+      "C": "Deep type I deceleration in the second stage of labor",
+      "D": "Type II (late) decelerations with tachycardia",
+      "E": "Excessive fetal movements",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following is NOT a characteristic of normal labor:",
+      "A": "Progressive cervical dilation",
+      "B": "Increasing intensity of contractions",
+      "C": "Uterine relaxation between contractions",
+      "D": "Moderate bleeding",
+      "E": "Moderate pain",
+      "answer": "D",
+      "explanation": "Moderate bleeding is not a feature of normal labor"
+    },
+    {
+      "q": "During which of the following conditions would the serum prolactin level be greatest:",
+      "A": "Sleep",
+      "B": "Ovulation",
+      "C": "Parturition",
+      "D": "Menopause",
+      "E": "Suckling",
+      "answer": "E",
+      "explanation": "Prolactin stimulates the production of milk during breastfeeding"
+    },
+    {
+      "q": "Regarding prostaglandins:",
+      "A": "Maintain the corpus luteum of early pregnancy",
+      "B": "Have no role in the development of menorrhagia",
+      "C": "Are involved in the onset of labor",
+      "D": "Have no role in the development of dysmenorrhea",
+      "E": "Are small polypeptides",
+      "answer": "C",
+      "explanation": "Prostaglandins are involved in the onset of labor"
+    },
+    {
+      "q": "Early deceleration is:",
+      "A": "Associated with an unengaged head of the fetus",
+      "B": "Associated usually with brain asphyxia",
+      "C": "A decrease in the fetal heartbeat that peaks after the peak of uterine contraction",
+      "D": "An indication of C-section",
+      "E": "Results from increased vagal tone secondary to head compression",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "The bishop score is used to predict:",
+      "A": "The state of the fetus at the time of delivery",
+      "B": "The success rate of the induction of labor",
+      "C": "The fetal condition in the uterus",
+      "D": "The maternal well-being in labor",
+      "E": "The maternal well-being postpartum",
+      "answer": "B",
+      "explanation": "The bishop score is used to predict the success rate of the induction of labor"
+    },
+    {
+      "q": "The volume of amniotic fluid:",
+      "A": "Is closely related to the fetal crown-rump length in the 3rd trimester of pregnancy",
+      "B": "May be predicted by ultrasound",
+      "C": "Is reduced in severe rhesus disease",
+      "D": "Increases following amniocentesis",
+      "E": "Is increased in severe pre-eclampsia",
+      "answer": "B",
+      "explanation": "Ultrasound is used to determine and predict the level of amniotic fluid using tools such as the amniotic fluid index"
+    },
+    {
+      "q": "Fetal nutrition is dependent on:",
+      "A": "Maternal nutrient stores",
+      "B": "Maternal diet",
+      "C": "Placental exchange",
+      "D": "Maternal metabolism",
+      "E": "All of the above",
+      "answer": "E",
+      "explanation": "Fetal nutrition depends on multiple factors such as maternal nutrient stores, maternal diet, placental exchange, and maternal metabolism"
+    },
+    {
+      "q": "Cephalopelvic disproportion in the absence of gross pelvic abnormality can be diagnosed by:",
+      "A": "Ultrasound",
+      "B": "A maternal stature of less than 158 cm",
+      "C": "Trial of labor",
+      "D": "X-ray pelvimetry",
+      "E": "Pelvic examination",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Umbilical cord prolapse is associated with all the following, EXCEPT:",
+      "A": "Post maturity",
+      "B": "Cephalopelvic disproportion",
+      "C": "Multiparity",
+      "D": "Footling breech presentation",
+      "E": "Anencephaly",
+      "answer": "E",
+      "explanation": "Anencephaly is not associated with umbilical prolapse"
+    },
+    {
+      "q": "In a case of labor with meconium-stained amniotic fluid, your next step is:",
+      "A": "Amnio-infusion",
+      "B": "Close observation",
+      "C": "Fetal scalp blood sample",
+      "D": "Immediate C/S",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "In patients with a bicornuate uterus when getting pregnant, all these complications can occur EXCEPT:",
+      "A": "Polyhydramnios",
+      "B": "Abortion",
+      "C": "Preterm labor",
+      "D": "Abnormal fetal lie",
+      "E": "Retained placenta",
+      "answer": "A",
+      "explanation": "Polyhydramnios is less likely to occur in these patients due to the anatomy of the uterus"
+    },
+    {
+      "q": "In Turner's syndrome:",
+      "A": "A chromosomal structure of 45 XY is characteristic",
+      "B": "Secondary amenorrhea is usual",
+      "C": "Ovaries are streak",
+      "D": "The ovaries are multicystic",
+      "E": "Phenotypically are male",
+      "answer": "C",
+      "explanation": "Streak ovaries are one of the features of Turner syndrome with a chromosomal structure of XO, and the patients are phenotypically female"
+    },
+    {
+      "q": "Sexual differentiation:",
+      "A": "Development of male genitalia depends on the presence of functioning testes and responsive end organs",
+      "B": "Due to the absence of testes, XX fetuses exposed to androgens in utero will NOT be masculinized",
+      "C": "The development of the female genital requires the presence of the ovary",
+      "D": "A 45 XO fetus will have normal ovaries",
+      "E": "The development of the testes does not require the presence of the Y chromosome",
+      "answer": "A",
+      "explanation": "The development of male genitalia depends on the presence of functioning testes and responsive end organs"
+    },
+    {
+      "q": "Turner syndrome: Which is true?",
+      "A": "Genetically is 46 XY",
+      "B": "Has testis in the inguinal area",
+      "C": "Usually presents with primary amenorrhea",
+      "D": "Has low I.Q",
+      "E": "Usually tall",
+      "answer": "C",
+      "explanation": "Turner syndrome patients present with primary amenorrhea with streak ovaries"
+    },
+    {
+      "q": "Androgen insensitivity syndrome: Which is true?",
+      "A": "Genotype is 46 XX",
+      "B": "Phenotype they are female but with ill-developed breasts",
+      "C": "Usually have secondary amenorrhea",
+      "D": "They have testes that should be kept to produce hormones",
+      "E": "They have no uterus",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "The karyotype of patients with Androgen insensitivity syndrome is:",
+      "A": "46XX",
+      "B": "46XY",
+      "C": "47XXY",
+      "D": "45XO",
+      "E": "45 XY",
+      "answer": "B",
+      "explanation": "Androgen insensitivity patients have a normal male karyotype of 46XY"
+    },
+    {
+      "q": "In Turner syndrome, the following are usually present EXCEPT:",
+      "A": "The ovaries are usually well developed",
+      "B": "The nipples are widely spaced",
+      "C": "The girls are of short stature",
+      "D": "Has webbed neck",
+      "E": "The condition can be diagnosed by chromosomal analysis",
+      "answer": "A",
+      "explanation": "Turner syndrome patients have streak ovaries"
+    },
+    {
+      "q": "Regarding Androgen insensitivity syndrome all true EXCEPT:",
+      "A": "The chromosomal sex is 46XX",
+      "B": "Scant or no pubic and axillary hair",
+      "C": "No uterus",
+      "D": "Normal female external genitalia",
+      "E": "Breast are usually well developed",
+      "answer": "A",
+      "explanation": "The karyotype is 46XY"
+    },
+    {
+      "q": "Which is not true about Turner's syndrome:",
+      "A": "Short stature",
+      "B": "Buccal smear is chromatin positive",
+      "C": "The majority are 45XO",
+      "D": "Very low urinary estrogen titer",
+      "E": "High pituitary gonadotropin titer",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "While evaluating a 30-year-old woman for infertility, you diagnosed a bicornuate uterus. You explain that additional testing is necessary because of the woman's increased risk of congenital anomalies in which system?",
+      "A": "Skeletal",
+      "B": "Hematopoietic",
+      "C": "Urinary",
+      "D": "Central nervous",
+      "E": "Tracheoesophageal",
+      "answer": "C",
+      "explanation": ""
+    }
+  ]
+} 

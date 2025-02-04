@@ -1,0 +1,13 @@
+{
+  "questions": [
+    {
+      "q": "Which of the following is the most common complication of general anesthesia?",
+      "A": "Postoperative nausea and vomiting",
+      "B": "Respiratory depression",
+      "C": "Malignant hyperthermia",
+      "D": "Awareness during anesthesia",
+      "answer": "A",
+      "explanation": "Postoperative nausea and vomiting (PONV) is the most common complication of general anesthesia, affecting about 30% of patients."
+    }
+  ]
+} 

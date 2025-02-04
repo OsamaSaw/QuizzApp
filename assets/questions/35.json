@@ -1,0 +1,301 @@
+{
+  "questions": [
+    {
+      "q": "Which antidepressant class is considered first-line treatment for major depressive disorder?",
+      "A": "Tricyclic antidepressants",
+      "B": "SSRIs",
+      "C": "MAO inhibitors",
+      "D": "SNRIs",
+      "answer": "B",
+      "explanation": "SSRIs are considered first-line due to their favorable side effect profile and efficacy"
+    },
+    {
+      "q": "What is the most common psychiatric comorbidity in patients with substance use disorders?",
+      "A": "Schizophrenia",
+      "B": "Bipolar disorder",
+      "C": "Depression",
+      "D": "Anxiety disorders",
+      "answer": "C",
+      "explanation": "Depression is the most common psychiatric comorbidity in patients with substance use disorders"
+    },
+    {
+      "q": "The following hormones are secreted from the anterior pituitary gland EXCEPT:",
+      "A": "FSH",
+      "B": "HCG",
+      "C": "LH",
+      "D": "TSH",
+      "E": "Prolactin",
+      "answer": "B",
+      "explanation": "HCG is secreted by the placenta, not the anterior pituitary"
+    },
+    {
+      "q": "Ovulation may be indicated by all the following, EXCEPT:",
+      "A": "Endometrial biopsy revealing secretory changes",
+      "B": "Upward shift in the basal temperature",
+      "C": "Changing of cervical mucous to thick and scanty",
+      "D": "Progesterone level > 6.5 ng/ml",
+      "E": "Mid-cycle elevation in Prolactin",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following is the primary source of estrogen?",
+      "A": "Theca interna cells",
+      "B": "Theca externa cells",
+      "C": "Granulosa cells",
+      "D": "Interstitial cells",
+      "E": "Epithelial cells",
+      "answer": "C",
+      "explanation": "Granulosa cells are the primary producers of estrogen in the ovaries"
+    },
+    {
+      "q": "Gonadotropin-releasing hormone (GnRH) stimulates the release of:",
+      "A": "Opiate peptides",
+      "B": "Adrenocorticotropic hormone (ACTH)",
+      "C": "LH",
+      "D": "Growth hormone",
+      "E": "Thyroid-stimulating hormone",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Raised FSH levels are found in all of the following conditions EXCEPT:",
+      "A": "Postmenopausal women",
+      "B": "Turner's Syndrome",
+      "C": "Women on Combined Oral Contraceptive Pills",
+      "D": "Gonadal dysgenesis",
+      "E": "Peri-menopausal women who had hysterectomy with bilateral salpingo-oophorectomy",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Estrogen has all of the following actions, EXCEPT:",
+      "A": "Produce proliferation of the endometrium",
+      "B": "Development of secondary sexual characteristics",
+      "C": "Fusion of the epiphysis",
+      "D": "Increase cervical mucous",
+      "E": "Prevention of thrombosis",
+      "answer": "E",
+      "explanation": "Estrogen predisposes to thrombosis rather than preventing it"
+    },
+    {
+      "q": "Which of the following pubertal events is NOT mediated by gonadal estrogen production?",
+      "A": "Menstruation",
+      "B": "Pubic hair growth",
+      "C": "Breast development",
+      "D": "Skeletal growth",
+      "E": "Vaginal cornification",
+      "answer": "B",
+      "explanation": "Pubertal hair growth is mediated by androgens"
+    },
+    {
+      "q": "Which of the following statements regarding Prolactin is true?",
+      "A": "Prolactin levels decrease shortly after sleep",
+      "B": "Prolactin levels increase after ingesting high glucose meals",
+      "C": "Prolactin levels decrease during surgery",
+      "D": "Prolactin levels increase during stress",
+      "E": "Prolactin levels increase after menopause",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Besides infertility, the most common symptom of a luteal phase defect:",
+      "A": "Vaginal dryness",
+      "B": "Early abortion",
+      "C": "Tubal occlusion",
+      "D": "Breast tenderness",
+      "E": "Ovarian enlargement",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "What is the third-line therapy for hyperemesis gravidarum?",
+      "A": "Oral metoclopramide",
+      "B": "IM cyclizine",
+      "C": "IV hydrocortisone",
+      "D": "Rectal chlorpromazine",
+      "answer": "C",
+      "explanation": "Hydrocortisone is used as third-line therapy"
+    },
+    {
+      "q": "Which of the following fetal characteristics is determined via vaginal examination?",
+      "A": "Lie",
+      "B": "Presentation",
+      "C": "Position",
+      "D": "Amniotic fluid index",
+      "answer": "C",
+      "explanation": "Vaginal examination assesses fetal position during labor"
+    },
+    {
+      "q": "What is the gold standard investigation for endometriosis?",
+      "A": "Laparotomy",
+      "B": "Laparoscopy",
+      "C": "Bimanual examination",
+      "D": "Pelvic ultrasound",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following is a complication of polypectomy?",
+      "A": "Hemorrhage",
+      "B": "Amniotic air embolism",
+      "C": "Urinary incontinence",
+      "D": "Heavy menstrual bleeding",
+      "answer": "A",
+      "explanation": "Complications of polypectomy include hemorrhage and infection"
+    },
+    {
+      "q": "Which of the following is a serious complication of breech presentation?",
+      "A": "Amniotic air embolism",
+      "B": "Uterine rupture",
+      "C": "Cord prolapse",
+      "D": "Postpartum hemorrhage",
+      "answer": "C",
+      "explanation": "A breech presentation can cause cord prolapse"
+    },
+    {
+      "q": "What is the correct definition of recurrent miscarriage?",
+      "A": ">2 consecutive pregnancies that end in miscarriage",
+      "B": ">2 consecutive pregnancies that end in miscarriage or stillbirths",
+      "C": ">3 consecutive pregnancies that end in miscarriage",
+      "D": "3 pregnancies that end in miscarriage",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Which antibiotic should be added in case of endomyometritis?",
+      "A": "Linezolid",
+      "B": "Amoxicillin",
+      "C": "Gentamicin",
+      "D": "Clindamycin",
+      "answer": "C",
+      "explanation": "Gentamicin is added for deeper uterine muscle infection"
+    },
+    {
+      "q": "Which medication is typically administered intra-operatively to aid the delivery of the placenta?",
+      "A": "Misoprostol",
+      "B": "Macrolides",
+      "C": "Oxytocin",
+      "D": "Magnesium sulfate",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Which of these medications does not act as a contraceptive when given for heavy menstrual bleeding?",
+      "A": "Intrauterine systems",
+      "B": "COCP",
+      "C": "Oral norethisterone",
+      "D": "Depo progesterone",
+      "answer": "C",
+      "explanation": "Oral norethisterone needs continuous administration for contraception"
+    },
+    {
+      "q": "Which of the following treatments for primary dysmenorrhea works via inhibition of prostaglandin production?",
+      "A": "Mirena coil",
+      "B": "Ibuprofen",
+      "C": "Paracetamol",
+      "D": "Metformin",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following is an indication for induction of labor?",
+      "A": "Fetal distress",
+      "B": "Breech presentation",
+      "C": "Prelabor rupture of membrane",
+      "D": "Placenta previa",
+      "answer": "C",
+      "explanation": "Ruptured membranes increase the risk of chorioamnionitis"
+    },
+    {
+      "q": "The following are presumptive skin signs of pregnancy EXCEPT:",
+      "A": "Chloasma",
+      "B": "Maculopapular rash",
+      "C": "Linea Nigra",
+      "D": "Stretch Marks",
+      "E": "Spider Telangiectases",
+      "answer": "B",
+      "explanation": "Maculopapular rash is associated with infections, not pregnancy"
+    },
+    {
+      "q": "The resting pulse in pregnancy is:",
+      "A": "Decreased by 20 bpm",
+      "B": "Decreased by 10 to 15 bpm",
+      "C": "Unchanged",
+      "D": "Increased by 10 to 15 bpm",
+      "E": "Increased by 20 bpm",
+      "answer": "D",
+      "explanation": "One of the physiological changes we see in pregnancy is increased pulse rate"
+    },
+    {
+      "q": "Normally, pregnancy in the 2nd trimester is characterized by all of the following EXCEPT:",
+      "A": "Elevated fasting plasma glucose",
+      "B": "Decreased fasting plasma glucose",
+      "C": "Elevated postprandial plasma insulin",
+      "D": "Elevated postprandial plasma glucose",
+      "E": "Elevated plasma triglycerides",
+      "answer": "A",
+      "explanation": "The 2nd trimester is characterized by decreased plasma glucose levels"
+    },
+    {
+      "q": "All are CORRECT, EXCEPT, pregnancy is associated with:",
+      "A": "Increase cardiac output",
+      "B": "Increase venous return",
+      "C": "Increase peripheral resistance",
+      "D": "Increase pulse rate",
+      "E": "Increase stroke volume",
+      "answer": "C",
+      "explanation": "Peripheral resistance typically decreases during pregnancy"
+    },
+    {
+      "q": "During normal pregnancy: Which is true?",
+      "A": "Estradiol is the principal circulating estrogen",
+      "B": "The blood pressure increases in the first and second trimesters",
+      "C": "The tidal volume is reduced",
+      "D": "In the second half of pregnancy, amniotic fluid is mostly contributed by fetal urine",
+      "E": "Maternal hydroureters should always be taken as a serious pelvic condition",
+      "answer": "D",
+      "explanation": "Fetal urine makes up a lot of amniotic fluid volume in pregnancy"
+    },
+    {
+      "q": "In normal pregnancy, all of the following are true EXCEPT:",
+      "A": "Glucosuria increases",
+      "B": "Plasma aldosterone concentration falls",
+      "C": "Creatinine clearance is increased",
+      "D": "Folate excretion is increased",
+      "E": "The presence of less than 300 mg of protein in a 24-hour urine collection is considered normal",
+      "answer": "B",
+      "explanation": "Plasma aldosterone concentration rises in normal pregnancy"
+    },
+    {
+      "q": "In normal pregnancy, levels of all of the following hormones increase EXCEPT:",
+      "A": "Total thyroxine (T4)",
+      "B": "Parathyroid hormone (PTH) in the 2nd and 3rd trimesters",
+      "C": "Free cortisol",
+      "D": "Prolactin",
+      "E": "Estradiol",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "The increase in blood volume in normal pregnancy is made up of:",
+      "A": "Plasma only",
+      "B": "Erythrocytes only",
+      "C": "More plasma than erythroblasts",
+      "D": "More erythrocytes than plasma",
+      "E": "All of the above",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Changes in the urinary tract system in pregnancy include:",
+      "A": "Increase in the glomerular filtration rate (GFR)",
+      "B": "Decrease in renal plasma flow (RPF)",
+      "C": "Marked increase in both GFR and RPF when the patient is supine",
+      "D": "Increase in the amount of dead space in the urinary tract",
+      "E": "Increase in BUN and creatinine",
+      "answer": "A",
+      "explanation": ""
+    }
+  ]
+} 

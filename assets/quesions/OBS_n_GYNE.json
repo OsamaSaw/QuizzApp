@@ -1,0 +1,454 @@
+{
+    "questions": [
+        {
+            "q": "Which of the following is the most common cause of primary amenorrhea in females?",
+            "A": "Polycystic ovarian syndrome (PCOS)",
+            "B": "Turner syndrome",
+            "C": "Müllerian agenesis (Mayer-Rokitansky-Küster-Hauser syndrome)",
+            "D": "Androgen insensitivity syndrome",
+            "answer": "C",
+            "explanation": "Müllerian agenesis, also known as MRKH syndrome, is the most common cause of primary amenorrhea due to congenital absence of the uterus and upper vagina."
+        },
+        {
+            "q": "Which of the following is the primary pharmacologic treatment for a woman with symptomatic uterine fibroids?",
+            "A": "Oral contraceptives",
+            "B": "GnRH agonists",
+            "C": "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+            "D": "Danazol",
+            "answer": "B",
+            "explanation": "Gonadotropin-releasing hormone (GnRH) agonists (e.g., leuprolide) are used to temporarily induce medical menopause and reduce the size of uterine fibroids, providing symptomatic relief."
+        },
+        {
+            "q": "A 30-year-old woman presents with cyclic breast pain and swelling that worsens premenstrually. Which of the following is the most likely diagnosis?",
+            "A": "Fibroadenoma",
+            "B": "Breast cancer",
+            "C": "Fibrocystic changes",
+            "D": "Breast abscess",
+            "answer": "C",
+            "explanation": "Fibrocystic changes in the breast are characterized by cyclic breast pain and swelling that worsen premenstrually due to hormonal fluctuations during the menstrual cycle."
+        },
+        {
+            "q": "Which of the following is the first-line treatment for uncomplicated urinary tract infection (UTI) in a pregnant woman?",
+            "A": "Nitrofurantoin",
+            "B": "Trimethoprim-sulfamethoxazole (TMP-SMX)",
+            "C": "Cephalexin",
+            "D": "Ciprofloxacin",
+            "answer": "A",
+            "explanation": "Nitrofurantoin is considered safe and effective as first-line treatment for uncomplicated UTI in pregnancy due to its minimal systemic absorption and low risk to the fetus."
+        },
+        {
+            "q": "A 28-year-old woman presents with recurrent episodes of pelvic pain and dysmenorrhea. On transvaginal ultrasound, a 4 cm chocolate cyst is identified on the left ovary. Which of the following is the most likely diagnosis?",
+            "A": "Endometriosis",
+            "B": "Ovarian cyst",
+            "C": "Pelvic inflammatory disease (PID)",
+            "D": "Ovarian torsion",
+            "answer": "A",
+            "explanation": "Endometriosis is characterized by the presence of endometrial-like tissue outside the uterus, leading to cyclic pelvic pain, dysmenorrhea, and sometimes ovarian chocolate cysts (endometriomas)."
+        },
+        {
+            "q": "Which of the following is the most appropriate initial management for a woman with a suspected ectopic pregnancy who is hemodynamically stable?",
+            "A": "Immediate laparotomy",
+            "B": "Expectant management with close follow-up",
+            "C": "Methotrexate administration",
+            "D": "Diagnostic laparoscopy",
+            "answer": "C",
+            "explanation": "Methotrexate is used for the medical management of stable ectopic pregnancy with close monitoring of β-hCG levels. Surgical options are considered for unstable patients."
+        },
+        {
+            "q": "A 35-year-old woman presents with postmenopausal bleeding. Which of the following is the most appropriate initial diagnostic test?",
+            "A": "Endometrial biopsy",
+            "B": "Transvaginal ultrasound",
+            "C": "Hysteroscopy",
+            "D": "Serum CA-125 level",
+            "answer": "A",
+            "explanation": "Postmenopausal bleeding requires thorough evaluation to rule out endometrial cancer. Endometrial biopsy is the initial diagnostic test of choice."
+        },
+        {
+            "q": "Which of the following conditions is characterized by hypertension, proteinuria, and edema during pregnancy?",
+            "A": "Gestational diabetes mellitus (GDM)",
+            "B": "Eclampsia",
+            "C": "HELLP syndrome",
+            "D": "Preeclampsia",
+            "answer": "D",
+            "explanation": "Preeclampsia is defined as hypertension (≥140/90 mmHg) and proteinuria (≥300 mg/24 hours) occurring after 20 weeks of gestation. It can progress to eclampsia if seizures develop."
+        },
+        {
+            "q": "What is the recommended screening test for cervical cancer in women aged 21-29 years?",
+            "A": "HPV DNA testing",
+            "B": "Liquid-based cytology (Pap smear)",
+            "C": "HPV mRNA testing",
+            "D": "Colposcopy",
+            "answer": "B",
+            "explanation": "For women aged 21-29 years, screening for cervical cancer should be done with cytology (Pap smear) every 3 years. HPV testing alone is not recommended in this age group."
+        },
+        {
+            "q": "Which of the following is a common side effect of combined hormonal contraceptives (CHCs)?",
+            "A": "Weight gain",
+            "B": "Hypotension",
+            "C": "Oligomenorrhea",
+            "D": "Osteoporosis",
+            "answer": "A",
+            "explanation": "Weight gain is a common side effect of combined hormonal contraceptives (CHCs), which include estrogen and progestin components."
+        },
+        {
+            "q": "What is the primary treatment for a woman with severe symptomatic pelvic organ prolapse who desires surgical intervention?",
+            "A": "Pessary placement",
+            "B": "Kegel exercises",
+            "C": "Anterior and posterior colporrhaphy",
+            "D": "Hysterectomy with colpocleisis",
+            "answer": "D",
+            "explanation": "Hysterectomy with colpocleisis is a surgical procedure reserved for women with severe symptomatic pelvic organ prolapse who desire definitive surgical management and are not candidates for reconstructive surgery."
+        },
+        {
+            "q": "Which of the following conditions is associated with the triad of urinary incontinence, vaginal prolapse, and chronic pelvic pain?",
+            "A": "Uterine fibroids",
+            "B": "Endometriosis",
+            "C": "Pelvic inflammatory disease (PID)",
+            "D": "Pelvic floor dysfunction",
+            "answer": "D",
+            "explanation": "Pelvic floor dysfunction encompasses a range of conditions including urinary incontinence, vaginal prolapse, and chronic pelvic pain, often related to weakened pelvic floor muscles."
+        },
+        {
+            "q": "A 32-year-old woman presents with cyclic mastalgia and a palpable breast mass that fluctuates with her menstrual cycle. Which of the following is the most likely diagnosis?",
+            "A": "Fibroadenoma",
+            "B": "Fibrocystic changes",
+            "C": "Breast abscess",
+            "D": "Breast cancer",
+            "answer": "B",
+            "explanation": "Fibrocystic changes in the breast are characterized by cyclic breast pain and palpable masses that fluctuate with the menstrual cycle due to hormonal changes."
+        },
+        {
+            "q": "What is the recommended management for a woman with a confirmed diagnosis of polycystic ovarian syndrome (PCOS) who desires pregnancy?",
+            "A": "Metformin therapy",
+            "B": "Weight loss and lifestyle modification",
+            "C": "Combined hormonal contraceptives (CHCs)",
+            "D": "Ovulation induction with clomiphene citrate",
+            "answer": "D",
+            "explanation": "Ovulation induction with clomiphene citrate is the first-line treatment for infertility in women with PCOS who desire pregnancy. Metformin may be used in addition for metabolic management."
+        },
+        {
+            "q": "Which of the following is a complication of third trimester bleeding characterized by premature separation of the placenta from the uterine wall?",
+            "A": "Placenta previa",
+            "B": "Placental abruption",
+            "C": "Vasa previa",
+            "D": "Uterine rupture",
+            "answer": "B",
+            "explanation": "Placental abruption is the premature separation of a normally implanted placenta from the uterine wall before delivery, leading to third trimester bleeding and fetal distress."
+        },
+        {
+            "q": "What is the recommended first-line treatment for vulvovaginal candidiasis in non-pregnant women?",
+            "A": "Fluconazole",
+            "B": "Metronidazole",
+            "C": "Clindamycin",
+            "D": "Miconazole",
+            "answer": "D",
+            "explanation": "Topical antifungal agents like miconazole and clotrimazole are the first-line treatment for uncomplicated vulvovaginal candidiasis in non-pregnant women. Oral fluconazole can also be used."
+        },
+        {
+            "q": "A 38-year-old woman presents with irregular menstrual cycles, hirsutism, and infertility. On examination, there are bilateral enlarged ovaries with multiple small cysts. Which of the following is the most likely diagnosis?",
+            "A": "Premature ovarian failure",
+            "B": "Polycystic ovarian syndrome (PCOS)",
+            "C": "Turner syndrome",
+            "D": "Müllerian agenesis",
+            "answer": "B",
+            "explanation": "PCOS is characterized by hyperandrogenism (hirsutism), menstrual irregularities (oligomenorrhea or amenorrhea), and polycystic ovaries on ultrasound. Infertility is common due to anovulation."
+        },
+        {
+            "q": "What is the recommended screening interval for cervical cancer in women aged 30-65 years with negative HPV testing and negative cytology (Pap smear)?",
+            "A": "Every 1 year",
+            "B": "Every 3 years",
+            "C": "Every 5 years",
+            "D": "Every 10 years",
+            "answer": "C",
+            "explanation": "For women aged 30-65 years with negative HPV testing and negative cytology (Pap smear), screening for cervical cancer can be done every 5 years."
+        },
+        {
+            "q": "Which of the following conditions is characterized by painless, postmenopausal uterine bleeding?",
+            "A": "Endometrial cancer",
+            "B": "Cervical cancer",
+            "C": "Leiomyoma",
+            "D": "Cervical polyp",
+            "answer": "A",
+            "explanation": "Painless, postmenopausal uterine bleeding is the hallmark symptom of endometrial cancer until proven otherwise."
+        },
+        {
+            "q": "Which of the following is the most common type of ovarian cancer?",
+            "A": "Serous carcinoma",
+            "B": "Mucinous carcinoma",
+            "C": "Endometrioid carcinoma",
+            "D": "Clear cell carcinoma",
+            "answer": "A",
+            "explanation": "Serous carcinoma is the most common type of ovarian cancer, accounting for approximately 70% of all cases. It arises from the epithelial cells lining the fallopian tubes or ovaries."
+        },
+        {
+            "q": "What is the most appropriate initial management for a pregnant woman with Rh-negative blood type at 28 weeks gestation with no prior sensitization?",
+            "A": "Rh immunoglobulin (RhIg) administration",
+            "B": "Fetal ultrasound for Rh isoimmunization",
+            "C": "Amniocentesis for fetal blood typing",
+            "D": "Serial maternal antibody titers",
+            "answer": "A",
+            "explanation": "Rh immunoglobulin (RhIg) should be administered to Rh-negative women at 28 weeks gestation and within 72 hours of delivery if the newborn is Rh-positive to prevent Rh isoimmunization."
+        },
+        {
+            "q": "A 32-year-old primigravid woman at 38 weeks gestation presents with sudden onset of severe abdominal pain and vaginal bleeding. On examination, the uterus is tender and firm. Fetal heart tones are absent. Which of the following is the most likely diagnosis?",
+            "A": "Placental abruption",
+            "B": "Placenta previa",
+            "C": "Uterine rupture",
+            "D": "Cervical insufficiency",
+            "answer": "A",
+            "explanation": "Placental abruption presents with sudden onset of severe abdominal pain, vaginal bleeding, uterine tenderness, and fetal distress or demise."
+        },
+        {
+            "q": "What is the recommended screening test for gestational diabetes mellitus (GDM) in pregnant women at 24-28 weeks gestation?",
+            "A": "Fasting plasma glucose",
+            "B": "Random plasma glucose",
+            "C": "2-hour 75 g oral glucose tolerance test (OGTT)",
+            "D": "Hemoglobin A1c (HbA1c)",
+            "answer": "C",
+            "explanation": "The 2-hour 75 g OGTT is the recommended screening test for GDM in pregnant women at 24-28 weeks gestation to detect glucose intolerance."
+        },
+        {
+            "q": "Which of the following fetal presentations is associated with the highest risk of cord prolapse during labor?",
+            "A": "Vertex",
+            "B": "Breech",
+            "C": "Transverse lie",
+            "D": "Face presentation",
+            "answer": "B",
+            "explanation": "Breech presentation is associated with the highest risk of cord prolapse due to the presenting part not adequately sealing the lower uterine segment."
+        },
+        {
+            "q": "A 28-year-old pregnant woman presents with severe headache, visual disturbances, and epigastric pain at 34 weeks gestation. On examination, she has hypertension and proteinuria. Which of the following is the most likely diagnosis?",
+            "A": "Preeclampsia",
+            "B": "Gestational hypertension",
+            "C": "Chronic hypertension",
+            "D": "HELLP syndrome",
+            "answer": "A",
+            "explanation": "Preeclampsia is characterized by new-onset hypertension (≥140/90 mmHg) and proteinuria (≥300 mg/24 hours) after 20 weeks gestation, along with signs of end-organ dysfunction such as headache, visual disturbances, and epigastric pain."
+        },
+        {
+            "q": "Which of the following is the most common cause of postpartum hemorrhage (PPH) within 24 hours of delivery?",
+            "A": "Uterine atony",
+            "B": "Retained placental tissue",
+            "C": "Genital tract lacerations",
+            "D": "Coagulopathy",
+            "answer": "A",
+            "explanation": "Uterine atony, which is failure of the uterus to contract following delivery, is the most common cause of PPH within 24 hours of delivery."
+        },
+        {
+            "q": "What is the recommended first-line treatment for a pregnant woman with suspected group B Streptococcus (GBS) bacteriuria at 35 weeks gestation?",
+            "A": "Amoxicillin",
+            "B": "Ceftriaxone",
+            "C": "Vancomycin",
+            "D": "Clindamycin",
+            "answer": "A",
+            "explanation": "Amoxicillin is the first-line treatment for group B Streptococcus (GBS) bacteriuria in pregnant women to reduce the risk of neonatal sepsis."
+        },
+        {
+            "q": "Which of the following is the most common cause of non-obstetric abdominal pain in pregnant women?",
+            "A": "Appendicitis",
+            "B": "Cholecystitis",
+            "C": "Pancreatitis",
+            "D": "Peptic ulcer disease",
+            "answer": "A",
+            "explanation": "Appendicitis is the most common cause of non-obstetric abdominal pain in pregnant women due to anatomical changes and diagnostic challenges."
+        },
+        {
+            "q": "What is the recommended management for a woman at 28 weeks gestation with premature rupture of membranes (PROM) and no signs of labor?",
+            "A": "Immediate induction of labor",
+            "B": "Expectant management with close monitoring",
+            "C": "Prophylactic antibiotics and corticosteroids",
+            "D": "Bed rest and hydration",
+            "answer": "C",
+            "explanation": "Prophylactic antibiotics and corticosteroids are recommended for women with PROM at 28 weeks gestation to reduce the risk of neonatal sepsis and improve lung maturity."
+        },
+        {
+            "q": "Which of the following vaccines is contraindicated during pregnancy?",
+            "A": "Tetanus toxoid",
+            "B": "Influenza vaccine (inactivated)",
+            "C": "Hepatitis B vaccine",
+            "D": "Rubella vaccine",
+            "answer": "D",
+            "explanation": "The rubella vaccine is a live attenuated vaccine and is contraindicated during pregnancy due to the risk of fetal infection and congenital rubella syndrome."
+        },
+        {
+            "q": "Which of the following is a risk factor for placenta accreta spectrum (PAS) disorder?",
+            "A": "Advanced maternal age",
+            "B": "Multiparity",
+            "C": "Previous cesarean delivery",
+            "D": "Preterm birth",
+            "answer": "C",
+            "explanation": "Previous cesarean delivery is a major risk factor for placenta accreta spectrum (PAS) disorders due to abnormal placental adherence to the uterine wall."
+        },
+        {
+            "q": "What is the recommended management for a pregnant woman with a history of venous thromboembolism (VTE) who requires anticoagulation during pregnancy?",
+            "A": "Low molecular weight heparin (LMWH)",
+            "B": "Warfarin",
+            "C": "Aspirin",
+            "D": "Rivaroxaban",
+            "answer": "A",
+            "explanation": "Low molecular weight heparin (LMWH) is the recommended anticoagulant for pregnant women with a history of venous thromboembolism (VTE) due to its safety profile during pregnancy."
+        },
+        {
+            "q": "Which of the following fetal heart rate patterns is indicative of fetal distress and requires immediate intervention?",
+            "A": "Variability with accelerations",
+            "B": "Early decelerations",
+            "C": "Variable decelerations with loss of variability",
+            "D": "Late decelerations",
+            "answer": "D",
+            "explanation": "Late decelerations are characterized by a gradual decrease and return of the fetal heart rate with contractions, indicating uteroplacental insufficiency and fetal distress, requiring immediate intervention."
+        },
+        {
+            "q": "A pregnant woman presents with sudden-onset shortness of breath, chest pain, and hypotension. On examination, there is jugular venous distension and muffled heart sounds. Which of the following is the most likely diagnosis?",
+            "A": "Peripartum cardiomyopathy",
+            "B": "Pulmonary embolism",
+            "C": "Amniotic fluid embolism",
+            "D": "Acute respiratory distress syndrome (ARDS)",
+            "answer": "C",
+            "explanation": "Amniotic fluid embolism is a rare but life-threatening obstetric emergency characterized by sudden-onset hypoxia, cardiovascular collapse, and coagulopathy."
+        },
+        {
+            "q": "Which of the following is the most common cause of maternal mortality worldwide?",
+            "A": "Hemorrhage",
+            "B": "Hypertensive disorders of pregnancy",
+            "C": "Infections",
+            "D": "Embolic events",
+            "answer": "A",
+            "explanation": "Hemorrhage, primarily postpartum hemorrhage, is the most common cause of maternal mortality worldwide due to excessive blood loss during childbirth."
+        },
+        {
+            "q": "What is the recommended timing for screening ultrasound to confirm gestational age and viability in a woman with uncertain dates and a positive pregnancy test?",
+            "A": "4-6 weeks gestation",
+            "B": "8-10 weeks gestation",
+            "C": "12-14 weeks gestation",
+            "D": "16-18 weeks gestation",
+            "answer": "B",
+            "explanation": "Transvaginal ultrasound at 8-10 weeks gestation is recommended to confirm gestational age and viability in women with uncertain dates and a positive pregnancy test."
+        },
+        {
+            "q": "Which of the following conditions is associated with fetal polyhydramnios?",
+            "A": "Fetal growth restriction",
+            "B": "Diabetes mellitus",
+            "C": "Oligohydramnios",
+            "D": "Placental abruption",
+            "answer": "B",
+            "explanation": "Diabetes mellitus, both pregestational and gestational (gestational diabetes), is associated with fetal polyhydramnios due to increased fetal urine production."
+        },
+        {
+            "q": "What is the most common cause of third trimester bleeding in pregnancy?",
+            "A": "Placenta previa",
+            "B": "Placental abruption",
+            "C": "Vasa previa",
+            "D": "Cervical polyp",
+            "answer": "A",
+            "explanation": "Placenta previa, where the placenta partially or completely covers the cervix, is the most common cause of painless third trimester bleeding in pregnancy."
+        },
+        {
+            "q": "Which of the following is a recognized risk factor for preterm birth?",
+            "A": "Advanced maternal age",
+            "B": "Nulliparity",
+            "C": "Smoking",
+            "D": "Previous term birth",
+            "answer": "C",
+            "explanation": "Smoking is a well-established risk factor for preterm birth due to its effects on placental function, fetal growth, and maternal vascular health."
+        },
+        {
+            "q": "What is the recommended method for confirming the diagnosis of ruptured membranes in a pregnant woman at term?",
+            "A": "Ferning test",
+            "B": "Nitrazine paper test",
+            "C": "Amnisure test",
+            "D": "Ultrasound examination",
+            "answer": "B",
+            "explanation": "The nitrazine paper test (pH test) is a simple and reliable method for confirming the diagnosis of ruptured membranes based on the pH of vaginal fluid turning blue when exposed to amniotic fluid."
+        },
+        {
+            "q": "A pregnant woman at 36 weeks gestation presents with sudden-onset severe headache, visual disturbances, and epigastric pain. On examination, her blood pressure is 160/110 mmHg. Which of the following is the most likely diagnosis?",
+            "A": "Preeclampsia",
+            "B": "Gestational hypertension",
+            "C": "Chronic hypertension",
+            "D": "HELLP syndrome",
+            "answer": "A",
+            "explanation": "Preeclampsia is characterized by new-onset hypertension (≥140/90 mmHg) and proteinuria (≥300 mg/24 hours) after 20 weeks gestation, along with signs of end-organ dysfunction such as headache, visual disturbances, and epigastric pain."
+        },
+        {
+            "q": "What is the recommended management for a woman with twin gestation at 32 weeks gestation who presents with preterm premature rupture of membranes (PPROM) and no signs of labor?",
+            "A": "Expectant management with close fetal monitoring",
+            "B": "Immediate delivery by cesarean section",
+            "C": "Administration of tocolytics and corticosteroids",
+            "D": "Prophylactic antibiotics and magnesium sulfate",
+            "answer": "C",
+            "explanation": "Administration of tocolytics (to delay labor) and corticosteroids (to enhance fetal lung maturity) is recommended for women with PPROM before 34 weeks gestation to reduce neonatal morbidity and mortality."
+        },
+        {
+            "q": "Which of the following is a complication associated with shoulder dystocia during vaginal delivery?",
+            "A": "Postpartum hemorrhage",
+            "B": "Fetal macrosomia",
+            "C": "Uterine rupture",
+            "D": "Brachial plexus injury",
+            "answer": "D",
+            "explanation": "Shoulder dystocia is an obstetric emergency where the fetal shoulder becomes impacted behind the maternal pubic symphysis. It can lead to complications such as brachial plexus injury (Erb's palsy) due to excessive traction during delivery."
+        },
+        {
+            "q": "What is the recommended management for a pregnant woman with a suspected ectopic pregnancy who is hemodynamically stable and has a β-hCG level of 3000 mIU/mL but no visible intrauterine gestational sac on transvaginal ultrasound?",
+            "A": "Expectant management with serial β-hCG monitoring",
+            "B": "Methotrexate administration",
+            "C": "Immediate surgical exploration",
+            "D": "Diagnostic laparoscopy",
+            "answer": "B",
+            "explanation": "Methotrexate is indicated for stable patients with ectopic pregnancy and a β-hCG level less than 5000 mIU/mL, provided there are no contraindications (e.g., fetal cardiac activity)."
+        },
+        {
+            "q": "A pregnant woman at 28 weeks gestation presents with severe lower abdominal pain and vaginal bleeding. On examination, the uterus is tender and firm. Fetal heart tones are absent. What is the most likely diagnosis?",
+            "A": "Placental abruption",
+            "B": "Uterine rupture",
+            "C": "Placenta previa",
+            "D": "Cervical insufficiency",
+            "answer": "A",
+            "explanation": "Placental abruption presents with sudden-onset severe abdominal pain, vaginal bleeding, uterine tenderness, and fetal distress or demise. It is a significant cause of maternal and fetal morbidity and mortality."
+        },
+        {
+            "q": "Which of the following maternal infections is associated with the highest risk of congenital anomalies if acquired during the first trimester of pregnancy?",
+            "A": "Rubella",
+            "B": "Cytomegalovirus (CMV)",
+            "C": "Varicella-zoster virus (VZV)",
+            "D": "Parvovirus B19",
+            "answer": "A",
+            "explanation": "Rubella infection during the first trimester of pregnancy is associated with the highest risk of congenital anomalies (congenital rubella syndrome), including cardiac defects, deafness, and cataracts."
+        },
+        {
+            "q": "What is the primary cause of physiologic anemia of pregnancy?",
+            "A": "Decreased iron absorption",
+            "B": "Increased plasma volume expansion",
+            "C": "Fetal demand for iron",
+            "D": "Chronic maternal blood loss",
+            "answer": "B",
+            "explanation": "Physiologic anemia of pregnancy is primarily due to an increase in plasma volume (up to 50%) that dilutes the concentration of red blood cells, resulting in relative anemia."
+        },
+        {
+            "q": "Which of the following is a risk factor for uterine atony and postpartum hemorrhage?",
+            "A": "Multiparity",
+            "B": "Oligohydramnios",
+            "C": "Preterm birth",
+            "D": "Maternal age < 20 years",
+            "answer": "A",
+            "explanation": "Multiparity (having had multiple previous pregnancies) is a risk factor for uterine atony, which is the leading cause of postpartum hemorrhage due to inadequate uterine muscle tone."
+        },
+        {
+            "q": "What is the first-line treatment for nausea and vomiting of pregnancy (NVP) that does not respond to conservative measures?",
+            "A": "Pyridoxine (vitamin B6)",
+            "B": "Metoclopramide",
+            "C": "Ondansetron",
+            "D": "Promethazine",
+            "answer": "A",
+            "explanation": "Pyridoxine (vitamin B6) is the first-line treatment for nausea and vomiting of pregnancy (NVP) that does not respond to dietary and lifestyle modifications. It is safe and effective in pregnancy."
+        },
+        {
+            "q": "Which of the following is a risk factor for placenta previa?",
+            "A": "Multiparity",
+            "B": "Advanced maternal age",
+            "C": "Previous cesarean delivery",
+            "D": "Preterm labor",
+            "answer": "C",
+            "explanation": "Previous cesarean delivery is a major risk factor for placenta previa due to abnormal placentation over the scarred uterine area."
+        }
+    ]
+}

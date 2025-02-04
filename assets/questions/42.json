@@ -1,0 +1,300 @@
+{
+  "questions": [
+    {
+      "q": "Which level of evidence is considered the highest in the evidence hierarchy?",
+      "A": "Expert opinion",
+      "B": "Case series",
+      "C": "Systematic reviews of RCTs",
+      "D": "Cohort studies",
+      "answer": "C",
+      "explanation": "Systematic reviews and meta-analyses of randomized controlled trials (RCTs) provide the highest level of evidence in evidence-based medicine"
+    },
+    {
+      "q": "What is the primary purpose of a meta-analysis?",
+      "A": "To conduct new clinical trials",
+      "B": "To combine results from multiple studies",
+      "C": "To replace randomized trials",
+      "D": "To survey expert opinions",
+      "answer": "B",
+      "explanation": "Meta-analysis statistically combines results from multiple studies to increase statistical power and improve estimates of effect size"
+    },
+    {
+      "q": "Antenatal care can prevent all the following complications, EXCEPT:",
+      "A": "Anemia due to iron deficiency or folic acid deficiency.",
+      "B": "UTI or pyelonephritis.",
+      "C": "Macrosomia.",
+      "D": "Preterm labor.",
+      "E": "Rh immunization.",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "High alpha-fetoprotein is found in all of the following EXCEPT:",
+      "A": "IUFD.",
+      "B": "Multiple pregnancy.",
+      "C": "Some ovarian cancer.",
+      "D": "Trisomy 21.",
+      "E": "Neural tube defect.",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Nuchal translucency is used as a marker for:",
+      "A": "NTD.",
+      "B": "Trisomies.",
+      "C": "Polyhydramnios.",
+      "D": "Cerebral palsy.",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Of the following laboratory studies, which test might be done routinely at booking:",
+      "A": "Electrolytes.",
+      "B": "Urinary estriol.",
+      "C": "Serum glutamic-oxaloacetic transaminase.",
+      "D": "Hemoglobin.",
+      "E": "FTA-ABS.",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "The following drugs cross the placenta to the fetus, EXCEPT:",
+      "A": "Heparin.",
+      "B": "Tetracycline.",
+      "C": "Warfarin.",
+      "D": "Diazepam.",
+      "E": "Aspirin.",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "Which of these drugs do not cross the placenta?",
+      "A": "Heparin.",
+      "B": "Warfarin.",
+      "C": "Tetracycline.",
+      "D": "Digoxin.",
+      "E": "None of the above.",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "Hypoplasia & yellow discoloration of the primary teeth has occurred in infants whose pregnant mothers were treated with which drug:",
+      "A": "Sulfonamides.",
+      "B": "Penicillin.",
+      "C": "Streptomycin.",
+      "D": "Dihydrostreptomycin.",
+      "E": "Tetracycline.",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "In fetal circulation:",
+      "A": "Oxygenated blood goes along the umbilical arteries.",
+      "B": "The fetal lung is bypassed by means of the ductus venosus.",
+      "C": "The foramen ovale connects the two ventricles.",
+      "D": "Most of the blood entering the right atrium flows into the left atrium.",
+      "E": "The blood in the umbilical arteries is more oxygenated than blood in the umbilical vein.",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Components of biophysical profile include all of the following, EXCEPT:",
+      "A": "Fetal movement",
+      "B": "Placental thickness",
+      "C": "Fetal tone",
+      "D": "Fetal breathing movement",
+      "E": "Amniotic fluid volume assessment",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Antenatal fetal monitoring can NOT be accomplished by:",
+      "A": "Fetal kick chart.",
+      "B": "Fetal scalp sampling.",
+      "C": "Non-stress test.",
+      "D": "Obstetric U/S & Biophysical profile.",
+      "E": "Acoustic stimulation.",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following procedures allow the earliest retrieval of DNA for prenatal diagnosis in pregnancy:",
+      "A": "Fetoscopy.",
+      "B": "Amniocentesis.",
+      "C": "Chorionic Villi Sampling (CVS)",
+      "D": "Percutaneous Umbilical Blood Sampling (PUBS)",
+      "E": "Fetal biopsy.",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Regarding the biophysical profile:",
+      "A": "Is usually done in labor.",
+      "B": "Never include a non-stress test.",
+      "C": "Includes fetal movement, fetal tone, fetal breathing, fetal heart rate & amniotic fluid.",
+      "D": "Includes a Doppler study.",
+      "E": "Includes tone, movement & breathing",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Fetal assessment includes the following EXCEPT:",
+      "A": "Fetal biophysical profile.",
+      "B": "Fetal Doppler velocimetry.",
+      "C": "Fetal biometry.",
+      "D": "Fetal Cardiotocography.",
+      "E": "Fetal blood sugar sample",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "Patients with high-risk pregnancy should have:",
+      "A": "Follow-up in ANC every 6 weeks",
+      "B": "Fetal kick chart.",
+      "C": "Fetal maternal transfusion",
+      "D": "Fetal amniotomy",
+      "E": "Fetal biophysical profile.",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "A biophysical profile includes all of the following assessment parameters EXCEPT:",
+      "A": "Fetal movement.",
+      "B": "Fetal weight.",
+      "C": "Fetal tone.",
+      "D": "Fetal breathing movements.",
+      "E": "Amniotic fluid volume.",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "A low APGAR score at one minute:",
+      "A": "Is highly correlated with late neurologic sequelae.",
+      "B": "Indicates an academic newborn.",
+      "C": "Has the same significance in premature & term infants.",
+      "D": "Indicates the need for immediate resuscitation.",
+      "E": "Is a useful index of resuscitative efforts",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "APGAR's score includes all the followings EXCEPT:",
+      "A": "Skin color.",
+      "B": "Muscle tone.",
+      "C": "Blood pH.",
+      "D": "Heart rate.",
+      "E": "Respirations",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "APGAR's score consists of all the following, EXCEPT:",
+      "A": "Newborn breathing.",
+      "B": "Newborn tone.",
+      "C": "Newborn heart rate.",
+      "D": "Newborn color.",
+      "E": "Newborn pH",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "Immediate therapy for infants with suspected meconium should routinely include:",
+      "A": "Corticosteroid",
+      "B": "Antibiotics",
+      "C": "Sodium bicarbonate",
+      "D": "Clearing of the airway",
+      "E": "Giving O2 under positive pressure",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Multiple pregnancy increases:",
+      "A": "In white people more than black",
+      "B": "With advancing maternal age",
+      "C": "With Bromocriptine use for infertility treatment",
+      "D": "If first pregnancy",
+      "E": "After ovarian diathermy for polycystic ovary syndrome",
+      "answer": "B",
+      "explanation": ""
+    },
+    {
+      "q": "In twin deliveries: Which is true?",
+      "A": "The first twin is at greater risk than the second",
+      "B": "They usually go post date",
+      "C": "Epidural analgesia is best avoided",
+      "D": "Commonest presentation is cephalic and second breech",
+      "E": "There is increased risk of postpartum hemorrhage",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "The most common cause of uterine size-date disproportion:",
+      "A": "Fetal macrosomia",
+      "B": "Polyhydramnios",
+      "C": "Inaccurate last menstrual period date",
+      "D": "Multiple pregnancy",
+      "E": "Molar pregnancy.",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "Which of the following is known to be the commonest presentation in twins?",
+      "A": "Breech, cephalic",
+      "B": "Cephalic, breech",
+      "C": "Cephalic, cephalic",
+      "D": "Breech, breech",
+      "E": "Cephalic, transverse",
+      "answer": "C",
+      "explanation": ""
+    },
+    {
+      "q": "The risk of postpartum uterine atony is associated with:",
+      "A": "Hypotension.",
+      "B": "Epidural anesthesia.",
+      "C": "Median episiotomy.",
+      "D": "Twin pregnancy.",
+      "E": "Labor associated with an active rate of change of 2.3 cm per hour",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "The major cause of the increased risk of morbidity & mortality among twin gestation is:",
+      "A": "Gestational diabetes.",
+      "B": "Placenta previa.",
+      "C": "Malpresentation.",
+      "D": "Preterm delivery.",
+      "E": "Congenital anomalies.",
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "q": "Multiple gestations should be suspected in all of the following conditions EXCEPT:",
+      "A": "Maternal weight gain is greater than expected.",
+      "B": "The uterus is larger than expected.",
+      "C": "Maternal AFP is elevated.",
+      "D": "Pregnancy has occurred after induction with Gonadotropins.",
+      "E": "Maternal perception of fetal movement occurs earlier than expected in gestation.",
+      "answer": "E",
+      "explanation": ""
+    },
+    {
+      "q": "The most common cause of perinatal death in mono-amniotic twin is:",
+      "A": "Cord entrapment.",
+      "B": "Cord prolapse.",
+      "C": "Twin-twin transfusion syndrome.",
+      "D": "Lethal congenital anomalies.",
+      "E": "Placental abruption.",
+      "answer": "A",
+      "explanation": ""
+    },
+    {
+      "q": "If twin A is in a transverse lie & twin B is vertex, the most appropriate route for delivery is:",
+      "A": "C-section.",
+      "B": "Internal podalic version followed by breech extraction.",
+      "C": "Both",
+      "D": "Neither.",
+      "answer": "A",
+      "explanation": ""
+    }
+  ]
+} 

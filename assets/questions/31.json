@@ -1,0 +1,267 @@
+{
+  "questions": [
+    {
+      "q": "Which skin condition is most commonly associated with psoriatic arthritis?",
+      "A": "Eczema",
+      "B": "Plaque psoriasis",
+      "C": "Seborrheic dermatitis",
+      "D": "Rosacea",
+      "answer": "B",
+      "explanation": "Plaque psoriasis is present in about 85% of patients who develop psoriatic arthritis"
+    },
+    {
+      "q": "What is the most common type of skin cancer?",
+      "A": "Melanoma",
+      "B": "Basal cell carcinoma",
+      "C": "Squamous cell carcinoma",
+      "D": "Merkel cell carcinoma",
+      "answer": "B",
+      "explanation": "Basal cell carcinoma is the most common type of skin cancer, accounting for about 80% of all skin cancers"
+    },
+          {
+            "q": "The joint between the two pubic bones is called the:",
+            "A": "Sacroiliac joint.",
+            "B": "Pubic symphysis.",
+            "C": "Sacrococcygeal joint.",
+            "D": "Piriformis.",
+            "E": "Intervertebral joint.",
+            "answer": "B",
+            "explanation": "The joint between two pubic bones is called pubic symphysis"
+          },
+
+          {
+            "q": "The greatest diameter of the fetal head is:",
+            "A": "Occipitofrontal",
+            "B": "Occipitomental",
+            "C": "Suboccipit bregmatic",
+            "D": "Bitemporal",
+            "E": "Biparietal",
+            "answer": "B",
+            "explanation": "The biggest diameter of the fetal head is occipitomental"
+          },
+          {
+            "q": "Molding of the fetal head:",
+            "A": "Usually causes brain damage",
+            "B": "Becomes progressively easier as gestational age increases",
+            "C": "Increases the difficulty of delivery",
+            "D": "Does NOT have time to occur in breech delivery",
+            "E": "Does not happen when the maternal pelvis is adequate",
+            "answer": "D",
+            "explanation": "Molding of the fetal head does not occur in breech delivery"
+          },
+          {
+            "q": "The main blood supply of the vulva is:",
+            "A": "Inferior hemorrhoidal artery",
+            "B": "Pudendal artery",
+            "C": "Ilioinguinal artery",
+            "D": "Femoral artery",
+            "E": "Inferior Hypogastric artery",
+            "answer": "B",
+            "explanation": "The main blood supply of the vulva is the pudendal artery"
+          },
+          {
+            "q": "The following are typical in the female bony pelvis EXCEPT:",
+            "A": "Has a transverse diameter of the inlet greater than the antero-posterior diameter",
+            "B": "Has an obstetric conjugate of 11-12 cm",
+            "C": "Is funnel-shaped",
+            "D": "Has an obtuse greater sciatic notch",
+            "E": "Has a pubic angle greater than 90 degrees",
+            "answer": "C",
+            "explanation": "Gynecoid is considered the most common female pelvis and it is round and open, not funnel-shaped"
+          },
+          {
+            "q": "Regarding fetal head, choose the CORRECT answer:",
+            "A": "Can be delivered vaginally in persistent occipito-mental presentation",
+            "B": "Will show Spalding's sign within 12 hours of intrauterine death",
+            "C": "Can be delivered vaginally in persistent brow presentation",
+            "D": "Is likely to be a vertex presentation when the head is deflexed",
+            "E": "Considered to be engaged when the biparietal diameter passes the level of the pelvic inlet",
+            "answer": "E",
+            "explanation": ""
+          },
+          {
+            "q": "The ovarian artery is a branch of:",
+            "A": "Common iliac artery",
+            "B": "Internal iliac artery",
+            "C": "Aorta",
+            "D": "Hypogastric artery",
+            "E": "Sacral artery",
+            "answer": "C",
+            "explanation": "The ovarian artery is a branch of the abdominal aorta"
+          },
+          {
+            "q": "The normal lining of the fallopian tube is:",
+            "A": "Squamous epithelium",
+            "B": "Transitional epithelium",
+            "C": "Cuboidal epithelium",
+            "D": "Columnar epithelium with cilia",
+            "E": "Fibrous connective tissue",
+            "answer": "D",
+            "explanation": "The normal lining of the fallopian tube is columnar epithelium with cilia"
+          },
+          {
+            "q": "The cilia of the fallopian tube has the following function:",
+            "A": "Remove the zona pellucida which surrounds the ovum",
+            "B": "Transport the ovum towards the uterus",
+            "C": "Enhance the rapid division of the zygote",
+            "D": "Transport the ovum towards the peritoneal cavity",
+            "E": "Has a bactericidal function to prevent peritoneal infection",
+            "answer": "B",
+            "explanation": "The cilia of the fallopian tube is responsible for transporting the ovum towards the uterus"
+          },
+          {
+            "q": "What condition produces a macrocytic anemia?",
+            "A": "Thalassemia trait",
+            "B": "Hemolytic anemia",
+            "C": "Iron deficiency",
+            "D": "B12 deficiency",
+            "answer": "D",
+            "explanation": "B12 and B9 deficiency can lead to a macrocytic anemia"
+          },
+          {
+            "q": "What is the upper gestational age limit for a pregnancy loss to be classified as a miscarriage?",
+            "A": "1 week",
+            "B": "12 weeks",
+            "C": "24 weeks",
+            "D": "40 weeks",
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "q": "Which of the following is a cause of polyhydramnios?",
+            "A": "Esophageal atresia",
+            "B": "Renal agenesis",
+            "C": "Placenta insufficiency",
+            "D": "Preterm prelabor rupture of membranes",
+            "answer": "A",
+            "explanation": "Esophageal atresia prevents the fetus from swallowing amniotic fluid, leading to polyhydramnios"
+          },
+          {
+            "q": "What is the most common coagulopathy to cause heavy menstrual bleeding?",
+            "A": "Hemophilia A",
+            "B": "Hemophilia B",
+            "C": "Von Willebrand disease",
+            "D": "Anti-phospholipid syndrome",
+            "answer": "C",
+            "explanation": "Von Willebrand’s disease is the most common coagulopathy in women"
+          },
+          {
+            "q": "What is the correct definition of a secondary postpartum hemorrhage?",
+            "A": "Bleeding during delivery",
+            "B": "Bleeding within 24 hours of delivery",
+            "C": "Bleeding from 24 hours after delivery to 6 weeks postpartum",
+            "D": "Bleeding from 24 hours after delivery to 12 weeks postpartum",
+            "answer": "D",
+            "explanation": "Secondary postpartum hemorrhage is defined as excessive vaginal bleeding in the period from 24 hours after delivery to 12 weeks postpartum"
+          },
+          {
+            "q": "What is administered to prevent rhesus maternal isoimmunization?",
+            "A": "Packed red cell",
+            "B": "Anti-D immunoglobulin",
+            "C": "Rhd antigen",
+            "D": "Immunosuppressants steroid therapy",
+            "answer": "B",
+            "explanation": "Anti-D immunoglobulin is administered to prevent rhesus isoimmunization"
+          },
+          {
+            "q": "Which of the following features is most strongly associated with cord prolapse?",
+            "A": "Fetal bradycardia",
+            "B": "Bleeding per vagina",
+            "C": "Intact membrane",
+            "D": "Abdominal pain",
+            "answer": "A",
+            "explanation": "Occlusion and arterial vasospasm of the cord lead to hypoxia and fetal distress, which often presents as fetal bradycardia"
+          },
+          {
+            "q": "Why are cervical polyps routinely removed, even if asymptomatic?",
+            "A": "They predispose to infection",
+            "B": "They cause endometrial hyperplasia",
+            "C": "To prevent the spread of polyps",
+            "D": "They have a small risk of malignant transformation",
+            "answer": "D",
+            "explanation": "The risk of malignant transformation is less than 0.5%"
+          },
+          {
+            "q": "Which of the following is not part of Bishop's score?",
+            "A": "Fetal station",
+            "B": "Cervical dilation",
+            "C": "Fetal presentation",
+            "D": "Position of the cervix",
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "q": "What is the most common site of ectopic pregnancy?",
+            "A": "Cervix",
+            "B": "Fallopian tube",
+            "C": "Myometrium",
+            "D": "Bladder",
+            "answer": "B",
+            "explanation": "The ampulla end of the fallopian tube is the most common site for ectopic pregnancy"
+          },
+          {
+            "q": "What structure is the fetal station measured in relation to?",
+            "A": "Pubic symphysis",
+            "B": "Pubic tubercle",
+            "C": "Ischial tuberosity",
+            "D": "Ischial spine",
+            "answer": "D",
+            "explanation": "Fetal station is measured in relation to the ischial spine"
+          },
+          {
+            "q": "Which of the following is an absolute contraindication to VBAC?",
+            "A": "Classical cesarean section",
+            "B": "Two previous cesarean sections",
+            "C": "Pre-eclampsia",
+            "D": "Twin pregnancy",
+            "answer": "A",
+            "explanation": "Classical cesarean section is always an absolute contraindication for VBAC due to high risk of uterine rupture"
+          },
+
+          {
+            "q": "Acanthosis nigricans is a sign of PCOS, what is it?",
+            "A": "Tender red nodules that form in both shins",
+            "B": "Excessive hair growth",
+            "C": "Male pattern hair loss",
+            "D": "Darkened, velvety hyperpigmentation of the skin",
+            "answer": "D",
+            "explanation": "Acanthosis nigricans is seen in PCOS"
+          },
+          {
+            "q": "Which of the following is a recognized risk factor for adenomyosis?",
+            "A": "Previous uterine surgery",
+            "B": "Nulliparity",
+            "C": "Previous medical miscarriage",
+            "D": "Smoking",
+            "answer": "A",
+            "explanation": "Previous uterine surgery is a strong risk factor for adenomyosis"
+          },
+          {
+            "q": "How is oligohydramnios defined?",
+            "A": "Amniotic fluid index <20th centile",
+            "B": "AFI < 10th centile",
+            "C": "AFI < 5th centile",
+            "D": "AFI < 1st centile",
+            "answer": "C",
+            "explanation": "Oligohydramnios refers to a low level of amniotic fluid during pregnancy. It is defined by an amniotic fluid index that is below the 5th centile for the gestational age"
+          },
+          {
+            "q": "Which of the following can occur as a consequence of fetal hyperinsulinemia?",
+            "A": "Intra-uterine growth restrictions",
+            "B": "Anemia",
+            "C": "Macrosomia",
+            "D": "Prolonged pregnancy",
+            "answer": "C",
+            "explanation": "Due to the anabolic effect of insulin, we see macrosomia in fetuses exposed to a large amount of it"
+          },
+          {
+            "q": "Which of the following procedures is offered in a prolonged pregnancy?",
+            "A": "Forceps delivery",
+            "B": "Induction of labor",
+            "C": "Elective cesarean section",
+            "D": "Forceps delivery",
+            "answer": "B",
+            "explanation": "An induction of labor is offered first-line in a post-dates pregnancy. If the patient declines an induction, they should be offered twice-weekly monitoring"
+          }
+  ]
+} 

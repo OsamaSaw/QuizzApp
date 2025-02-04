@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "q": "Which of the following is the most common complication of general anesthesia?",
+      "A": "Postoperative nausea and vomiting",
+      "B": "Respiratory depression",
+      "C": "Malignant hyperthermia",
+      "D": "Awareness during anesthesia",
+      "answer": "A",
+      "explanation": "Postoperative nausea and vomiting (PONV) is the most common complication of general anesthesia, affecting about 30% of patients"
+    },
+    {
+      "q": "What is the primary mechanism of action of propofol?",
+      "A": "NMDA receptor antagonist",
+      "B": "GABA receptor agonist",
+      "C": "Opioid receptor agonist",
+      "D": "Sodium channel blocker",
+      "answer": "B",
+      "explanation": "Propofol primarily works by potentiating GABA receptor activity in the CNS"
+    },
+    {
+      "q": "Which of the following is the most appropriate initial management for laryngospasm during emergence from anesthesia?",
+      "A": "Immediate reintubation",
+      "B": "Administration of succinylcholine",
+      "C": "Positive pressure with CPAP",
+      "D": "Administration of naloxone",
+      "answer": "C",
+      "explanation": "Initial management of laryngospasm includes positive pressure with CPAP and jaw thrust maneuver"
+    },
+    {
+      "q": "What is the most common cause of difficult mask ventilation?",
+      "A": "Obesity",
+      "B": "Cervical spine disease",
+      "C": "Facial trauma",
+      "D": "Dental problems",
+      "answer": "A",
+      "explanation": "Obesity is the most common cause of difficult mask ventilation due to excess soft tissue and reduced compliance"
+    },
+    {
+      "q": "Which local anesthetic has the longest duration of action?",
+      "A": "Lidocaine",
+      "B": "Bupivacaine",
+      "C": "Mepivacaine",
+      "D": "Prilocaine",
+      "answer": "B",
+      "explanation": "Bupivacaine has the longest duration of action among commonly used local anesthetics"
+    },
+    {
+      "q": "What is the most appropriate reversal agent for rocuronium-induced neuromuscular blockade?",
+      "A": "Neostigmine",
+      "B": "Sugammadex",
+      "C": "Edrophonium",
+      "D": "Physostigmine",
+      "answer": "B",
+      "explanation": "Sugammadex specifically binds to rocuronium and vecuronium, providing rapid and complete reversal"
+    },
+    {
+      "q": "Which preoperative test is most important for a healthy 25-year-old having elective surgery?",
+      "A": "Complete blood count",
+      "B": "Chest X-ray",
+      "C": "ECG",
+      "D": "None required",
+      "answer": "D",
+      "explanation": "Healthy young patients undergoing elective surgery typically don't require routine preoperative testing"
+    }, {
+        "q": "Which of the following breast lesion is associated with trauma and lactation",
+        "A": "Fibroadenoma",
+        "B": "Chronic mastitis",
+        "C": "Ductal ectasia",
+        "D": "Acute mastitis",
+        "answer": "D",
+        "explanation": "Inflammatory disease of the breast (mastitis) can be acute or chronic, acute mastitis is associated with lactation and cracks in the nipple during lactation, trauma and septicemia. It’s mostly due to bacterial infection. Chronic mastitis is associated with Tuberculosis, fungal infection and parasitic infection."
+    },
+    {
+        "q": "Which is incorrect regarding fat necrosis",
+        "A": "Not common in fat women",
+        "B": "Traumatic in origin",
+        "C": "Hard and irregular mass attached to the skin",
+        "D": "Indefinite edges",
+        "answer": "A",
+        "explanation": "Traumatic fat necrosis is common in fat women though not limited to them. Trauma can be subtle e.g tight bra"
+    },
+    {
+        "q": "The following are risk factors of breast cancer",
+        "A": "Multiparity",
+        "B": "Family history",
+        "C": "Late menopause",
+        "D": "Early menarche",
+        "answer": "A",
+        "explanation": "Nulliparity is a risk factor of breast cancer not multiparity. Breast feeding decreases the risk of breast cancer"
+    },
+    {
+        "q": "Which of the following is incorrect about fibroadenoma",
+        "A": "Lobular and stromal components in variable proportion",
+        "B": "Most common benign neoplasm of the breast",
+        "C": "Peak age 30-35 years",
+        "D": "Hard, smooth and mobile mass",
+        "answer": "C",
+        "explanation": "Peak age 21-25 years of age. It is the most common breast tumor in premenopausal women"
+    },
+    {
+        "q": "The following are features of phyllodes",
+        "A": "Slow increase in size",
+        "B": "Multi-cystic",
+        "C": "Peak age affected are 35-55, also affects postmenopausal women more",
+        "D": "Present with distended superficial veins and stretched skin often with ulcers",
+        "answer": "A",
+        "explanation": "We see rapid increase in size with phyllodes"
+    },
+    {
+        "q": "What is the most common presentation of breast cancer",
+        "A": "Pain",
+        "B": "Lump",
+        "C": "BRCA-1 mutation",
+        "D": "Hematogenous spread to bones",
+        "answer": "B",
+        "explanation": "Lump is the most common presentation of breast cancer seen in 75% of patients.  The others are also present."
+    },
+    {
+        "q": "Site of metastases of breast cancer include",
+        "A": "Lungs",
+        "B": "Bones",
+        "C": "Kidneys",
+        "D": "Liver",
+        "answer": "C",
+        "explanation": "Kidneys are not a common site of metastases of breast cancer"
+    },
+    {
+        "q": "Which is the most common site of breast cancer metastases",
+        "A": "Lungs",
+        "B": "Bone",
+        "C": "Pleural space",
+        "D": "Liver",
+        "answer": "B",
+        "explanation": "All the above are common site of metastases but BONE is the most common site"
+    }
+
+  ]
+} 

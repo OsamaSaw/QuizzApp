@@ -1,0 +1,671 @@
+{
+    "questions":[
+            {
+                "q": "Which of the following is not true of cervical erosion",
+                "A": "Presents as vaginal discharge",
+                "B": "Is common in pregnacy",
+                "C": "May manifest with post-coital bleeding",
+                "D": "Is common in post menopausal women",
+                "E": "Maybe treated by electrocautery",
+                "answer": "D",
+                 "explanation": ""
+            },
+            {
+                "q": "An unlikely side effect of excess estrogen contained in an oral contraceptive is",
+                "A": "Weight gain",
+                "B": "Headaches",
+                "C": "Amenorrhea",
+                "D": "Oedema",
+                "E": "Breast tenderness",
+                "answer": "C",
+                "explanation": ""
+            },
+           {
+                "q":"All the following structures are included in the female pudendum except the",
+                "A":"Mons pubis.",
+                "B":"Clitoris",
+                "C":"Ovaries",
+                "D":"Bulb of vestibule",
+                "E":"Greater vestibular glands",
+                "answer":"C",
+                 "explanation": ""
+            },
+          {
+                "q":"At what menstrual week does the human HCG of the maternal blood peak in the course of pregnancy",
+                "A":"3-4",
+              "B":"8-11",
+                "C":"14-16",
+                "D":"24-28",
+                 "E":"36-42",
+                 "answer":"B",
+                "explanation": ""
+            },
+          {
+                "q":"the following are trophic hormones except",
+                "A":"FSH",
+                "B":"LH",
+                 "C":"GH",
+                "D":"ACTH",
+                "E":"TSH",
+                "answer":"C",
+                "explanation": ""
+            },
+          {
+                "q":"Pregnant women whose diets doesn't include green leafy vegetables may develop a specific nutritional deficiency that could affect their fetuses....Which of these is most likely to be found in increasing frequency in these fetuses",
+                "A":"Diaphragmatic Hernia",
+               "B":"Low birth weight",
+               "C":"Anencephaly",
+                 "D":"Neuroblastoma",
+                 "E":"Congenital cytomegalovirus",
+               "answer":"C",
+                "explanation": ""
+            },
+            {
+                "q":"The following are examples of sexual assault except",
+               "A":"Rape",
+               "B":"Child sexual abuse",
+                 "C":"Sexual harrasment",
+                "D":"Groping",
+                 "E":"Female genital cutting",
+               "answer":"E",
+                  "explanation": ""
+            },
+          {
+                "q":"Mrs AO, a 39yro primigravida walks into your office crying. She was just told by her obstetrician that due to her advanced age, she has a high risk of having a baby with Down syndrome. Which of the following is not a characteristic of this condition",
+                "A":"Hypotonia",
+                "B":"Mental retardation",
+                 "C":"Rocker bottom feet",
+              "D":"Single Palmer crease",
+                 "E":"Flat occiput",
+                "answer":"C",
+                  "explanation": "Rocker bottom foot is associated with Edwards syn (tri 18), patau syn (tri 13) \n Tri 9, charcots foot"
+            },
+           {
+                "q":"With regards to genital development",
+                "A":"The wolffian ducts differentiate into the female genitalia",
+                "B":"Female development is hormonally regulated through the action of anti mullerian hormone and testosterone",
+              "C":"Gender is principally determined by the presence or absence of 2x chromosome",
+               "D":"Antimullerian hormone is secreted by the leydig cells",
+                 "E":"The testis and ovaries descend from their original position at the 10th thoracic level",
+               "answer":"E",
+                  "explanation": "Anti mullerian is by sertoli cells \n absence or presence of y chromosome determines gender/sex \n The wolffian duct differentiates into male genitalia but regressed in females"
+            },
+         {
+            "q":"One of the following is a benefit of oral contraceptives",
+                "A":"Protection from ectopic pregnancy",
+               "B":"Reduced risk of HTN",
+               "C":"Reduced risk of PUDx",
+                "D":"Reduced incidence of ovarian cancer",
+                "E":"Reduced risk of obesity",
+                "answer":"D",
+                 "explanation": ""
+            },
+          {
+               "q":"What must occur at fertilization to permit the sperm to penetrate the zona pellucida",
+                "A":"Spermiogenesis",
+                "B":"Acrosomal reaction",
+                 "C":"Zonal reaction",
+               "D":"Completion of meiosis 2",
+                "E":"Extrusion of 2nd polar body",
+                "answer":"B",
+                 "explanation": ""
+            },
+          {
+            "q":" Which of the following is not incised when taking an incision in the perineum (episiotomy)",
+                "A":"Vagina epithelium",
+                "B":"The skin",
+               "C":"Subcutaneous fat",
+                "D":"The superficial and deep transverse perineal muscle",
+                 "E":"Perineal body",
+              "answer":"E",
+              "explanation": "avoid the perineal body to prevent 3rd or 4th degree perineal tear"
+            },
+         {
+                "q":"The broad ligament carries the following except",
+                "A":"Ovary",
+                "B":"The ureter",
+               "C":"Round ligament",
+               "D":"Fallopian tube",
+               "E":"Uterine vessels",
+                "answer":"B",
+                 "explanation": ""
+            },
+            {
+                "q":"Concerning chlamydia trachomatis, which is true?",
+                 "A":"The genital ulcers caused by it are painful",
+               "B":"Its serotypes L3-L6 cause Lymphogranuloma venereum",
+                "C":"It causes chancroid",
+               "D":"Treatment is with tetramycin",
+                 "E":"Treatment is with cotrimoxazole",
+                "answer":"D",
+              "explanation":"Ulcers are painless \n It is treated with doxycycline, azithromycin and sometimes tetracycline \n Serotypes L1-L3 causes LGV \n Haemophilus ducreyi cauases chancroid"
+            },
+        {
+             "q":"Kearns-Sayre syndrome and Leber hereditary optic neuropathy are noted in both males and females but are inherited only through the mother. These conditions are examples of:",
+               "A":"Uniparental disomy",
+                "B":"Mitochondrial inheritance",
+                "C":"Anticipation",
+              "D":"X-linked recessive inheritance",
+                "E":"X-linked dominant inheritance",
+               "answer":"B",
+                "explanation": ""
+            },
+          {
+               "q":"Tay-Sachs disease is best described as:",
+                "A":"Only affecting Ashkenazi Jews",
+               "B":"Having a single genetic defect",
+                "C":" Producing disease in only males",
+               "D":" Having genetic heterogenicity",
+                 "E":"Having an adult-onset variety",
+                "answer":"D",
+               "explanation": ""
+            },
+         {
+              "q":"FISH in genetic testing is best described as:",
+                "A":"A way to prepare RNA",
+                 "B":"An enzyme assay to detect mutations",
+               "C":" Scraping of the buccal cells",
+               "D":" A test to identify the chromosomal location of an affected gene",
+                 "E":"Fibroblast inhibition selective histology",
+                 "answer":"D",
+                "explanation": ""
+            },
+            {
+                "q":"The polymerase chain reaction is best described as:",
+              "A":"A method to produce many antigenic epitopes",
+                "B":"A method to amplify small quantities of DNA or RNA",
+                "C":"A Southern blot",
+              "D":"A Northern blot",
+                "E":"A Western blot",
+                "answer":"B",
+                 "explanation": ""
+            },
+          {
+                "q":"Trinucleotide repeats are implicated in the etiology of all of the following except:",
+                "A":"Fragile X syndrome",
+               "B":"Neurofibromatosis",
+                "C":"Friedreich ataxia",
+                "D":"Spinocerebellar ataxia type I",
+                 "E":"Myotonic dystrophy",
+                "answer":"B",
+               "explanation": ""
+            },
+           {
+                "q":"A 1-yr-old presents with a disease that is classically an autosomal recessive trait (such as cystic fibrosis). The father is tested and, with 99% confidence, he is demonstrated to be negative for the carrier state. The most likely explanation is:",
+              "A":"Mutation to an autosomal dominant trait",
+                "B":"Uniparental isodisomy transmission from the mother",
+                "C":"Uniparental isodisomy transmission from the father",
+              "D":"Imprinting of the missing recessive gene",
+                "E":"Mitochondrial recombination",
+                "answer":"B",
+                "explanation": ""
+            },
+           {
+              "q":"A newborn infant is noted to have dysmorphic features. The pregnancy was complicated by breech presentation, decreased fetal movements, and polyhydramnios. The child demonstrates hypotonia, a flat face, flattened occiput, epicanthal folds, and abdominal distention. The most likely cause of this child's dysmorphology is:",
+                "A":"Trisomy 13",
+                "B":"Trisomy 18",
+              "C":" Edwards syndrome",
+                 "D":" Trisomy 8",
+                 "E":"Trisomy 21",
+                 "answer":"E",
+                "explanation": ""
+            },
+            {
+             "q":"To evaluate the abdominal distention in the patient described in Question 18, an x-ray study of the kidneys, ureters, and bladder (KUB) is performed and reveals a \"double-bubble\" sign. The best explanation for the neonate's abdominal distention is:",
+                "A":"Hirschsprung disease",
+                 "B":"Meconium ileus",
+               "C":" Meconium plug",
+                "D":" Duodenal atresia",
+                "E":"Pyloric atresia",
+                "answer":"D",
+               "explanation": ""
+            },
+         {
+                "q":"Which of the following are characteristic of allergens?",
+                 "A":"Proteins of molecular weight <10 kd",
+               "B":"Proteins of molecular weight 10-70 kd",
+                "C":"Proteins of molecular weight >70 kd",
+                "D":"Lipopolysaccharides",
+              "E":"Carbohydrates",
+                "answer":"B",
+                "explanation": ""
+            },
+           {
+                "q":"Which of the following factors is characteristic of an atopic response?",
+               "A":"Th1 release of cytokines promoting phagocytosis",
+                "B":"Th1 release of cytokines promoting synthesis of opsonizing antibodies",
+                 "C":"Th1 and Th2 release of cytokines promoting synthesis of complement-fixing antibodies",
+               "D":"Th2 release of cytokines promoting phagocytosis",
+              "E":"Th2 release of cytokines promoting synthesis of IgE antibodies",
+                "answer":"E",
+                 "explanation": ""
+            },
+        {
+             "q":"Which of the following types of cells are distributed throughout connective tissues, often adjacent to blood vessels and below epithelial surfaces that are exposed to the external environment, and release a diverse array of mediators of allergic inflammation?",
+              "A":"Eosinophils",
+                "B":"Basophils",
+               "C":" Mast cells",
+                "D":"Th2 cells",
+              "E":"Dendritic cells",
+                "answer":"E",
+                 "explanation": ""
+            },
+         {
+               "q":"Which of the following statements best describes the relationship between allergic disorders and a possible genetic basis?",
+                "A":"Allergic disorders are a response to only environmental factors",
+                 "B":"Allergic disorders are a response to only environmental factors and infectious agents",
+              "C":" Asthma and allergic rhinitis are the only allergic disorders with a familial predisposition",
+                 "D":"Any familial predisposition is related to polymorphisms of a single gene located on chromosome 10",
+                "E":"Any familial predisposition is related to many genetic loci and also many polymorphisms",
+                "answer":"D",
+                "explanation": ""
+            },
+          {
+            "q":"Which of the following factors may contribute to the worldwide rise in prevalence of allergic diseases, particularly in Westernized metropolitan areas?",
+                 "A":"Increasing genetic polymorphisms of CD14",
+                "B":"Increased numbers of children in group daycare",
+                "C":"Excessive use of antibiotics in first 2 years of life",
+               "D":"Reduced exposure to pollutants in Westernized metropolitan areas since 1980",
+              "E":"Reduced exposure to indoor allergens",
+               "answer":"C",
+                "explanation": ""
+            },
+          {
+               "q":"All of the following may be signs of moderate to severe airway obstruction resulting from allergic response except:",
+              "A":"Dennie lines (Dennie-Morgan folds)",
+                "B":"Supraclavicular and intercostal retractions",
+                 "C":"Cyanosis",
+                 "D":"Pulsus paradoxus",
+               "E":"Respiratory distress with minimal wheezing and a few crackles",
+                "answer":"A",
+                "explanation": ""
+            },
+         {
+               "q":"A 7-yr-old boy with asthma has roughness over the extensor surfaces of the upper arms and thighs, which is caused by keratin plugs lodged in the openings of hair follicles. This physical finding is termed:",
+               "A":"Keratosis pilaris",
+                "B":"Fibroepitheliosis",
+                "C":"Hidradenitis",
+              "D":"Xerosis",
+                "E":"Acrochordon",
+                "answer":"A",
+                 "explanation": ""
+            },
+           {
+                "q":"The radioallergosorbent test (RAST) determines:",
+               "A":"Bronchial reactivity to subcutaneous serotonin",
+               "B":"Bronchial reactivity after inhalation bronchial provocation test",
+                "C":"The proportion of total allergic immunoglobulin",
+                "D":" Antigen-specific serum IgE concentrations",
+               "E":"The overall allergic risk profile based on absolute eosinophil count, total IgE, and skin test results",
+                 "answer":"D",
+                 "explanation": ""
+            },
+           {
+                "q":"All of the following statements regarding skin testing for allergic reactivity are true except:",
+                 "A":"Antihistamines given prior to testing may inhibit the reaction",
+                "B":"Intradermal tests are more sensitive than puncture tests",
+                "C":"Positive skin test results by intradermal testing correlate better than results by puncture tests with clinical symptoms",
+              "D":"The reaction peaks within approximately 20 min and usually resolves over 20-30 min",
+                "E":"Larger reactions have greater clinical relevance",
+               "answer":"C",
+                 "explanation": ""
+            },
+            {
+             "q":"Which of the following is an advantage of skin testing over RAST to determine specific IgE?",
+               "A":"Skin testing is not affected by administration of antihistamines",
+                 "B":"Skin testing has greater sensitivity than RAST",
+              "C":"Skin testing is semiquantitative",
+               "D":"Skin testing is associated with less risk of allergic reaction",
+               "E":"Skin testing is not confounded by dermographism",
+                "answer":"B",
+                 "explanation": ""
+            },
+           {
+              "q":"Which of the following physical findings would be least likely on examination of a child with moderate to severe asthma?",
+                "A":"Tachypnea",
+                "B":"Wheezing",
+              "C":" Clubbing",
+                "D":"Decreased air exchange over the right middle lobe",
+                "E":"An increased anterior-posterior diameter of the chest",
+                "answer":"C",
+                 "explanation": ""
+            },
+          {
+            "q":"Recommendations to the parents of a child with dust mite allergy to help reduce dust mite exposure should include all of the following except:",
+                "A":"Use a humidifier regularly",
+                "B":"Place the mattress and pillow in allergen-proof encasements",
+                 "C":"Wash bed linens in hot water weekly",
+               "D":"Remove the old carpet from the bedroom",
+                "answer":"A",
+               "explanation": ""
+            },
+         {
+              "q":"All of the following statements regarding decreasing exposure to cat allergens are true except:",
+                "A":"Removing the cat from the home is the most effective means of reducing exposure to cat allergen",
+               "B":"Keeping the cat out of the child's bedroom and other rooms where the sensitized child spends large amounts of time reduces cat allergen exposure",
+                "C":"Washing the cat regularly reduces cat allergen exposure",
+                "D":" Using HEPA-filtered air cleaners does not reduce cat allergen exposure",
+                 "E":"Removing carpet decreases cat allergen exposure",
+                "answer":"D",
+                "explanation": ""
+            },
+          {
+            "q":"A 12-yr-old girl with moderate to severe asthma is sensitive to cat dander. Her family elects to remove the pet cat from the house, but to retain the present carpeting and upholstered furniture. What is the length of time required before the levels of cat allergen drop to levels found in homes without a cat?",
+              "A":"Immediately",
+               "B":"2 days",
+              "C":" 2 weeks",
+               "D":"2 months",
+                "E":"6 months",
+                "answer":"E",
+                 "explanation": ""
+            },
+          {
+              "q":"Which of the following statements regarding antihistamines is true?",
+                "A":"Classification of antihistamines from type I to type VI is based on increasing antihistamine activity",
+              "B":"Second-generation antihistamines are distinguished by greater effectiveness than first-generation antihistamines",
+                "C":"Antihistamines should not be administered in combination with decongestants",
+                "D":"Antihistamines are more effective in treating than preventing the action of histamine",
+                "E":"The choice of antihistamines should be based on associated adverse effects and cost",
+                "answer":"E",
+                 "explanation": ""
+            },
+           {
+                "q":"Which of the following is an advantage of second-generation antihistamines over first-generation antihistamines?",
+                 "A":"Second-generation antihistamines are often less expensive",
+                "B":"Second-generation antihistamines are more frequently available in oral preparations",
+                "C":" Second-generation antihistamines have less of a sedative effect and produce less cognitive impairment",
+              "D":"Many more second-generation antihistamines are available as over-the-counter medications",
+                "E":"Second-generation antihistamines are generally more effective than first-generation antihistamines",
+                "answer":"C",
+                 "explanation": ""
+            },
+            {
+                "q":"Which of the following statements regarding the use of cromolyn in the management of asthma is true?",
+                "A":"Cromolyn prevents antibody-mediated mast cell degranulation and mediator release",
+                "B":"Cromolyn prevents non-antibody-mediated mast cell degranulation",
+              "C":"Cromolyn has no bronchodilator properties",
+                "D":"The incidence of adverse effects is low",
+                 "E":"All of the above",
+                "answer":"E",
+                "explanation": ""
+            },
+          {
+              "q":"The type of adrenergic activity of drugs most desirable in treatment of asthma is:",
+                "A":"Alpha 1",
+               "B":"Alpha 2",
+              "C":" Beta 1",
+                "D":" Beta 2",
+                "E":"Beta 3",
+                 "answer":"D",
+                "explanation": ""
+            },
+          {
+             "q":"A 4-yr-old boy experiences perennial clear rhinorrhea, nasal congestion, conjunctival injection, allergic shiners, nasal and ocular pruritus, and occasional fits of sneezing. An environmental history is significant for two cats in the home and flooding of the basement when it rains. He keeps twenty stuffed animals on his bed and sleeps with a feather pillow on an old mattress. He lives in a warm climate. Seasonal worsening of his symptoms has not been observed. He has perennial allergic rhinitis. Which of the following groups of allergens would be the most likely to contribute to his symptoms?",
+               "A":"Dust mites, tree pollens, and weed pollens",
+                "B":"Dust mites, animal danders, and molds",
+               "C":"Tree, weed, and grass pollens",
+                 "D":"Tree pollen, grass pollen, and milk protein",
+               "answer":"B",
+                "explanation": ""
+            },
+          {
+            "q":"A 7-yr-old girl presents with allergic nasal symptoms that are prominent from the middle of August through the first frost. Which of the following allergens is the most likely cause of her symptoms?",
+                "A":"Milk protein",
+                "B":"Tree pollen",
+               "C":" Grass pollen",
+                "D":" Weed pollen",
+                "answer":"D",
+                "explanation": ""
+            },
+            {
+                "q":"A teenage boy presents in April with symptoms consistent with seasonal allergic rhinitis. On examination of his nose, which of the following findings suggest the need for further evaluation to exclude another diagnosis?",
+              "A":"Nasal polyps",
+                "B":"Pale-to-purple nasal mucosa",
+                "C":"Thin, clear nasal secretions",
+                "D":"A transverse nasal crease",
+               "E":"Continuous open-mouth breathing",
+                "answer":"A",
+               "explanation": ""
+            },
+          {
+               "q":"A 12-yr-old presents with sneezing, clear rhinorrhea, and nasal itching. Physical examination reveals boggy, pale nasal edema with a clear discharge. The most likely diagnosis is:",
+                "A":"Foreign body",
+                "B":"Vasomotor rhinitis",
+                 "C":" Neutrophilic rhinitis",
+                "D":" Nasal mastocytosis",
+                "E":" Allergic rhinitis",
+               "answer":"E",
+                "explanation": ""
+            },
+         {
+                "q":"A 12-yr-old child presents with watery rhinorrhea, paroxysmal sneezing, and nasal obstruction. The serum IgE level is normal, and skin test results are negative. The physical examination is remarkable only for swollen turbinates and clear nasal secretions. A trial of antihistamine-decongestant therapy for 3 week has not relieved symptoms. Which of the following is the recommended management?",
+                 "A":"Institute strict measures to avoid outdoor allergen exposure.",
+               "B":" Begin seasonal use of oral sympathomimetic drugs.",
+                "C":" Begin seasonal use of topical intranasal corticosteroids.",
+                 "D":"Give a 10-day course of amoxicillin",
+                 "E":"Give a 10- to 14-day course of cefpodoxime",
+               "answer":"C",
+               "explanation": ""
+            },
+         {
+              "q":"Which of the following is most useful in establishing the diagnosis of seasonal allergic rhinitis?",
+               "A":"History of good clinical response to an intranasal corticosteroid preparation",
+                "B":"History of exacerbation of symptoms in the spring",
+                "C":"Elevated serum IgE level",
+               "D":"Positive result on skin testing for the house dust mite allergen",
+                "E":"Nasal eosinophils",
+                "answer":"B",
+                "explanation": ""
+            },
+          {
+            "q":"Common triggers of asthma in children include all of the following except:",
+               "A":"Secondary tobacco smoke",
+               "B":"Ozone",
+                "C":" Cold air",
+                "D":" Exercise",
+                "E":" Gelatin",
+                "answer":"E",
+               "explanation": ""
+            },
+           {
+                "q":"The parents of a 3-yr-old girl with a history of several previous coughing and wheezing exacerbations are wondering if their toddler is likely to develop persistent asthma. Which of the following is a strong risk factor for persistent asthma in toddlers with recurrent wheezing?",
+                 "A":"Eczema",
+                "B":"Colic",
+              "C":"Living on a farm",
+                "D":"Female gender",
+                "E":"Otitis media with effusion",
+                "answer":"A",
+                "explanation": ""
+            },
+          {
+             "q":"A 4-yr-old boy with asthma has had mild wheezing only four times since you began treating him 6 mo ago with theophylline (Slo-bid Gyrocaps) twice each day. He previously experienced coughing and wheezing at least three times each week. (A peak serum theophylline concentration 5 mo ago was 16 g/mL). For the past 4 days, he has again experienced mild coughing and wheezing responsive to inhaled albuterol. Two days ago, an emergency department physician began treatment with erythromycin- sulfisoxazole (Pediazole for otitis media. This morning the youngster began vomiting. The likely cause of the vomiting is:",
+               "A":"Provocation by coughing (post-tussive emesis)",
+                "B":"Sequelae of otitis media",
+                "C":" Theophylline toxicity",
+                "D":"Albuterol toxicity",
+                "E":"Pediazole intolerance",
+                "answer":"C",
+                "explanation": ""
+            },
+          {
+            "q":"A 10-yr-old child has intermittent symptoms of mild asthma. The most appropriate treatment option is:",
+                "A":"Environmental control and patient education only no medication is indicated",
+               "B":"Oral theophylline",
+                "C":" Cromolyn",
+                "D":" Inhaled 2-agonist as needed for symptoms",
+              "E":"Daily inhaled corticosteroid",
+                "answer":"D",
+                 "explanation": ""
+            },
+            {
+                "q":"A 12-yr-old asthmatic boy has developed an asthma exacerbation in the past few days. Asthma symptoms have continued to progress despite frequent albuterol use at home. He comes to the emergency department with chest tightness, dyspnea, and wheezing, and in moderate respiratory distress. In this setting, management should include all of the following except:",
+                "A":"Close monitoring",
+                "B":"Supplemental oxygen",
+               "C":" Inhaled albuterol",
+                 "D":" Theophylline",
+                "E":"Systemic glucocorticoids",
+                "answer":"D",
+                 "explanation": ""
+            },
+          {
+             "q":"A 7-yr-old girl has had intermittent asthma symptoms over the past 5 yr. Her asthma symptoms have been treated with inhaled albuterol as needed. She mostly has exercise-induced asthma symptoms, which happens on most school days except when she uses her albuterol inhaler before going to recess and physical education classes. In the past year, she has had two asthma exacerbations with viral upper respiratory tract infections, and she has used a total of 5 albuterol metered-dose inhalers. The most appropriate management for this asthmatic girl is:",
+               "A":"Continue albuterol as needed and before physical exercise activities",
+                "B":"Begin daily controller medication with an inhaled glucocorticoid, initially used more frequently to gain control, then a reduced amount in a few months to maintain control",
+                 "C":"Begin daily inhaled glucocorticoid in a low dose, increasing the dose monthly until good control is obtained",
+              "D":"Administer daily oral glucocorticoid treatment for one week, with concurrent daily inhaled glucocorticoid",
+                "E":"Begin use of a long-acting inhaled beta-agonist each morning",
+                "answer":"B",
+               "explanation": ""
+            },
+          {
+            "q":"Components of the U.S. National Asthma Education & Prevention Program (NAEPP) guidelines include all of the following except:",
+                 "A":"Regular assessment and monitoring",
+               "B":"Control of factors contributing to asthma severity",
+              "C":" Asthma pharmacotherapy, especially the use of anti-inflammatory controller medications",
+              "D":" Genetic profiling",
+               "E":"Patient education",
+                "answer":"D",
+                 "explanation": ""
+            },
+           {
+            "q":"Features characteristically associated with atopic dermatitis include all of the following except:",
+                "A":"Allergic rhinitis or asthma",
+              "B":"Elevated serum IgE level",
+                "C":"Peripheral blood eosinophilia",
+              "D":" Lymphopenia",
+                "answer":"D",
+                "explanation": ""
+            },
+          {
+            "q":"Major features of atopic dermatitis in children include all of the following except:",
+               "A":"Pruritus",
+                "B":"Facial and extensor eczema",
+                "C":" Angioedema",
+              "D":" Chronic or relapsing course",
+               "E":"Personal or family history of atopic disease",
+                "answer":"C",
+               "explanation": ""
+            },
+            {
+              "q":"A 2-yr-old is diagnosed with atopic dermatitis. Which of the following environmental modifications is recommended?",
+                "A":"A bland diet, especially minimizing meats",
+                "B":"Installation of wool carpeting instead of synthetic carpeting",
+              "C":"Use of a liquid rather than powder laundry detergent, and adding a second rinse cycle",
+                "D":"Use of soaps that are especially effective in removing fatty substances",
+              "E":"Bathing less often than daily",
+               "answer":"C",
+                "explanation": ""
+            },
+         {
+               "q":"Which of the following is the major feature of atopic dermatitis?",
+                 "A":"Onset shortly before or during puberty",
+               "B":"Pruritus",
+                "C":" Staphylococcus aureus cutaneous infections",
+               "D":"Elevated serum IgE",
+                "E":"Immediate skin test reactivity to allergens",
+                "answer":"B",
+                 "explanation": ""
+            },
+         {
+               "q":"A 5-yr-old boy with severe atopic dermatitis develops illness with dozens of vesicles primarily covering areas of skin previously affected by atopic dermatitis. The distribution crosses many dermatomes. Findings include fever and lymphadenopathy. The most likely diagnosis is:",
+              "A":"Chickenpox",
+                "B":"Zoster",
+                "C":" Kaposi varicelliform eruption",
+                "D":"Eczema vaccinatum",
+               "E":"Coxsackievirus infection",
+                "answer":"C",
+                 "explanation": ""
+            },
+          {
+                "q":"A 14-yr-old presents with acute-onset urticaria that has gradually worsened over the past 10 days. Detailed history reveals no clues to the possible etiology. Findings on physical examination are normal except for urticaria. Which of the following diagnostic options is recommended?",
+                 "A":"Systematic elimination diets to determine a possible ingestant cause",
+               "B":"Allergy skin testing",
+                "C":"Serum IgE and RAST",
+              "D":"Skin biopsy",
+               "E":"None of the above",
+                "answer":"B",
+                 "explanation": ""
+            },
+          {
+            "q":"Which of the following laboratory tests is most likely to give abnormal results in a patient with chronic urticaria?",
+                "A":"Serum IgE level determination",
+                "B":"Skin prick testing for egg sensitivity",
+               "C":" C4 level assay",
+                "D":" Assay for antibodies to thyroglobulin",
+                "E":"Heterophile antibody testing",
+                "answer":"D",
+                 "explanation": ""
+            },
+         {
+            "q":"The mother of an 8-yr-old boy with acute streptococcal tonsillitis calls to report that now, within 15 min after the first dose of oral penicillin V that you prescribed, he is complaining of itching and has developed hives. Which of the following should you recommend?",
+               "A":"A dose of oral Benadryl, with instructions to call again if he has not improved within 30 min",
+                "B":"Immediate return to your office or the nearest emergency department",
+                "C":"Careful monitoring at home, with instructions to return to your office or the nearest emergency department if he becomes short of breath or loses consciousness",
+                "D":"Schedule a visit for a laboratory test to determine serum trypticase level",
+              "E":"Substitution of erythromycin for penicillin",
+                "answer":"B",
+                "explanation": ""
+            },
+            {
+             "q":"All of the following statements regarding anaphylaxis are true except:",
+               "A":"Virtually any foreign substance can elicit an anaphylactic reaction",
+                "B":"Most anaphylactic reactions are due to drugs, latex, foods, and Hymenoptera venom",
+                "C":"Oral drugs carry a higher risk of anaphylaxis than that associated with injected drugs",
+               "D":"Anaphylactic reactions to foods usually begin within minutes to 2 hr of exposure",
+                 "E":"Exercise alone can elicit an anaphylactoid reaction",
+                "answer":"E",
+                "explanation": ""
+            },
+          {
+               "q":"Administration of which of the following drugs is the treatment of choice for anaphylaxis?",
+                "A":"Diphenhydramine orally",
+               "B":"Diphenhydramine by intravenous infusion",
+               "C":" Aqueous epinephrine (1:1,000) by subcutaneous injection",
+                 "D":" Aqueous epinephrine (1:1,000) by intramuscular injection",
+                 "E":"Aqueous epinephrine (1:1,000) by intravenous infusion",
+                "answer":"D",
+                 "explanation": ""
+            },
+         {
+               "q":"A 16-yr-old with history of anaphylaxis to Hymenoptera suffers a sting on an extremity. The first-aid kit that is available includes aqueous epinephrine 1:1,000 and other necessary medical supplies. All of the following measures for management of this sting are appropriate except:",
+              "A":"Infiltration of one half of the epinephrine dose subcutaneously around the site of the sting",
+                "B":"Repeat doses of aqueous epinephrine at 15-min intervals if necessary",
+                "C":" Placement of a tourniquet above the site of the sting",
+                "D":" Incision of and suction of venom from the site of the sting",
+               "E":"Transport to an emergency department",
+                "answer":"D",
+                "explanation": ""
+            },
+            {
+                "q":"Pneumothorax is a recognised complication of:",
+              "A":"Rib fracture",
+              "B":" A bulla",
+                "C":" Cystic fibrosis",
+               "D":" Pneumocystis carinii pneumonia",
+                "E":"All of the above",
+                "answer":"C",
+                 "explanation": ""
+            },
+          {
+               "q":" The following are features of fibrosing alveolitis:",
+                 "A":"Headache",
+               "B":"Clubbing of the fingers in the majority of cases",
+              "C":"Cyanosis in the early stages",
+               "D":"Circulating antibodies to alveolar tissues",
+                "E":"Hemoptysis",
+                "answer":"B",
+                "explanation": "Clubbing is a feature of fibrosing alveolitis"
+            },
+            {
+                "q":"Useful drugs for tuberculosis include except:",
+                "A":"Piperacillin",
+               "B":"Isoniazid",
+                 "C":"Ethambutol",
+                "D":"Pyrazinamide",
+                "E":"Rifampicin",
+               "answer":"A",
+                "explanation": "Isoniazid is a major, first-line agent. Ethambutol is another major, but second-line agent. Pyrazinamide and rifampicin are other major agents in the management of TB. \n Piperacillin is not an agent use in the management of TB"
+            }
+    ]
+
+}
