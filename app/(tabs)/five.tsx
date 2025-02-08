@@ -4,10 +4,10 @@ import { FontAwesome5 } from '@expo/vector-icons';
 import React, { useState } from 'react';
 import CountryPicker, { Country, CountryCode } from 'react-native-country-picker-modal';
 
-// Ignore the specific warning
-// LogBox.ignoreLogs([
-//   'Warning: CountryItem: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.',
-// ]);
+// Update the warning suppression to match the exact message
+LogBox.ignoreLogs([
+  'Warning: CountryModal: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.',
+]);
 
 const { height: SCREEN_HEIGHT, width: SCREEN_WIDTH } = Dimensions.get('window');
 
@@ -26,7 +26,7 @@ const countries = {
 export default function SettingsScreen() {
   const [name, setName] = useState('Marilyn');
   const [gender, setGender] = useState('F'); // 'M' for male, 'F' for female
-  const [countryCode, setCountryCode] = useState<CountryCode>('PS');
+  const [countryCode, setCountryCode] = useState<CountryCode | null>(null);
   const [showCountryPicker, setShowCountryPicker] = useState(false);
 
   const getFlag = (code: string) => countries[code as keyof typeof countries] || '🏳️';
@@ -36,13 +36,20 @@ export default function SettingsScreen() {
     setShowCountryPicker(false);
   };
 
+  const renderDefaultFlag = () => (
+    <View style={styles.defaultFlag}>
+      <Text style={styles.defaultFlagText}>🌎</Text>
+      <Text style={styles.defaultFlagLabel}>Select Country</Text>
+    </View>
+  );
+
   const commonPickerProps = {
     countryCode,
     theme: {
       primaryColor: '#6212B1',
       primaryColorVariant: 'rgba(98,18,177,0.1)',
-      backgroundColor: 'transparent',
-      onBackgroundTextColor: '#666',
+      backgroundColor: '#FFFFFF',
+      onBackgroundTextColor: '#333',
       fontSize: SCREEN_HEIGHT * 0.016,
       fontFamily: undefined,
       filterPlaceholderTextColor: '#666',
@@ -53,6 +60,23 @@ export default function SettingsScreen() {
     withCloseButton: true,
     placeholder: '',
     preferredCountries: ['PS', 'US', 'GB'],
+    modalProps: {
+      animated: true,
+      animationType: "slide",
+      transparent: false,
+      visible: showCountryPicker,
+      onRequestClose: () => setShowCountryPicker(false),
+      presentationStyle: "pageSheet",
+    },
+    filterProps: {
+      placeholder: "Search country",
+      autoFocus: false,
+    },
+    flatListProps: {
+      showsVerticalScrollIndicator: true,
+      keyboardShouldPersistTaps: "handled",
+      style: { backgroundColor: '#FFFFFF' },
+    },
   };
 
   return (
@@ -124,7 +148,6 @@ export default function SettingsScreen() {
             onPress={() => setShowCountryPicker(true)}
           >
             <CountryPicker
-              {...commonPickerProps}
               withFilter
               withFlag
               withEmoji
@@ -133,18 +156,18 @@ export default function SettingsScreen() {
               onClose={() => setShowCountryPicker(false)}
               renderFlagButton={() => (
                 <View style={styles.flagButton}>
-                  <CountryPicker
-                    {...commonPickerProps}
-                    withFlag
-                    withEmoji
-                    withFilter={false}
-                    visible={false}
-                    onSelect={() => {}}
-                  />
+                  {countryCode ? (
+                    <CountryPicker
+                      withFlag
+                      withEmoji
+                      withFilter={false}
+                      countryCode={countryCode}
+                      visible={false}
+                      onSelect={() => { } } />
+                  ) : renderDefaultFlag()}
                   <FontAwesome5 name="chevron-down" size={SCREEN_HEIGHT * 0.016} color="#666" />
                 </View>
-              )}
-            />
+              )} countryCode={'AF'}            />
           </Pressable>
         </View>
 
@@ -249,5 +272,17 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     height: SCREEN_HEIGHT * 0.05,
+  },
+  defaultFlag: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: SCREEN_WIDTH * 0.02,
+  },
+  defaultFlagText: {
+    fontSize: SCREEN_HEIGHT * 0.024,
+  },
+  defaultFlagLabel: {
+    fontSize: SCREEN_HEIGHT * 0.016,
+    color: '#666',
   },
 });
