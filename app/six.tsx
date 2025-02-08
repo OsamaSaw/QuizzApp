@@ -1,12 +1,18 @@
-import {Button, StyleSheet, TouchableOpacity} from 'react-native';
-
+import { Button, StyleSheet, TouchableOpacity, Dimensions, Pressable, Modal, Alert } from 'react-native';
 import { Text, View } from '@/components/Themed';
-import {useEffect, useState} from "react";
+import { useEffect, useState, useRef } from 'react';
+import { useNavigation } from "@react-navigation/native";
+import { useLocalSearchParams, useRouter } from 'expo-router';
+import { FontAwesome5 } from '@expo/vector-icons';
 
 import questions from '@/assets/quesions/qs.json';
-import {useNavigation} from "@react-navigation/native";
-import { useLocalSearchParams } from 'expo-router';
-import { useRouter } from 'expo-router';
+
+const { height: SCREEN_HEIGHT, width: SCREEN_WIDTH } = Dimensions.get('window');
+
+type QuestionTiming = {
+  questionIndex: number;
+  timeSpent: number;
+};
 
 export default function TabTwoScreen() {
   const navigation = useNavigation();
@@ -27,6 +33,14 @@ export default function TabTwoScreen() {
     score: 0,
     questionsDetails: [],
   });
+  const [showExitModal, setShowExitModal] = useState(false);
+  const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
+  const [showCorrectAnswer, setShowCorrectAnswer] = useState(false);
+  const [quizStartTime] = useState(new Date());
+  const [questionStartTime, setQuestionStartTime] = useState(new Date());
+  const [questionTimings, setQuestionTimings] = useState<QuestionTiming[]>([]);
+  const modalVisible = useRef(false);
+  const [currentTime, setCurrentTime] = useState(new Date());
 
   useEffect(() => {
     // Initialize quiz questions
@@ -40,6 +54,16 @@ export default function TabTwoScreen() {
       loadQuestion(randomIndex, questions.questions);
     }
   }, [params.questions]);
+
+  useEffect(() => {
+    // Update time every second
+    const timer = setInterval(() => {
+      setCurrentTime(new Date());
+    }, 1000);
+
+    // Cleanup interval on component unmount
+    return () => clearInterval(timer);
+  }, []);
 
   const loadQuestion = (index: number, questionsList: any[]) => {
     if (!questionsList || questionsList.length === 0) return;
@@ -77,6 +101,7 @@ export default function TabTwoScreen() {
   };
 
   const handleSkip = () => {
+    recordQuestionTime();
     const currentQuestion = quizQuestions[currentQuestionIndex];
     setQuizResults(prev => ({
       ...prev,
@@ -144,15 +169,10 @@ export default function TabTwoScreen() {
       }));
     } else {
       setAnswerStatus('wrong');
-      setSelectedOption(null);
+      setSelectedOption(option);
+      setUnclickableOptions(prev => [...prev, option]);
       
       if (attempts >= 3) { // This means it's the 4th attempt
-        // Show all remaining options as wrong except the correct one
-        const remainingOptions = options
-          .map(opt => opt.value)
-          .filter(opt => !unclickableOptions.includes(opt) && opt !== correctAnswer);
-        setUnclickableOptions([...unclickableOptions, ...remainingOptions]);
-        
         setQuizResults(prev => ({
           ...prev,
           wrongAnswers: prev.wrongAnswers + 1,
@@ -172,13 +192,12 @@ export default function TabTwoScreen() {
             }
           ]
         }));
-      } else {
-        setUnclickableOptions(prev => [...prev, option]);
       }
     }
   };
 
   const handleNextQuestion = () => {
+    recordQuestionTime();
     if (!quizQuestions || quizQuestions.length === 0) return;
     
     // Check if we've completed 20 questions
@@ -231,38 +250,55 @@ export default function TabTwoScreen() {
 
   const renderOptions = () => {
     return options.map(option => (
-        <TouchableOpacity
-            key={option.value}
-            style={[
-              styles.optionButton,
-              selectedOption === option.value && styles.selectedOption,
-              answerStatus === 'correct' &&
-              option.value === quizQuestions[currentQuestionIndex].answer &&
-              styles.correctOption,
-              answerStatus === 'wrong' &&
-              option.value !== quizQuestions[currentQuestionIndex].answer &&
-              styles.wrongOption,
-              unclickableOptions.includes(option.value) && styles.unclickableOption,
-            ]}
-            onPress={() => handleAnswer(option.value)}
-            disabled={option.disabled}>
-          <Text>{option.label}</Text>
-        </TouchableOpacity>
+      <TouchableOpacity
+        key={option.value}
+        style={[
+          styles.optionButton,
+          selectedOption === option.value && styles.selectedOption,
+          answerStatus === 'correct' && 
+          option.value === quizQuestions[currentQuestionIndex].answer && 
+          styles.correctOption,
+          selectedOption === option.value && 
+          answerStatus === 'wrong' && 
+          styles.wrongOption,
+          unclickableOptions.includes(option.value) && styles.unclickableOption,
+        ]}
+        onPress={() => handleAnswer(option.value)}
+        disabled={unclickableOptions.includes(option.value) || answerStatus === 'correct'}
+      >
+        <Text>{option.label}</Text>
+      </TouchableOpacity>
     ));
   };
 
   const renderExplanation = () => {
     if (answerStatus === 'correct') {
       return (
-          <View style={styles.explanationContainer}>
-            <Text style={styles.explanationText}>
-              {quizQuestions[currentQuestionIndex].explanation}
-            </Text>
-            <Button title="Next Question" onPress={handleNextQuestion} />
-          </View>
+        <View style={styles.explanationContainer}>
+          <Text style={styles.explanationText}>
+            {quizQuestions[currentQuestionIndex].explanation}
+          </Text>
+        </View>
       );
     }
     return null;
+  };
+
+  const recordQuestionTime = () => {
+    const endTime = new Date();
+    const timeSpent = endTime.getTime() - questionStartTime.getTime();
+    setQuestionTimings(prev => [...prev, {
+      questionIndex: currentQuestionIndex,
+      timeSpent
+    }]);
+    setQuestionStartTime(new Date());
+  };
+
+  const getTotalTime = () => {
+    const totalSeconds = Math.floor((currentTime.getTime() - quizStartTime.getTime()) / 1000);
+    const minutes = Math.floor(totalSeconds / 60);
+    const seconds = totalSeconds % 60;
+    return `${minutes}:${seconds.toString().padStart(2, '0')}`;
   };
 
   // Only render if we have questions loaded
@@ -276,17 +312,104 @@ export default function TabTwoScreen() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Quiz</Text>
-      <Text style={styles.questionText}>{currentQuestion}</Text>
+      {/* Exit Button - only show when modal is not visible */}
+      {!modalVisible.current && (
+        <Pressable 
+          style={styles.exitButton}
+          onPress={() => {
+            modalVisible.current = true;
+            setShowExitModal(true);
+          }}
+        >
+          <FontAwesome5 name="times" size={SCREEN_HEIGHT * 0.02} color="#666" />
+        </Pressable>
+      )}
+
+      {/* Timer Display */}
+      <View style={styles.timerContainer}>
+        <FontAwesome5 name="clock" size={SCREEN_HEIGHT * 0.016} color="#666" />
+        <Text style={styles.timerText}>{getTotalTime()}</Text>
+      </View>
+
+      {/* Progress and Score */}
+      <View style={styles.progressContainer}>
+        <Text style={styles.progressText}>
+          Question {currentQuestionIndex + 1}/{quizQuestions.length}
+        </Text>
+        <Text style={styles.scoreText}>Score: {quizResults.score}</Text>
+      </View>
+
+      {/* Question */}
+      <View style={styles.questionContainer}>
+        <Text style={styles.questionText}>{currentQuestion}</Text>
+      </View>
+
+      {/* Answers */}
       <View style={styles.optionsContainer}>{renderOptions()}</View>
+
       {renderExplanation()}
+
       <View style={styles.buttonContainer}>
         {answerStatus !== 'correct' && unclickableOptions.length === 0 && (
-          <Button title="Skip Question" onPress={handleSkip} />
+          <Pressable 
+            style={styles.actionButton}
+            onPress={handleSkip}
+          >
+            <FontAwesome5 name="forward" size={SCREEN_HEIGHT * 0.016} color="white" />
+            <Text style={styles.actionButtonText}>Skip</Text>
+          </Pressable>
         )}
-        <Button title="Go to Home" onPress={() => navigation.navigate('three')} />
+        {answerStatus === 'correct' && (
+          <Pressable 
+            style={[styles.actionButton, styles.nextButton]}
+            onPress={handleNextQuestion}
+          >
+            <Text style={styles.actionButtonText}>Next</Text>
+            <FontAwesome5 name="arrow-right" size={SCREEN_HEIGHT * 0.016} color="white" />
+          </Pressable>
+        )}
       </View>
+
       <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
+
+      {/* Exit Confirmation Modal */}
+      <Modal
+        transparent
+        visible={showExitModal}
+        animationType="fade"
+        onRequestClose={() => {
+          modalVisible.current = false;
+          setShowExitModal(false);
+        }}
+      >
+        <View style={styles.modalOverlay}>
+          <View style={styles.modalContent}>
+            <Text style={styles.modalTitle}>Exit Quiz?</Text>
+            <Text style={styles.modalText}>Are you sure you want to exit? Your progress will be lost.</Text>
+            <View style={styles.modalButtons}>
+              <Pressable 
+                style={[styles.modalButton, styles.cancelButton]}
+                onPress={() => {
+                  modalVisible.current = false;
+                  setShowExitModal(false);
+                }}
+              >
+                <Text style={styles.modalButtonText}>Cancel</Text>
+              </Pressable>
+              <Pressable 
+                style={[styles.modalButton, styles.exitConfirmButton]}
+                onPress={() => {
+                  modalVisible.current = false;
+                  setShowExitModal(false);
+                  navigation.navigate('three')
+                }}
+              >
+                <Text style={[styles.modalButtonText, { color: '#FF5252' }]}>Exit</Text>
+              </Pressable>
+            </View>
+          </View>
+        </View>
+      </Modal>
     </View>
   );
 }
@@ -308,20 +431,28 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   optionButton: {
-    padding: 10,
-    marginVertical: 5,
+    padding: SCREEN_HEIGHT * 0.015,
+    marginVertical: SCREEN_HEIGHT * 0.008,
     borderWidth: 1,
-    borderColor: '#ccc',
-    borderRadius: 5,
+    borderColor: 'rgba(150,150,150,0.2)',
+    borderRadius: 8,
+    backgroundColor: 'white',
   },
   selectedOption: {
-    backgroundColor: '#f0f0f0',
+    borderColor: '#6212B1',
+    backgroundColor: 'rgba(98,18,177,0.1)',
   },
   correctOption: {
-    backgroundColor: 'lightgreen',
+    borderColor: '#4CAF50',
+    backgroundColor: 'rgba(76,175,80,0.1)',
+  },
+  wrongOption: {
+    borderColor: '#FF5252',
+    backgroundColor: 'rgba(255,82,82,0.1)',
   },
   unclickableOption: {
-    backgroundColor: 'lightcoral',
+    borderColor: '#FF5252',
+    backgroundColor: 'rgba(255,82,82,0.1)',
   },
   explanationContainer: {
     marginTop: 20,
@@ -337,7 +468,113 @@ const styles = StyleSheet.create({
   },
   buttonContainer: {
     flexDirection: 'row',
+    justifyContent: 'center',
+    marginTop: SCREEN_HEIGHT * 0.02,
+    gap: SCREEN_WIDTH * 0.03,
+  },
+  exitButton: {
+    position: 'absolute',
+    top: SCREEN_HEIGHT * 0.02,
+    right: SCREEN_WIDTH * 0.04,
+    padding: SCREEN_HEIGHT * 0.01,
+    zIndex: 1,
+  },
+  progressContainer: {
+    flexDirection: 'row',
     justifyContent: 'space-between',
-    marginTop: 20,
+    alignItems: 'center',
+    marginTop: SCREEN_HEIGHT * 0.05,
+    marginBottom: SCREEN_HEIGHT * 0.03,
+  },
+  progressText: {
+    fontSize: SCREEN_HEIGHT * 0.018,
+    color: '#666',
+  },
+  scoreText: {
+    fontSize: SCREEN_HEIGHT * 0.018,
+    fontWeight: '600',
+    color: '#6212B1',
+  },
+  questionContainer: {
+    backgroundColor: 'rgba(98,18,177,0.05)',
+    padding: SCREEN_HEIGHT * 0.03,
+    borderRadius: 15,
+    marginBottom: SCREEN_HEIGHT * 0.03,
+  },
+  modalOverlay: {
+    flex: 1,
+    backgroundColor: 'rgba(0,0,0,0.5)',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  modalContent: {
+    backgroundColor: 'white',
+    borderRadius: 15,
+    padding: SCREEN_HEIGHT * 0.03,
+    width: '80%',
+    alignItems: 'center',
+  },
+  modalTitle: {
+    fontSize: SCREEN_HEIGHT * 0.024,
+    fontWeight: 'bold',
+    marginBottom: SCREEN_HEIGHT * 0.015,
+  },
+  modalText: {
+    fontSize: SCREEN_HEIGHT * 0.016,
+    color: '#666',
+    textAlign: 'center',
+    marginBottom: SCREEN_HEIGHT * 0.02,
+  },
+  modalButtons: {
+    flexDirection: 'row',
+    gap: SCREEN_WIDTH * 0.03,
+  },
+  modalButton: {
+    paddingVertical: SCREEN_HEIGHT * 0.012,
+    paddingHorizontal: SCREEN_WIDTH * 0.06,
+    borderRadius: 8,
+    borderWidth: 1,
+  },
+  cancelButton: {
+    borderColor: 'rgba(150,150,150,0.2)',
+  },
+  exitConfirmButton: {
+    borderColor: '#FF5252',
+  },
+  modalButtonText: {
+    fontSize: SCREEN_HEIGHT * 0.016,
+    fontWeight: '500',
+  },
+  timerContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: SCREEN_WIDTH * 0.02,
+    position: 'absolute',
+    top: SCREEN_HEIGHT * 0.02,
+    left: SCREEN_WIDTH * 0.04,
+  },
+  timerText: {
+    fontSize: SCREEN_HEIGHT * 0.016,
+    color: '#666',
+    fontFamily: 'monospace',
+  },
+  actionButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: SCREEN_WIDTH * 0.02,
+    backgroundColor: '#6212B1',
+    paddingVertical: SCREEN_HEIGHT * 0.012,
+    paddingHorizontal: SCREEN_WIDTH * 0.04,
+    borderRadius: 8,
+    minWidth: SCREEN_WIDTH * 0.3,
+  },
+  nextButton: {
+    backgroundColor: '#4CAF50',
+  },
+  actionButtonText: {
+    color: 'white',
+    fontSize: SCREEN_HEIGHT * 0.016,
+    fontWeight: '500',
   },
 });
