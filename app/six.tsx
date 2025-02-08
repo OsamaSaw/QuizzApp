@@ -1,9 +1,10 @@
-import { Button, StyleSheet, TouchableOpacity, Dimensions, Pressable, Modal, Alert } from 'react-native';
+import { Button, StyleSheet, TouchableOpacity, Dimensions, Pressable, Modal, Alert, Animated } from 'react-native';
 import { Text, View } from '@/components/Themed';
 import { useEffect, useState, useRef } from 'react';
 import { useNavigation } from "@react-navigation/native";
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { FontAwesome5 } from '@expo/vector-icons';
+import { ShakeAnimation, FloatingNumber, StarBurst } from '../components/AnimatedEffects';
 
 import questions from '@/assets/quesions/qs.json';
 
@@ -41,6 +42,11 @@ export default function TabTwoScreen() {
   const [questionTimings, setQuestionTimings] = useState<QuestionTiming[]>([]);
   const modalVisible = useRef(false);
   const [currentTime, setCurrentTime] = useState(new Date());
+  const [shake, setShake] = useState(false);
+  const [showFloatingTime, setShowFloatingTime] = useState(false);
+  const [showStar, setShowStar] = useState(false);
+  const [lastQuestionTime, setLastQuestionTime] = useState(0);
+  const scaleAnim = useRef(new Animated.Value(1)).current;
 
   useEffect(() => {
     // Initialize quiz questions
@@ -145,8 +151,30 @@ export default function TabTwoScreen() {
       setAnswerStatus('correct');
       setSelectedOption(option);
       
-      // Determine answer quality based on attempts
+      const timeSpent = (new Date().getTime() - questionStartTime.getTime()) / 1000;
+      setLastQuestionTime(timeSpent);
+      
+      // Define status before using it
       const status = attempts === 1 ? 'perfect' : attempts === 2 ? 'good' : 'okay';
+      
+      // Fixed animation sequence
+      Animated.sequence([
+        Animated.timing(scaleAnim, {
+          toValue: 1.2,
+          duration: 200,
+          useNativeDriver: true,
+        }),
+        Animated.timing(scaleAnim, {
+          toValue: 1,
+          duration: 200,
+          useNativeDriver: true,
+        }),
+      ]).start();
+      
+      if (attempts === 1) {
+        setShowStar(true);
+        setTimeout(() => setShowStar(false), 1000);
+      }
       
       setQuizResults(prev => ({
         ...prev,
@@ -170,6 +198,8 @@ export default function TabTwoScreen() {
     } else {
       setAnswerStatus('wrong');
       setSelectedOption(option);
+      setShake(true);
+      setTimeout(() => setShake(false), 300);
       setUnclickableOptions(prev => [...prev, option]);
       
       if (attempts >= 3) { // This means it's the 4th attempt
@@ -197,9 +227,15 @@ export default function TabTwoScreen() {
   };
 
   const handleNextQuestion = () => {
-    recordQuestionTime();
     if (!quizQuestions || quizQuestions.length === 0) return;
     
+    // Only show floating time for correct answers, not skips
+    if (answerStatus === 'correct') {
+      setShowFloatingTime(true);
+      setTimeout(() => setShowFloatingTime(false), 1000);
+    }
+    
+    recordQuestionTime();
     // Check if we've completed 20 questions
     if (quizResults.questionsDetails.length >= 20) {
       const finalResults = {
@@ -250,24 +286,25 @@ export default function TabTwoScreen() {
 
   const renderOptions = () => {
     return options.map(option => (
-      <TouchableOpacity
-        key={option.value}
-        style={[
-          styles.optionButton,
-          selectedOption === option.value && styles.selectedOption,
-          answerStatus === 'correct' && 
-          option.value === quizQuestions[currentQuestionIndex].answer && 
-          styles.correctOption,
-          selectedOption === option.value && 
-          answerStatus === 'wrong' && 
-          styles.wrongOption,
-          unclickableOptions.includes(option.value) && styles.unclickableOption,
-        ]}
-        onPress={() => handleAnswer(option.value)}
-        disabled={unclickableOptions.includes(option.value) || answerStatus === 'correct'}
-      >
-        <Text>{option.label}</Text>
-      </TouchableOpacity>
+      <ShakeAnimation key={option.value} shake={shake && selectedOption === option.value}>
+        <TouchableOpacity
+          style={[
+            styles.optionButton,
+            selectedOption === option.value && styles.selectedOption,
+            answerStatus === 'correct' && 
+            option.value === quizQuestions[currentQuestionIndex].answer && 
+            styles.correctOption,
+            selectedOption === option.value && 
+            answerStatus === 'wrong' && 
+            styles.wrongOption,
+            unclickableOptions.includes(option.value) && styles.unclickableOption,
+          ]}
+          onPress={() => handleAnswer(option.value)}
+          disabled={unclickableOptions.includes(option.value) || answerStatus === 'correct'}
+        >
+          <Text>{option.label}</Text>
+        </TouchableOpacity>
+      </ShakeAnimation>
     ));
   };
 
@@ -410,6 +447,15 @@ export default function TabTwoScreen() {
           </View>
         </View>
       </Modal>
+
+      {showFloatingTime && (
+        <FloatingNumber
+          value={`${lastQuestionTime.toFixed(1)}s`}
+          style={{ color: lastQuestionTime < 5 ? '#4CAF50' : '#FF9800' }}
+        />
+      )}
+      
+      {showStar && <StarBurst />}
     </View>
   );
 }
@@ -445,6 +491,7 @@ const styles = StyleSheet.create({
   correctOption: {
     borderColor: '#4CAF50',
     backgroundColor: 'rgba(76,175,80,0.1)',
+    transform: [{ scale: 1.05 }],
   },
   wrongOption: {
     borderColor: '#FF5252',
