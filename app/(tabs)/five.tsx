@@ -25,6 +25,7 @@ const countries = {
 
 export default function SettingsScreen() {
   const [name, setName] = useState('Marilyn');
+  const [email, setEmail] = useState('marilyn@gmail.com');
   const [gender, setGender] = useState('F'); // 'M' for male, 'F' for female
   const [countryCode, setCountryCode] = useState<CountryCode | null>(null);
   const [showCountryPicker, setShowCountryPicker] = useState(false);
@@ -92,6 +93,19 @@ export default function SettingsScreen() {
             value={name}
             onChangeText={setName}
             placeholder="Enter your name"
+            placeholderTextColor="#666"
+            cursorColor="#6212B1"
+            selectionColor="rgba(98,18,177,0.3)"
+          />
+        </View>
+
+        <View style={styles.settingItem}>
+          <Text style={styles.settingLabel}>Email</Text>
+          <TextInput
+            style={styles.input}
+            value={email}
+            onChangeText={setEmail}
+            placeholder="Enter your email"
             placeholderTextColor="#666"
             cursorColor="#6212B1"
             selectionColor="rgba(98,18,177,0.3)"
